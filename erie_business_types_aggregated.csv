@@ -1,0 +1,848 @@
+,NAICSCode,ProjectCountyName,JobsReported,CurrentApprovalAmount,ForgivenessAmount,PAYROLL_PROCEED,business_type,PctOfLoanForgiven,AvgPayrollSpentPerJob
+0,111120.0,1,1,1600.0,0.0,1600.0,Oilseed (except Soybean) Farming,0.0,1600.0
+1,111130.0,1,1,20832.0,0.0,20827.0,Dry Pea and Bean Farming,0.0,20827.0
+2,111140.0,2,2,4416.0,0.0,4416.0,Wheat Farming,0.0,2208.0
+3,111150.0,7,25,316649.16,187664.44,297187.16,Corn Farming,59.0,11887.0
+4,111160.0,2,2,31582.0,0.0,31582.0,Rice Farming,0.0,15791.0
+5,111199.0,5,39,227613.32,170847.44,227609.32,All Other Grain Farming,75.0,5836.0
+6,111211.0,2,11,37637.0,0.0,37635.0,Potato Farming,0.0,3421.0
+7,111219.0,14,108,736558.0,179155.74000000002,730494.0,Other Vegetable (except Potato) and Melon Farming,24.0,6764.0
+8,111331.0,1,12,54445.0,0.0,54440.0,Apple Orchards,0.0,4537.0
+9,111332.0,1,3,5900.0,0.0,5900.0,Grape Vineyards,0.0,1967.0
+10,111334.0,1,1,8362.0,0.0,8358.0,Berry (except Strawberry) Farming,0.0,8358.0
+11,111411.0,1,3,28085.0,0.0,28085.0,Mushroom Production,0.0,9362.0
+12,111419.0,5,149,577385.0,81482.94,549873.0,Other Food Crops Grown Under Cover,14.0,3690.0
+13,111421.0,9,51,389793.5,184563.81000000003,378019.5,Nursery and Tree Production,47.0,7412.0
+14,111422.0,4,23,244340.0,173804.52000000002,228010.0,Floriculture Production,71.0,9913.0
+15,111940.0,4,4,35077.07,0.0,35069.07,Hay Farming,0.0,8767.0
+16,111998.0,14,70,391613.39,212462.0,369770.39,All Other Miscellaneous Crop Farming,54.0,5282.0
+17,112111.0,3,3,39051.57,0.0,39046.57,Beef Cattle Ranching and Farming,0.0,13016.0
+18,112120.0,41,190,1516786.5000000007,880640.62,1496233.5000000007,Dairy Cattle and Milk Production,58.0,7875.0
+19,112310.0,1,291,2742260.0,0.0,2425460.0,Chicken Egg Production,0.0,8335.0
+20,112340.0,1,2,17760.0,0.0,17755.0,Poultry Hatcheries,0.0,8878.0
+21,112410.0,1,1,2479.0,0.0,2477.0,Sheep Farming,0.0,2477.0
+22,112420.0,2,2,32492.0,11722.57,32492.0,Goat Farming,36.0,16246.0
+23,112519.0,2,42,156085.0,157276.55,119778.0,Other Aquaculture,101.0,2852.0
+24,112910.0,1,3,25302.0,25495.4,25302.0,Apiculture,101.0,8434.0
+25,112920.0,16,32,272313.91000000003,6407.68,267304.91000000003,Horses and Other Equine Production,2.0,8353.0
+26,112990.0,8,146,577826.0,14863.98,576568.0,All Other Animal Production,3.0,3949.0
+27,113210.0,2,8,72565.0,36879.59,72562.0,Forest Nurseries and Gathering of Forest Products,51.0,9070.0
+28,113310.0,6,10,130029.0,20183.56,122718.0,Logging,16.0,12272.0
+29,114111.0,1,1,6255.0,6295.44,6255.0,Finfish Fishing,101.0,6255.0
+30,114210.0,1,7,52457.0,0.0,52454.0,Hunting and Trapping,0.0,7493.0
+31,115111.0,1,2,7500.0,0.0,7497.0,Cotton Ginning,0.0,3748.0
+32,115112.0,2,5,67109.0,0.0,67107.0,"Soil Preparation, Planting, and Cultivating",0.0,13421.0
+33,115113.0,1,1,20833.0,0.0,20833.0,"Crop Harvesting, Primarily by Machine",0.0,20833.0
+34,115114.0,1,7,208397.0,194109.43,208397.0,Postharvest Crop Activities (except Cotton Ginning),93.0,29771.0
+35,115115.0,1,3,25043.0,0.0,25039.0,Farm Labor Contractors and Crew Leaders,0.0,8346.0
+36,115116.0,2,3,23607.0,22645.48,23605.0,Farm Management Services,96.0,7868.0
+37,115210.0,12,47,199028.5,54722.71000000001,187691.5,Support Activities for Animal Production,27.0,3993.0
+38,115310.0,5,27,239650.83,0.0,238547.83,Support Activities for Forestry,0.0,8835.0
+39,211120.0,1,37,500515.0,0.0,500515.0,Crude Petroleum Extraction,0.0,13527.0
+40,212210.0,1,11,83732.0,0.0,83732.0,Iron Ore Mining,0.0,7612.0
+41,212222.0,1,1,20833.0,0.0,20833.0,Silver Ore Mining,0.0,20833.0
+42,212312.0,1,30,500000.0,0.0,500000.0,Crushed and Broken Limestone Mining and Quarrying,0.0,16667.0
+43,212321.0,6,146,2704138.62,6032.28,2235137.62,Construction Sand and Gravel Mining,0.0,15309.0
+44,213111.0,3,22,311800.0,188530.47999999998,304577.0,Drilling Oil and Gas Wells,60.0,13844.0
+45,213112.0,4,22,280772.5,61452.54,280094.5,Support Activities for Oil and Gas Operations,22.0,12732.0
+46,213113.0,2,2,41666.0,0.0,41666.0,Support Activities for Coal Mining,0.0,20833.0
+47,221111.0,3,10,69657.5,62047.91,69654.5,Hydroelectric Power Generation,89.0,6965.0
+48,221114.0,5,46,508708.67,0.0,498529.67,Solar Electric Power Generation,0.0,10838.0
+49,221115.0,2,17,112907.0,81860.1,112904.0,Wind Electric Power Generation,73.0,6641.0
+50,221118.0,4,66,817810.0,0.0,817807.0,Other Electric Power Generation,0.0,12391.0
+51,221122.0,3,7,88335.0,72297.40000000001,72335.0,Electric Power Distribution,82.0,10334.0
+52,221210.0,4,61,1173298.32,415683.77,1070498.32,Natural Gas Distribution,35.0,17549.0
+53,221310.0,5,50,677277.5,0.0,666821.5,Water Supply and Irrigation Systems,0.0,13336.0
+54,236115.0,196,1092,12324592.53,3004852.940000001,12007548.04,New Single-Family Housing Construction (except For-Sale Builders),24.0,10996.0
+55,236116.0,24,222,1650631.67,1092838.13,1614965.67,New Multifamily Housing Construction (except For-Sale Builders),66.0,7275.0
+56,236117.0,20,155,1543609.07,1378240.7300000002,1417179.51,New Housing For-Sale Builders,89.0,9143.0
+57,236118.0,400,1983,16595844.229999997,4990534.51,15791171.064999998,Residential Remodelers,30.0,7963.0
+58,236210.0,36,470,7481370.0,4003002.08,7107073.5,Industrial Building Construction,54.0,15121.0
+59,236220.0,200,2968,37701399.849999994,10960459.149999997,36316531.849999994,Commercial and Institutional Building Construction,29.0,12236.0
+60,237110.0,28,236,3878509.0,1765366.0400000003,3742043.0,Water and Sewer Line and Related Structures Construction,46.0,15856.0
+61,237120.0,1,41,419592.0,423638.48,419592.0,Oil and Gas Pipeline and Related Structures Construction,101.0,10234.0
+62,237130.0,8,60,716244.0,201152.09,683380.0,Power and Communication Line and Related Structures Construction,28.0,11390.0
+63,237210.0,7,32,435452.02,308682.64999999997,423992.02,Land Subdivision,71.0,13250.0
+64,237310.0,41,977,14962959.27,8912352.709999999,13861157.27,"Highway, Street, and Bridge Construction",60.0,14187.0
+65,237990.0,27,380,7027941.32,2787777.9699999997,6318499.32,Other Heavy and Civil Engineering Construction,40.0,16628.0
+66,238110.0,86,824,7936557.9799999995,2813182.1999999997,7690118.51,Poured Concrete Foundation and Structure Contractors,35.0,9333.0
+67,238120.0,8,134,1963105.0,335182.15,1631989.0,Structural Steel and Precast Concrete Contractors,17.0,12179.0
+68,238130.0,22,225,2130424.0,812159.53,2080063.0,Framing Contractors,38.0,9245.0
+69,238140.0,47,319,4604180.249999999,1260809.84,4475079.76,Masonry Contractors,27.0,14028.0
+70,238150.0,18,298,3653433.75,2474249.61,3519155.75,Glass and Glazing Contractors,68.0,11809.0
+71,238160.0,65,1033,11413906.78,4239994.230000001,10934401.78,Roofing Contractors,37.0,10585.0
+72,238170.0,12,82,492530.9,120085.23000000001,471548.9,Siding Contractors,24.0,5751.0
+73,238190.0,16,112,1065867.0,805347.0599999998,1003960.0,"Other Foundation, Structure, and Building Exterior Contractors",76.0,8964.0
+74,238210.0,186,2739,38207275.67000001,8849174.97,36562308.27,Electrical Contractors and Other Wiring Installation Contractors,23.0,13349.0
+75,238220.0,268,3210,46087499.13000001,19559346.050000012,42942613.13000001,"Plumbing, Heating, and Air-Conditioning Contractors",42.0,13378.0
+76,238290.0,19,336,4091613.0,1207772.2499999998,4024511.0,Other Building Equipment Contractors,30.0,11978.0
+77,238310.0,58,726,8184616.0,4069978.8600000003,7966357.5,Drywall and Insulation Contractors,50.0,10973.0
+78,238320.0,128,679,6230707.399999999,1837432.26,6140882.649999999,Painting and Wall Covering Contractors,29.0,9044.0
+79,238330.0,107,566,6251686.92,2154028.7899999996,6060017.92,Flooring Contractors,34.0,10707.0
+80,238340.0,8,77,928145.5,14235.01,927567.5,Tile and Terrazzo Contractors,2.0,12046.0
+81,238350.0,98,617,5716315.199999999,4031546.119999999,5665214.199999999,Finish Carpentry Contractors,71.0,9182.0
+82,238390.0,50,384,4558187.78,2761884.8700000006,4001855.97,Other Building Finishing Contractors,61.0,10421.0
+83,238910.0,79,1395,21222634.55,4287801.449999999,20300351.55,Site Preparation Contractors,20.0,14552.0
+84,238990.0,221,2861,35651734.65,10551538.18,34076158.765,All Other Specialty Trade Contractors,30.0,11911.0
+85,311111.0,3,5,38432.0,15917.19,38428.0,Dog and Cat Food Manufacturing,41.0,7686.0
+86,311119.0,3,402,4279435.0,97747.4,4258086.0,Other Animal Food Manufacturing,2.0,10592.0
+87,311211.0,1,6,33098.1,33400.06,33098.1,Flour Milling,101.0,5516.0
+88,311213.0,2,4,28440.0,7677.86,28436.0,Malt Manufacturing,27.0,7109.0
+89,311224.0,1,1,20835.0,0.0,15626.25,Soybean and Other Oilseed Processing,0.0,15626.0
+90,311340.0,4,346,3541717.0,1987919.21,3541715.0,Nonchocolate Confectionery Manufacturing,56.0,10236.0
+91,311351.0,5,150,441645.42,88891.27,429354.42,Chocolate and Confectionery Manufacturing from Cacao Beans,20.0,2862.0
+92,311352.0,4,387,3386551.0,1964788.4000000001,2789999.0,Confectionery Manufacturing from Purchased Chocolate,58.0,7209.0
+93,311412.0,6,131,1384241.25,1193724.72,1367448.68,Frozen Specialty Food Manufacturing,86.0,10439.0
+94,311421.0,2,6,22860.0,0.0,16056.0,Fruit and Vegetable Canning,0.0,2676.0
+95,311423.0,2,20,145797.0,0.0,145789.0,Dried and Dehydrated Food Manufacturing,0.0,7289.0
+96,311511.0,2,532,8707400.0,0.0,8707400.0,Fluid Milk Manufacturing,0.0,16367.0
+97,311520.0,2,422,5184170.0,0.0,5184169.0,Ice Cream and Frozen Dessert Manufacturing,0.0,12285.0
+98,311611.0,1,82,1607972.0,1621584.69,1607972.0,Animal (except Poultry) Slaughtering,101.0,19609.0
+99,311612.0,3,453,4855603.0,0.0,4854353.0,Meat Processed from Carcasses,0.0,10716.0
+100,311613.0,1,33,390441.0,0.0,390441.0,Rendering and Meat Byproduct Processing,0.0,11832.0
+101,311615.0,4,88,547249.0,366856.43,488399.0,Poultry Processing,67.0,5550.0
+102,311710.0,1,15,207900.0,209056.27,207900.0,Seafood Product Preparation and Packaging,101.0,13860.0
+103,311811.0,44,365,1743337.86,829498.58,1675988.86,Retail Bakeries,48.0,4592.0
+104,311812.0,9,179,1764032.0,1759206.44,1351697.0,Commercial Bakeries,100.0,7551.0
+105,311813.0,2,2,22372.0,0.0,22369.0,"Frozen Cakes, Pies, and Other Pastries Manufacturing",0.0,11184.0
+106,311821.0,3,17,65889.0,29900.91,65889.0,Cookie and Cracker Manufacturing,45.0,3876.0
+107,311830.0,1,92,835165.0,841914.96,595869.0,Tortilla Manufacturing,101.0,6477.0
+108,311911.0,1,10,72250.0,0.0,72250.0,Roasted Nuts and Peanut Butter Manufacturing,0.0,7225.0
+109,311919.0,4,41,372131.3,187236.71,320727.3,Other Snack Food Manufacturing,50.0,7823.0
+110,311920.0,14,154,1174229.0,620029.55,1171910.0,Coffee and Tea Manufacturing,53.0,7610.0
+111,311930.0,1,79,883150.0,0.0,755150.0,Flavoring Syrup and Concentrate Manufacturing,0.0,9559.0
+112,311941.0,3,42,501272.0,194621.9,462125.0,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing",39.0,11003.0
+113,311991.0,17,307,1535981.07,216720.21,1482778.07,Perishable Prepared Food Manufacturing,14.0,4830.0
+114,311999.0,15,91,882636.0,418082.77999999997,823717.0,All Other Miscellaneous Food Manufacturing,47.0,9052.0
+115,312111.0,2,12,83824.5,43817.66,83822.5,Soft Drink Manufacturing,52.0,6985.0
+116,312112.0,3,305,3500994.0,119544.58,3112415.0,Bottled Water Manufacturing,3.0,10205.0
+117,312113.0,1,2,17875.0,18022.41,17875.0,Ice Manufacturing,101.0,8938.0
+118,312120.0,21,587,3211697.35,406524.25,2819133.3499999996,Breweries,13.0,4803.0
+119,312130.0,4,10,42432.0,11793.55,41381.0,Wineries,28.0,4138.0
+120,312140.0,8,68,411327.08,134332.65,385249.08,Distilleries,33.0,5665.0
+121,312230.0,2,3,26147.0,0.0,26147.0,Tobacco Manufacturing,0.0,8716.0
+122,313210.0,2,14,66462.9,50890.23,66462.9,Broadwoven Fabric Mills,77.0,4747.0
+123,313220.0,2,4,26340.0,0.0,26333.0,Narrow Fabric Mills and Schiffli Machine Embroidery,0.0,6583.0
+124,313310.0,4,16,138018.0,0.0,124687.0,Textile and Fabric Finishing Mills,0.0,7793.0
+125,313320.0,1,7,66330.0,0.0,66329.0,Fabric Coating Mills,0.0,9476.0
+126,314110.0,1,4,20300.0,0.0,20300.0,Carpet and Rug Mills,0.0,5075.0
+127,314120.0,1,5,4375.0,0.0,4375.0,Curtain and Linen Mills,0.0,875.0
+128,314910.0,2,11,111033.32,91186.02,88483.32,Textile Bag and Canvas Mills,82.0,8044.0
+129,314999.0,4,25,42901.0,15460.92,42901.0,All Other Miscellaneous Textile Product Mills,36.0,1716.0
+130,315190.0,1,1,8236.0,0.0,8236.0,Other Apparel Knitting Mills,0.0,8236.0
+131,315210.0,10,96,591442.32,0.0,591421.32,Cut and Sew Apparel Contractors,0.0,6161.0
+132,315220.0,3,11,76047.0,73687.8,76041.0,Men's and Boys' Cut and Sew Apparel Manufacturing,97.0,6913.0
+133,315240.0,3,7,63400.0,23521.81,63400.0,"Women's, Girls', and Infants' Cut and Sew Apparel Manufacturing",37.0,9057.0
+134,315280.0,3,42,258582.0,184947.95,244575.0,Other Cut and Sew Apparel Manufacturing,72.0,5823.0
+135,315990.0,24,192,2312873.98,1930990.1500000001,2288794.98,Apparel Accessories and Other Apparel Manufacturing,83.0,11921.0
+136,316210.0,4,14,140376.0,99531.08,137351.0,Footwear Manufacturing,71.0,9811.0
+137,316992.0,4,4,55807.5,0.0,55803.5,Women's Handbag and Purse Manufacturing,0.0,13951.0
+138,316998.0,2,8,41342.0,29375.2,35200.0,All Other Leather Good and Allied Product Manufacturing,71.0,4400.0
+139,321213.0,1,1,20137.5,0.0,20137.5,Engineered Wood Member (except Truss) Manufacturing,0.0,20138.0
+140,321219.0,1,4,10005.0,0.0,10005.0,Reconstituted Wood Product Manufacturing,0.0,2501.0
+141,321911.0,6,29,191955.52,69588.97,187562.52,Wood Window and Door Manufacturing,36.0,6468.0
+142,321918.0,3,63,542322.0,434410.52999999997,438722.0,Other Millwork (including Flooring),80.0,6964.0
+143,321920.0,11,315,2494981.5,1996317.74,2203742.5,Wood Container and Pallet Manufacturing,80.0,6996.0
+144,321991.0,1,44,635600.0,641520.66,439938.0,Manufactured Home (Mobile Home) Manufacturing,101.0,9999.0
+145,321999.0,9,74,600866.0,183073.0,600847.0,All Other Miscellaneous Wood Product Manufacturing,30.0,8120.0
+146,322121.0,2,24,348600.0,330389.14,259665.0,Paper (except Newsprint) Mills,95.0,10819.0
+147,322211.0,4,140,1503562.5,516168.01,1386796.5,Corrugated and Solid Fiber Box Manufacturing,34.0,9906.0
+148,322212.0,3,385,3868602.0,478854.64,3318184.0,Folding Paperboard Box Manufacturing,12.0,8619.0
+149,322220.0,2,17,164128.0,129853.24,164124.0,Paper Bag and Coated and Treated Paper Manufacturing,79.0,9654.0
+150,322230.0,1,2,3800.0,0.0,3800.0,Stationery Product Manufacturing,0.0,1900.0
+151,323111.0,97,957,9866743.350000001,5233931.900000001,9514995.48,Commercial Printing (except Screen and Books),53.0,9943.0
+152,323113.0,43,286,1931665.25,493310.42,1817349.25,Commercial Screen Printing,26.0,6354.0
+153,323117.0,1,1,14250.0,0.0,14244.0,Books Printing,0.0,14244.0
+154,323120.0,8,78,683881.0,184788.11000000002,614342.0,Support Activites for Printing,27.0,7876.0
+155,324121.0,10,57,450592.62,172134.54,419851.62,Asphalt Paving Mixture and Block Manufacturing,38.0,7366.0
+156,324191.0,1,5,145717.0,0.0,145714.0,Petroleum Lubricating Oil and Grease Manufacturing,0.0,29143.0
+157,324199.0,2,2,18915.0,0.0,18911.0,All Other Petroleum and Coal Products Manufacturing,0.0,9456.0
+158,325110.0,4,35,591875.0,572846.98,591875.0,Petrochemical Manufacturing,97.0,16911.0
+159,325180.0,3,46,426129.0,416050.82999999996,426129.0,Other Basic Inorganic Chemical Manufacturing,98.0,9264.0
+160,325199.0,3,51,707429.0,664991.47,707426.0,All Other Basic Organic Chemical Manufacturing,94.0,13871.0
+161,325211.0,2,108,1200337.0,701636.63,1060661.0,Plastics Material and Resin Manufacturing,58.0,9821.0
+162,325220.0,2,20,312424.0,82138.34,239623.0,Artificial and Synthetic Fibers and Filaments Manufacturing,26.0,11981.0
+163,325311.0,2,8,168018.0,96305.68,144103.0,Nitrogenous Fertilizer Manufacturing,57.0,18013.0
+164,325320.0,2,2,41666.0,0.0,41666.0,Pesticide and Other Agricultural Chemical Manufacturing,0.0,20833.0
+165,325411.0,1,4,41370.0,0.0,41370.0,Medicinal and Botanical Manufacturing,0.0,10342.0
+166,325412.0,4,148,1808864.0,1676514.66,1587545.0,Pharmaceutical Preparation Manufacturing,93.0,10727.0
+167,325413.0,4,312,2225560.0,1123545.77,2000293.0,In-Vitro Diagnostic Substance Manufacturing,50.0,6411.0
+168,325414.0,1,3,26265.0,0.0,26265.0,Biological Product (except Diagnostic) Manufacturing,0.0,8755.0
+169,325510.0,4,105,1536011.05,201521.11,1486023.05,Paint and Coating Manufacturing,13.0,14153.0
+170,325611.0,2,2,41666.65,0.0,41661.65,Soap and Other Detergent Manufacturing,0.0,20831.0
+171,325612.0,4,269,2163007.0,2038427.03,1771916.0,Polish and Other Sanitation Good Manufacturing,94.0,6587.0
+172,325620.0,2,32,300700.0,141061.33,269618.0,Toilet Preparation Manufacturing,47.0,8426.0
+173,325910.0,1,5,44507.0,39748.37,35209.0,Printing Ink Manufacturing,89.0,7042.0
+174,325998.0,6,229,2093399.0,1473599.77,1967835.0,All Other Miscellaneous Chemical Product and Preparation Manufacturing,70.0,8593.0
+175,326111.0,2,33,251667.0,87163.17,251665.0,Plastics Bag and Pouch Manufacturing,35.0,7626.0
+176,326112.0,1,43,401192.0,405192.93,310278.0,Plastics Packaging Film and Sheet (including Laminated) Manufacturing,101.0,7216.0
+177,326121.0,1,41,510107.0,513521.88,510107.0,Unlaminated Plastics Profile Shape Manufacturing,101.0,12442.0
+178,326122.0,2,54,412080.0,224584.79,384576.0,Plastics Pipe and Pipe Fitting Manufacturing,55.0,7122.0
+179,326130.0,1,2,19800.0,19998.0,19800.0,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",101.0,9900.0
+180,326140.0,6,107,1036302.0,229211.12,871424.0,Polystyrene Foam Product Manufacturing,22.0,8144.0
+181,326150.0,2,102,1350320.5,1322719.33,1350320.5,Urethane and Other Foam Product (except Polystyrene) Manufacturing,98.0,13238.0
+182,326160.0,1,11,156300.0,157563.25,156300.0,Plastics Bottle Manufacturing,101.0,14209.0
+183,326199.0,19,352,3525783.02,251505.65999999997,3503156.02,All Other Plastics Product Manufacturing,7.0,9952.0
+184,326212.0,4,22,213346.0,120522.29,196903.0,Tire Retreading,56.0,8950.0
+185,326220.0,1,14,106480.0,0.0,106478.0,Rubber and Plastics Hoses and Belting Manufacturing,0.0,7606.0
+186,326291.0,2,28,146660.0,0.0,146658.0,Rubber Product Manufacturing for Mechanical Use,0.0,5238.0
+187,326299.0,6,357,3363119.0,2400156.84,3363114.0,All Other Rubber Product Manufacturing,71.0,9420.0
+188,327110.0,3,5,83832.0,504.3,83826.0,"Pottery, Ceramics, and Plumbing Fixture Manufacturing",1.0,16765.0
+189,327120.0,4,172,1971963.5,1547742.7999999998,1971963.5,Clay Building Material and Refractories Manufacturing,78.0,11465.0
+190,327212.0,2,7,64524.5,57566.87,64524.5,Other Pressed and Blown Glass and Glassware Manufacturing,89.0,9218.0
+191,327215.0,4,31,357282.5,165978.65,309618.5,Glass Product Manufacturing Made of Purchased Glass,46.0,9988.0
+192,327320.0,4,22,229114.0,0.0,224614.0,Ready-Mix Concrete Manufacturing,0.0,10210.0
+193,327390.0,5,64,717595.0,307548.91000000003,698270.0,Other Concrete Product Manufacturing,43.0,10910.0
+194,327910.0,3,135,1631851.0,1073723.98,1427849.0,Abrasive Product Manufacturing,66.0,10577.0
+195,327991.0,7,90,919785.0,565416.8200000001,855397.0,Cut Stone and Stone Product Manufacturing,61.0,9504.0
+196,327993.0,1,4,29577.0,29751.22,29577.0,Mineral Wool Manufacturing,101.0,7394.0
+197,327999.0,2,28,231430.0,0.0,231424.0,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,0.0,8265.0
+198,331110.0,5,61,1025974.0,962622.3899999999,984978.0,Iron and Steel Mills and Ferroalloy Manufacturing,94.0,16147.0
+199,331210.0,8,176,1974954.0,377158.10000000003,1926962.0,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,19.0,10949.0
+200,331221.0,1,8,111672.0,104265.63,89338.0,Rolled Steel Shape Manufacturing,93.0,11167.0
+201,331222.0,1,1,9500.0,9582.77,9500.0,Steel Wire Drawing,101.0,9500.0
+202,331315.0,1,4,94424.0,95109.54,94424.0,"Aluminum Sheet, Plate, and Foil Manufacturing",101.0,23606.0
+203,331410.0,1,92,1313317.0,1326306.24,1313317.0,Nonferrous Metal (except Aluminum) Smelting and Refining,101.0,14275.0
+204,331492.0,1,1,833.0,0.0,833.0,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)",0.0,833.0
+205,331511.0,1,18,244300.0,246267.79,163519.0,Iron Foundries,101.0,9084.0
+206,331524.0,3,27,271542.5,179734.62,241083.5,Aluminum Foundries (except Die-Casting),66.0,8929.0
+207,331529.0,1,16,208000.0,0.0,208000.0,Other Nonferrous Metal Foundries (except Die-Casting),0.0,13000.0
+208,332111.0,5,159,1860567.0,0.0,1860561.0,Iron and Steel Forging,0.0,11702.0
+209,332114.0,1,19,275790.0,0.0,275790.0,Custom Roll Forming,0.0,14515.0
+210,332119.0,6,226,2904413.0,1520833.71,2904404.0,"Metal Crown, Closure, and Other Metal Stamping (except Automotive)",52.0,12851.0
+211,332215.0,1,29,317902.0,320523.6,317902.0,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing",101.0,10962.0
+212,332216.0,5,166,1930945.0,454083.02,1787396.0,Saw Blade and Handtool Manufacturing,24.0,10767.0
+213,332311.0,2,4,25876.83,12544.67,25875.83,Prefabricated Metal Building and Component Manufacturing,48.0,6469.0
+214,332312.0,18,396,4425286.0,2732811.21,4205874.0,Fabricated Structural Metal Manufacturing,62.0,10621.0
+215,332313.0,10,140,1702501.9300000002,788246.83,1579699.9300000002,Plate Work Manufacturing,46.0,11284.0
+216,332321.0,1,17,192600.0,194124.97,149600.0,Metal Window and Door Manufacturing,101.0,8800.0
+217,332322.0,18,576,7961091.97,3090901.3,7709902.97,Sheet Metal Work Manufacturing,39.0,13385.0
+218,332323.0,7,26,217952.0,110613.84,208320.0,Ornamental and Architectural Metal Work Manufacturing,51.0,8012.0
+219,332410.0,5,249,4455742.0,1608153.74,4253431.0,Power Boiler and Heat Exchanger Manufacturing,36.0,17082.0
+220,332420.0,5,137,1974411.0,449292.7,1958639.0,Metal Tank (Heavy Gauge) Manufacturing,23.0,14297.0
+221,332431.0,2,2,16513.120000000003,0.0,15409.12,Metal Can Manufacturing,0.0,7705.0
+222,332439.0,2,48,467374.0,145272.04,467374.0,Other Metal Container Manufacturing,31.0,9737.0
+223,332510.0,3,128,1145280.93,0.0,1145278.93,Hardware Manufacturing,0.0,8947.0
+224,332613.0,3,22,267689.0,194303.16,253115.0,Spring Manufacturing,73.0,11505.0
+225,332618.0,6,425,4634742.0,2005530.69,4481078.0,Other Fabricated Wire Product Manufacturing,43.0,10544.0
+226,332710.0,84,1383,16343181.36,5853236.93,15568014.36,Machine Shops,36.0,11257.0
+227,332721.0,8,182,2365109.0,1047928.43,2158878.0,Precision Turned Product Manufacturing,44.0,11862.0
+228,332722.0,1,53,726602.0,0.0,726596.0,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing",0.0,13709.0
+229,332811.0,6,38,414944.68000000005,129031.97,408890.68000000005,Metal Heat Treating,31.0,10760.0
+230,332812.0,8,175,1401225.0,433388.77,1322905.0,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",31.0,7559.0
+231,332813.0,7,55,623450.0,143929.34,623444.0,"Electroplating, Plating, Polishing, Anodizing, and Coloring",23.0,11335.0
+232,332911.0,3,20,521905.0,23050.76,521903.0,Industrial Valve Manufacturing,4.0,26095.0
+233,332912.0,2,133,1885732.0,0.0,1885726.0,Fluid Power Valve and Hose Fitting Manufacturing,0.0,14178.0
+234,332913.0,4,10,186966.0,0.0,162073.0,Plumbing Fixture Fitting and Trim Manufacturing,0.0,16207.0
+235,332919.0,3,85,237854.0,176915.54,194149.0,Other Metal Valve and Pipe Fitting Manufacturing,74.0,2284.0
+236,332994.0,2,18,194497.0,195963.18,175747.0,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing",101.0,9764.0
+237,332996.0,2,73,913100.0,921340.1699999999,913100.0,Fabricated Pipe and Pipe Fitting Manufacturing,101.0,12508.0
+238,332999.0,33,562,6598884.25,3060440.48,6489011.25,All Other Miscellaneous Fabricated Metal Product Manufacturing,46.0,11546.0
+239,333111.0,2,52,307744.0,302394.63,294120.0,Farm Machinery and Equipment Manufacturing,98.0,5656.0
+240,333112.0,15,30,305905.0,112576.49,304144.0,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing,37.0,10138.0
+241,333120.0,9,119,2239598.5,200872.34999999998,2239581.5,Construction Machinery Manufacturing,9.0,18820.0
+242,333131.0,1,7,73300.0,66712.33,51399.0,Mining Machinery and Equipment Manufacturing,91.0,7343.0
+243,333132.0,2,15,144100.0,124198.57,119796.0,Oil and Gas Field Machinery and Equipment Manufacturing,86.0,7986.0
+244,333241.0,7,183,2141569.0,1058969.76,1992732.0,Food Product Machinery Manufacturing,49.0,10889.0
+245,333243.0,1,1,4500.0,4538.96,3375.0,"Sawmill, Woodworking, and Paper Machinery Manufacturing",101.0,3375.0
+246,333244.0,2,59,906237.0,0.0,906235.0,Printing Machinery and Equipment Manufacturing,0.0,15360.0
+247,333249.0,21,684,10384673.18,2917766.1700000004,10106769.18,Other Industrial Machinery Manufacturing,28.0,14776.0
+248,333318.0,12,102,1101036.82,819787.1799999999,1087122.82,Other Commercial and Service Industry Machinery Manufacturing,74.0,10658.0
+249,333413.0,6,72,886005.0,385081.26,878101.0,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing,43.0,12196.0
+250,333414.0,1,13,150000.0,150982.19,150000.0,Heating Equipment (except Warm Air Furnaces) Manufacturing,101.0,11538.0
+251,333415.0,3,125,1448472.0,1458564.8399999999,1128652.0,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing,101.0,9029.0
+252,333511.0,4,37,503673.0,192916.58,455794.0,Industrial Mold Manufacturing,38.0,12319.0
+253,333514.0,7,122,1404572.0,1093452.97,1233112.0,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing",78.0,10107.0
+254,333515.0,3,191,2115600.0,1197966.79,1819196.0,Cutting Tool and Machine Tool Accessory Manufacturing,57.0,9525.0
+255,333517.0,7,155,2495214.0,23837.01,1967220.0,Machine Tool Manufacturing,1.0,12692.0
+256,333519.0,1,8,71700.0,72436.64,71700.0,Rolling Mill and Other Metalworking Machinery Manufacturing,101.0,8962.0
+257,333611.0,2,5,54780.0,50505.56,54776.0,Turbine and Turbine Generator Set Units Manufacturing,92.0,10955.0
+258,333612.0,3,34,482880.31999999995,0.0,479947.31999999995,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing",0.0,14116.0
+259,333912.0,4,41,440309.0,351122.16000000003,412782.0,Air and Gas Compressor Manufacturing,80.0,10068.0
+260,333914.0,2,44,731815.0,728104.14,729590.0,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing",99.0,16582.0
+261,333914.0,2,44,731815.0,728104.14,729590.0,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing",99.0,16582.0
+262,333923.0,1,14,213202.0,0.0,213200.0,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing",0.0,15229.0
+263,333924.0,2,2,28522.0,0.0,28514.0,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing",0.0,14257.0
+264,333991.0,6,340,4541897.0,1173783.31,3524236.0,Power-Driven Handtool Manufacturing,26.0,10365.0
+265,333992.0,5,20,200387.0,103973.28,185786.0,Welding and Soldering Equipment Manufacturing,52.0,9289.0
+266,333994.0,1,75,1614162.0,0.0,1614160.0,Industrial Process Furnace and Oven Manufacturing,0.0,21522.0
+267,333995.0,1,22,200580.0,0.0,200574.0,Fluid Power Cylinder and Actuator Manufacturing,0.0,9117.0
+268,333997.0,2,65,639654.0,69723.56,639652.0,Scale and Balance Manufacturing,11.0,9841.0
+269,333999.0,12,382,5240644.15,1350358.1700000002,4915810.15,All Other Miscellaneous General Purpose Machinery Manufacturing,26.0,12869.0
+270,334111.0,1,25,457522.5,461370.7,457522.5,Electronic Computer Manufacturing,101.0,18301.0
+271,334112.0,2,124,1832637.0,0.0,1832635.0,Computer Storage Device Manufacturing,0.0,14779.0
+272,334118.0,7,126,1937969.0,1875694.45,1933340.0,Computer Terminal and Other Computer Peripheral Equipment Manufacturing,97.0,15344.0
+273,334220.0,9,103,1471825.0,940629.85,1411311.0,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,64.0,13702.0
+274,334290.0,2,8,104215.0,94480.13,101590.0,Other Communications Equipment Manufacturing,91.0,12699.0
+275,334310.0,6,183,1665647.0,67605.66,1665631.0,Audio and Video Equipment Manufacturing,4.0,9102.0
+276,334412.0,1,71,704100.0,709380.75,704100.0,Bare Printed Circuit Board Manufacturing,101.0,9917.0
+277,334413.0,1,1,20832.0,0.0,20832.0,Semiconductor and Related Device Manufacturing,0.0,20832.0
+278,334416.0,6,430,3540609.0,623645.03,3540609.0,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing",18.0,8234.0
+279,334417.0,1,14,221402.0,223179.28,221402.0,Electronic Connector Manufacturing,101.0,15814.0
+280,334418.0,1,1,9229.0,0.0,9228.0,Printed Circuit Assembly (Electronic Assembly) Manufacturing,0.0,9228.0
+281,334419.0,5,29,236575.5,129724.04,228991.5,Other Electronic Component Manufacturing,55.0,7896.0
+282,334510.0,3,18,279126.0,236190.78000000003,275326.0,Electromedical and Electrotherapeutic Apparatus Manufacturing,85.0,15296.0
+283,334511.0,4,16,218645.0,101194.75,210417.0,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing",46.0,13151.0
+284,334512.0,1,6,38625.0,0.0,38625.0,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use",0.0,6438.0
+285,334513.0,12,646,9187633.95,1657652.8699999999,9079361.95,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables",18.0,14055.0
+286,334515.0,1,2,16125.0,0.0,14125.0,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals,0.0,7062.0
+287,334516.0,3,31,251967.0,69350.97,233964.0,Analytical Laboratory Instrument Manufacturing,28.0,7547.0
+288,334519.0,5,156,2411389.87,729589.02,2331552.87,Other Measuring and Controlling Device Manufacturing,30.0,14946.0
+289,334614.0,1,1,17652.0,17828.52,17652.0,"Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing",101.0,17652.0
+290,335110.0,2,8,97717.0,0.0,97092.0,Electric Lamp Bulb and Part Manufacturing,0.0,12136.0
+291,335121.0,1,45,547090.0,0.0,547090.0,Residential Electric Lighting Fixture Manufacturing,0.0,12158.0
+292,335122.0,3,221,2234197.0,1139536.33,1991452.0,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing",51.0,9011.0
+293,335129.0,2,4,34833.0,0.0,34833.0,Other Lighting Equipment Manufacturing,0.0,8708.0
+294,335210.0,1,5,33322.5,33573.56,33322.5,Small Electrical Appliance Manufacturing,101.0,6664.0
+295,335311.0,2,100,1202172.5,1106013.42,1068170.5,"Power, Distribution, and Specialty Transformer Manufacturing",92.0,10682.0
+296,335312.0,1,64,752145.0,0.0,752145.0,Motor and Generator Manufacturing,0.0,11752.0
+297,335313.0,5,163,1996979.57,775297.45,1985914.57,Switchgear and Switchboard Apparatus Manufacturing,39.0,12184.0
+298,335314.0,1,18,149900.0,0.0,149900.0,Relay and Industrial Control Manufacturing,0.0,8328.0
+299,335911.0,2,31,466210.0,0.0,466203.0,Storage Battery Manufacturing,0.0,15039.0
+300,335912.0,1,15,74500.0,0.0,74500.0,Primary Battery Manufacturing,0.0,4967.0
+301,335929.0,1,16,163730.0,164672.01,163730.0,Other Communication and Energy Wire Manufacturing,101.0,10233.0
+302,335999.0,4,73,1013524.0,147732.8,1013512.0,All Other Miscellaneous Electrical Equipment and Component Manufacturing,15.0,13884.0
+303,336111.0,1,5,39795.0,40078.47,39795.0,Automobile Manufacturing,101.0,7959.0
+304,336112.0,2,30,369808.0,0.0,281133.0,Light Truck and Utility Vehicle Manufacturing,0.0,9371.0
+305,336211.0,6,490,5963227.75,3160006.78,5924755.75,Motor Vehicle Body Manufacturing,53.0,12091.0
+306,336212.0,7,547,7740742.0,152828.22,6342912.0,Truck Trailer Manufacturing,2.0,11596.0
+307,336310.0,4,20,163494.12,28288.44,163488.12,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,17.0,8174.0
+308,336320.0,1,1,11547.0,0.0,11547.0,Motor Vehicle Electrical and Electronic Equipment Manufacturing,0.0,11547.0
+309,336330.0,2,4,33960.0,6949.91,33960.0,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,20.0,8490.0
+310,336340.0,1,12,156800.0,158286.38,117600.0,Motor Vehicle Brake System Manufacturing,101.0,9800.0
+311,336350.0,3,18,213737.0,135962.05,193983.0,Motor Vehicle Transmission and Power Train Parts Manufacturing,64.0,10777.0
+312,336360.0,1,1,33956.0,0.0,33953.0,Motor Vehicle Seating and Interior Trim Manufacturing,0.0,33953.0
+313,336390.0,4,280,3471101.0,342175.45,3388080.0,Other Motor Vehicle Parts Manufacturing,10.0,12100.0
+314,336411.0,1,1,20833.0,0.0,20833.0,Aircraft Manufacturing,0.0,20833.0
+315,336412.0,2,79,1442769.0,1458420.5299999998,1442769.0,Aircraft Engine and Engine Parts Manufacturing,101.0,18263.0
+316,336413.0,4,459,5540615.0,906256.72,5140617.0,Other Aircraft Parts and Auxiliary Equipment Manufacturing,16.0,11200.0
+317,336510.0,1,96,1069280.0,1076252.29,820000.0,Railroad Rolling Stock Manufacturing,101.0,8542.0
+318,336611.0,2,4,50423.0,29767.54,38833.0,Ship Building and Repairing,59.0,9708.0
+319,336612.0,3,11,67932.0,9047.25,64016.0,Boat Building,13.0,5820.0
+320,336999.0,11,18,201985.0,0.0,201983.0,All Other Transportation Equipment Manufacturing,0.0,11221.0
+321,337110.0,15,61,519638.0,333811.02,463394.0,Wood Kitchen Cabinet and Countertop Manufacturing,64.0,7597.0
+322,337121.0,3,4,50134.0,17078.72,50132.0,Upholstered Household Furniture Manufacturing,34.0,12533.0
+323,337122.0,5,41,363337.0,199520.61,342014.0,Nonupholstered Wood Household Furniture Manufacturing,55.0,8342.0
+324,337125.0,3,7,42256.0,11660.51,42252.0,Household Furniture (except Wood and Metal) Manufacturing,28.0,6036.0
+325,337127.0,2,49,559274.0,294313.61,559272.0,Institutional Furniture Manufacturing,53.0,11414.0
+326,337211.0,3,22,237287.0,218404.36000000002,174343.0,Wood Office Furniture Manufacturing,92.0,7925.0
+327,337212.0,11,133,1523383.0,614545.36,1475475.0,Custom Architectural Woodwork and Millwork Manufacturing,40.0,11094.0
+328,337214.0,3,17,251939.0,0.0,251937.0,Office Furniture (except Wood) Manufacturing,0.0,14820.0
+329,337215.0,1,6,69800.0,0.0,64862.0,"Showcase, Partition, Shelving, and Locker Manufacturing",0.0,10810.0
+330,337910.0,2,285,332909.0,67785.15,332906.0,Mattress Manufacturing,20.0,1168.0
+331,337920.0,2,28,180400.0,90901.83,158195.0,Blind and Shade Manufacturing,50.0,5650.0
+332,339112.0,16,663,6823043.0,1489831.9100000001,6389259.0,Surgical and Medical Instrument Manufacturing,22.0,9637.0
+333,339113.0,10,110,1316375.0,534578.3,1284561.0,Surgical Appliance and Supplies Manufacturing,41.0,11678.0
+334,339114.0,7,127,1209916.0,127914.48,1109092.0,Dental Equipment and Supplies Manufacturing,11.0,8733.0
+335,339115.0,1,2,22425.0,22533.08,22425.0,Ophthalmic Goods Manufacturing,100.0,11212.0
+336,339116.0,29,699,6310562.6,1235908.56,5764616.6,Dental Laboratories,20.0,8247.0
+337,339910.0,14,53,582094.0,0.0,582079.0,Jewelry and Silverware Manufacturing,0.0,10983.0
+338,339920.0,6,29,325093.0,164158.9,311110.0,Sporting and Athletic Goods Manufacturing,50.0,10728.0
+339,339930.0,2,4,25010.0,0.0,25003.0,"Doll, Toy, and Game Manufacturing",0.0,6251.0
+340,339940.0,2,9,65000.0,50501.37,64998.0,Office Supplies (except Paper) Manufacturing,78.0,7222.0
+341,339950.0,24,167,1484273.9200000002,862390.81,1403709.8100000003,Sign Manufacturing,58.0,8405.0
+342,339991.0,4,358,4497827.5,2185767.19,4101394.5,"Gasket, Packing, and Sealing Device Manufacturing",49.0,11456.0
+343,339992.0,2,16,80900.0,6136.27,69160.0,Musical Instrument Manufacturing,8.0,4322.0
+344,339994.0,1,3,23506.0,23705.64,23506.0,"Broom, Brush, and Mop Manufacturing",101.0,7835.0
+345,339999.0,32,985,11359176.27,2501886.7199999997,10576220.77,All Other Miscellaneous Manufacturing,22.0,10737.0
+346,423110.0,35,285,3255603.61,1305109.62,2951027.61,Automobile and Other Motor Vehicle Merchant Wholesalers,40.0,10354.0
+347,423120.0,18,116,1048770.0,603987.9400000001,985255.0,Motor Vehicle Supplies and New Parts Merchant Wholesalers,58.0,8494.0
+348,423130.0,1,8,85000.0,85703.29,85000.0,Tire and Tube Merchant Wholesalers,101.0,10625.0
+349,423140.0,8,137,1081343.42,152314.28999999998,1044161.42,Motor Vehicle Parts (Used) Merchant Wholesalers,14.0,7622.0
+350,423210.0,10,221,3020842.0,1464559.71,2796224.0,Furniture Merchant Wholesalers,48.0,12653.0
+351,423220.0,15,323,3551435.47,381413.05,3462921.22,Home Furnishing Merchant Wholesalers,11.0,10721.0
+352,423310.0,9,35,500610.0,326846.81,482929.0,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",65.0,13798.0
+353,423320.0,12,43,308739.79,135169.8,283848.79,"Brick, Stone, and Related Construction Material Merchant Wholesalers",44.0,6601.0
+354,423330.0,7,137,1696725.5,893143.09,1678118.5,"Roofing, Siding, and Insulation Material Merchant Wholesalers",53.0,12249.0
+355,423390.0,18,83,1103518.0,135202.88,1079503.0,Other Construction Material Merchant Wholesalers,12.0,13006.0
+356,423410.0,1,3,14975.0,15093.98,14975.0,Photographic Equipment and Supplies Merchant Wholesalers,101.0,4992.0
+357,423420.0,12,161,993120.47,649174.5099999998,986635.22,Office Equipment Merchant Wholesalers,65.0,6128.0
+358,423430.0,16,318,4150153.0,1149739.6099999999,3334269.0,Computer and Computer Peripheral Equipment and Software Merchant Wholesalers,28.0,10485.0
+359,423440.0,5,18,205447.0,37192.33,205445.0,Other Commercial Equipment Merchant Wholesalers,18.0,11414.0
+360,423450.0,79,587,7797986.62,3128243.8599999994,7467291.5,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",40.0,12721.0
+361,423460.0,4,10,49737.0,39055.729999999996,49134.0,Ophthalmic Goods Merchant Wholesalers,79.0,4913.0
+362,423490.0,9,73,1068584.0,700450.34,1066525.0,Other Professional Equipment and Supplies Merchant Wholesalers,66.0,14610.0
+363,423510.0,17,267,3122340.0,349669.49999999994,3032953.0,Metal Service Centers and Other Metal Merchant Wholesalers,11.0,11359.0
+364,423610.0,22,205,2389157.0,1920404.8899999997,2287730.0,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",80.0,11160.0
+365,423620.0,6,96,1109420.0,133733.03,1085170.0,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",12.0,11304.0
+366,423690.0,11,46,609039.0,138913.12,605724.0,Other Electronic Parts and Equipment Merchant Wholesalers,23.0,13168.0
+367,423710.0,9,176,2015524.0,1649755.5499999998,1916343.0,Hardware Merchant Wholesalers,82.0,10888.0
+368,423720.0,24,487,5620039.0,3540778.4400000004,5327348.0,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers,63.0,10939.0
+369,423730.0,8,102,1391422.5,1107297.55,1285491.5,Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers,80.0,12603.0
+370,423740.0,3,29,332145.32,192681.16,306701.32,Refrigeration Equipment and Supplies Merchant Wholesalers,58.0,10576.0
+371,423810.0,8,43,651968.0,191488.77,541860.0,Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers,29.0,12601.0
+372,423820.0,2,4,19265.0,14397.1,15695.75,Farm and Garden Machinery and Equipment Merchant Wholesalers,75.0,3924.0
+373,423830.0,41,892,11203573.0,6410234.25,10617539.0,Industrial Machinery and Equipment Merchant Wholesalers,57.0,11903.0
+374,423840.0,35,801,9248509.469999999,3641452.7300000004,8179295.47,Industrial Supplies Merchant Wholesalers,39.0,10211.0
+375,423850.0,16,106,1205429.5,648364.64,1090889.5,Service Establishment Equipment and Supplies Merchant Wholesalers,54.0,10291.0
+376,423860.0,27,168,1593517.65,230304.19,1467361.77,Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers,14.0,8734.0
+377,423910.0,12,229,2578350.6399999997,1453020.09,2421391.6399999997,Sporting and Recreational Goods and Supplies Merchant Wholesalers,56.0,10574.0
+378,423920.0,8,281,1249460.0,27331.05,1243149.0,Toy and Hobby Goods and Supplies Merchant Wholesalers,2.0,4424.0
+379,423930.0,25,383,3859952.25,2628128.9200000004,3585445.25,Recyclable Material Merchant Wholesalers,68.0,9361.0
+380,423940.0,25,147,1148216.33,472363.8,1052586.33,"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",41.0,7160.0
+381,423990.0,34,368,4589497.58,642712.5900000001,4029230.81,Other Miscellaneous Durable Goods Merchant Wholesalers,14.0,10949.0
+382,424110.0,5,11,117367.0,48133.63,109503.0,Printing and Writing Paper Merchant Wholesalers,41.0,9955.0
+383,424120.0,13,162,1760075.02,830224.8700000001,1581187.02,Stationery and Office Supplies Merchant Wholesalers,47.0,9760.0
+384,424130.0,5,63,853222.0,824765.54,853214.0,Industrial and Personal Service Paper Merchant Wholesalers,97.0,13543.0
+385,424210.0,4,10,82517.35,3455.75,75637.35,Drugs and Druggists' Sundries Merchant Wholesalers,4.0,7564.0
+386,424310.0,6,85,1020627.0,360890.67000000004,1007097.0,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",35.0,11848.0
+387,424320.0,11,589,9211701.0,557274.02,9172036.0,Men's and Boys' Clothing and Furnishings Merchant Wholesalers,6.0,15572.0
+388,424330.0,23,24,260295.0,4534.64,260273.0,"Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers",2.0,10845.0
+389,424410.0,16,435,3582551.8,3043132.69,3539628.8,General Line Grocery Merchant Wholesalers,85.0,8137.0
+390,424420.0,5,172,1735040.88,1604535.79,1337563.88,Packaged Frozen Food Merchant Wholesalers,92.0,7777.0
+391,424430.0,1,19,116315.0,0.0,104415.0,Dairy Product (except Dried or Canned) Merchant Wholesalers,0.0,5496.0
+392,424440.0,1,3,41072.0,0.0,41068.0,Poultry and Poultry Product Merchant Wholesalers,0.0,13689.0
+393,424450.0,7,107,1029989.0,348360.67,1015872.0,Confectionery Merchant Wholesalers,34.0,9494.0
+394,424460.0,6,55,676635.5,361700.49000000005,646993.5,Fish and Seafood Merchant Wholesalers,53.0,11764.0
+395,424470.0,3,75,488742.0,390130.95,430356.0,Meat and Meat Product Merchant Wholesalers,80.0,5738.0
+396,424480.0,5,113,1057361.99,204212.55000000002,1032661.99,Fresh Fruit and Vegetable Merchant Wholesalers,19.0,9139.0
+397,424490.0,18,541,2352785.0,1994413.3299999998,2061894.0,Other Grocery and Related Products Merchant Wholesalers,85.0,3811.0
+398,424510.0,4,115,1009749.0,678160.09,1009749.0,Grain and Field Bean Merchant Wholesalers,67.0,8780.0
+399,424520.0,1,9,102200.0,0.0,102200.0,Livestock Merchant Wholesalers,0.0,11356.0
+400,424590.0,3,3,50565.0,0.0,47950.0,Other Farm Product Raw Material Merchant Wholesalers,0.0,15983.0
+401,424610.0,3,21,336714.0,316536.83,309507.0,Plastics Materials and Basic Forms and Shapes Merchant Wholesalers,94.0,14738.0
+402,424690.0,10,171,2116688.5,1179473.73,2069052.5,Other Chemical and Allied Products Merchant Wholesalers,56.0,12100.0
+403,424710.0,1,5,68250.0,63650.29,68250.0,Petroleum Bulk Stations and Terminals,93.0,13650.0
+404,424720.0,8,153,1498394.0,415527.78,1454801.0,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals),28.0,9509.0
+405,424810.0,3,37,226924.0,221140.45,226924.0,Beer and Ale Merchant Wholesalers,97.0,6133.0
+406,424820.0,6,22,108171.05,58987.8,105689.05,Wine and Distilled Alcoholic Beverage Merchant Wholesalers,55.0,4804.0
+407,424910.0,5,69,877362.0,837643.62,688187.0,Farm Supplies Merchant Wholesalers,95.0,9974.0
+408,424920.0,3,27,125547.55,11406.5,123664.55,"Book, Periodical, and Newspaper Merchant Wholesalers",9.0,4580.0
+409,424930.0,8,110,844496.0,532765.77,764583.0,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",63.0,6951.0
+410,424950.0,1,1,9485.0,0.0,9485.0,"Paint, Varnish, and Supplies Merchant Wholesalers",0.0,9485.0
+411,424990.0,25,501,4720072.27,1565078.9599999997,4425533.27,Other Miscellaneous Nondurable Goods Merchant Wholesalers,33.0,8833.0
+412,425110.0,2,22,269908.0,0.0,269903.0,Business to Business Electronic Markets,0.0,12268.0
+413,425120.0,65,350,3070331.5,1588708.1099999994,2913532.5,Wholesale Trade Agents and Brokers,52.0,8324.0
+414,441110.0,78,5504,60685106.510000005,12929556.75,51076446.96,New Car Dealers,21.0,9280.0
+415,441120.0,79,398,4124014.68,1417761.6900000002,3390173.68,Used Car Dealers,34.0,8518.0
+416,441210.0,4,43,387634.0,271423.23,387629.0,Recreational Vehicle Dealers,70.0,9015.0
+417,441222.0,15,109,933670.17,653273.0499999999,800613.17,Boat Dealers,70.0,7345.0
+418,441228.0,13,361,4260294.0,409580.54,3348761.0,"Motorcycle, ATV, and All Other Motor Vehicle Dealers",10.0,9276.0
+419,441310.0,39,306,1600168.73,619336.5999999999,1546049.73,Automotive Parts and Accessories Stores,39.0,5052.0
+420,441320.0,14,543,5012901.0,349741.81000000006,4951042.0,Tire Dealers,7.0,9118.0
+421,442110.0,37,330,2894508.0,1749759.1400000004,2746032.0,Furniture Stores,60.0,8321.0
+422,442210.0,33,310,2741040.0,1368669.6400000001,2618366.0,Floor Covering Stores,50.0,8446.0
+423,442291.0,5,33,350913.0,244780.13,313974.0,Window Treatment Stores,70.0,9514.0
+424,442299.0,24,181,1561377.3,490602.97,1413375.3,All Other Home Furnishings Stores,31.0,7809.0
+425,443141.0,6,234,2154243.0,1939905.63,2153237.0,Household Appliance Stores,90.0,9202.0
+426,443142.0,23,194,1349542.02,228937.58000000002,1338419.02,Electronics Stores,17.0,6899.0
+427,444110.0,11,140,1143424.0,654099.97,1122495.0,Home Centers,57.0,8018.0
+428,444120.0,5,29,232323.0,184375.97,186673.0,Paint and Wallpaper Stores,79.0,6437.0
+429,444130.0,24,293,2117592.45,1312643.0799999998,2026028.45,Hardware Stores,62.0,6915.0
+430,444190.0,32,377,3856594.38,1766863.33,3694649.38,Other Building Material Dealers,46.0,9800.0
+431,444210.0,8,80,779267.0,432322.35000000003,763754.0,Outdoor Power Equipment Stores,55.0,9547.0
+432,444220.0,33,429,2729179.9199999995,1772778.4,2629327.53,"Nursery, Garden Center, and Farm Supply Stores",65.0,6129.0
+433,445110.0,112,1732,8227521.569999999,4183733.11,7796067.569999999,Supermarkets and Other Grocery (except Convenience) Stores,51.0,4501.0
+434,445120.0,111,694,2505777.56,1106645.36,2313856.56,Convenience Stores,44.0,3334.0
+435,445210.0,14,167,824304.9,311751.19,767549.9,Meat Markets,38.0,4596.0
+436,445220.0,1,6,15900.0,16042.88,8930.0,Fish and Seafood Markets,101.0,1488.0
+437,445230.0,2,42,170148.75,0.0,170145.75,Fruit and Vegetable Markets,0.0,4051.0
+438,445291.0,17,223,852585.28,76733.79000000001,835780.71,Baked Goods Stores,9.0,3748.0
+439,445292.0,8,153,558895.86,339703.08,493942.12,Confectionery and Nut Stores,61.0,3228.0
+440,445299.0,28,332,1198349.7,821334.7500000002,1147993.71,All Other Specialty Food Stores,69.0,3458.0
+441,445310.0,60,588,2996896.99,1554124.13,2824060.24,"Beer, Wine, and Liquor Stores",52.0,4803.0
+442,446110.0,32,642,5143417.95,2127570.659999999,4725288.95,Pharmacies and Drug Stores,41.0,7360.0
+443,446120.0,73,201,1249371.3499999999,355207.57000000007,1224653.3699999999,"Cosmetics, Beauty Supplies, and Perfume Stores",28.0,6093.0
+444,446130.0,27,247,1572047.1,422772.66000000003,1520167.7200000002,Optical Goods Stores,27.0,6155.0
+445,446191.0,13,130,807153.0,693639.8600000001,706813.0,Food (Health) Supplement Stores,86.0,5437.0
+446,446199.0,45,466,3639187.4499999997,2275006.400000001,3502954.2999999993,All Other Health and Personal Care Stores,63.0,7517.0
+447,447110.0,86,563,2629612.0400000005,731261.3999999998,2480477.0800000005,Gasoline Stations with Convenience Stores,28.0,4406.0
+448,447190.0,12,106,529072.25,255172.50999999998,501660.25,Other Gasoline Stations,48.0,4733.0
+449,448110.0,27,98,680909.0,216110.15000000002,650762.5,Men's Clothing Stores,32.0,6640.0
+450,448120.0,47,114,722128.7100000001,135098.12,705730.53,Women's Clothing Stores,19.0,6191.0
+451,448130.0,4,23,123385.82,90606.58,121904.82,Children's and Infants' Clothing Stores,73.0,5300.0
+452,448140.0,30,152,1330150.5,108054.36,1151137.5,Family Clothing Stores,8.0,7573.0
+453,448150.0,35,83,428451.16000000003,86107.39,404404.47000000003,Clothing Accessories Stores,20.0,4872.0
+454,448190.0,43,204,1323295.7999999998,253924.11999999997,1184666.7999999998,Other Clothing Stores,19.0,5807.0
+455,448210.0,18,69,308302.5,133261.05,296191.5,Shoe Stores,43.0,4293.0
+456,448310.0,62,408,3924644.5,649865.94,3829067.19,Jewelry Stores,17.0,9385.0
+457,448320.0,1,1,12650.0,0.0,12650.0,Luggage and Leather Goods Stores,0.0,12650.0
+458,451110.0,52,402,2678194.83,1452571.37,2570446.83,Sporting Goods Stores,54.0,6394.0
+459,451120.0,22,164,1323633.12,915960.2599999999,1299083.6,"Hobby, Toy, and Game Stores",69.0,7921.0
+460,451130.0,9,27,150843.0,77326.6,139388.0,"Sewing, Needlework, and Piece Goods Stores",51.0,5163.0
+461,451140.0,14,73,445283.88,133768.94,445257.88,Musical Instrument and Supplies Stores,30.0,6099.0
+462,451211.0,12,58,273873.2,47736.990000000005,250133.13,Book Stores,17.0,4313.0
+463,451212.0,3,3,35529.0,0.0,35529.0,News Dealers and Newsstands,0.0,11843.0
+464,452210.0,3,4,46226.0,0.0,46223.0,Department Stores,0.0,11556.0
+465,452210.0,3,4,46226.0,0.0,46223.0,Department Stores,0.0,11556.0
+466,452319.0,27,261,2090955.0,1772638.96,2019221.0,All Other General Merchandise Stores,85.0,7736.0
+467,453110.0,38,269,1214701.0,601230.1600000003,1102058.0,Florists,49.0,4097.0
+468,453210.0,6,85,1027982.5700000001,496892.76,904922.5700000001,Office Supplies and Stationery Stores,48.0,10646.0
+469,453220.0,37,254,1124948.86,189679.15000000002,1069947.86,"Gift, Novelty, and Souvenir Stores",17.0,4212.0
+470,453310.0,26,370,2220123.15,481761.55999999994,2151319.15,Used Merchandise Stores,22.0,5814.0
+471,453910.0,21,76,340859.5,92728.15999999999,331477.5,Pet and Pet Supplies Stores,27.0,4362.0
+472,453920.0,16,32,242169.53,57222.78,233634.68,Art Dealers,24.0,7301.0
+473,453930.0,1,1,20645.0,0.0,20645.0,Manufactured (Mobile) Home Dealers,0.0,20645.0
+474,453991.0,25,183,960053.05,89232.26,952244.05,Tobacco Stores,9.0,5204.0
+475,453998.0,348,2290,16032000.010000002,5457530.030000003,15182792.370000003,All Other Miscellaneous Store Retailers (except Tobacco Stores),34.0,6630.0
+476,454110.0,34,158,1782405.69,756776.0000000001,1679319.89,Electronic Shopping and Mail-Order Houses,42.0,10629.0
+477,454110.0,34,158,1782405.69,756776.0000000001,1679319.89,Electronic Shopping and Mail-Order Houses,42.0,10629.0
+478,454110.0,34,158,1782405.69,756776.0000000001,1679319.89,Electronic Shopping and Mail-Order Houses,42.0,10629.0
+479,454210.0,16,64,472751.5,238792.40000000002,465711.5,Vending Machine Operators,51.0,7277.0
+480,454310.0,5,290,4629059.0,331522.08999999997,4604973.0,Fuel Dealers,7.0,15879.0
+481,454390.0,100,268,2352789.19,723682.5700000001,2210614.74,Other Direct Selling Establishments,31.0,8249.0
+482,481111.0,1,23,1168000.0,0.0,1168000.0,Scheduled Passenger Air Transportation,0.0,50783.0
+483,481112.0,2,8,85699.0,0.0,85698.0,Scheduled Freight Air Transportation,0.0,10712.0
+484,481211.0,1,1,1089.38,0.0,1089.38,Nonscheduled Chartered Passenger Air Transportation,0.0,1089.0
+485,481219.0,5,14,172899.5,15157.81,172890.5,Other Nonscheduled Air Transportation,9.0,12349.0
+486,482111.0,1,10,153200.0,0.0,153200.0,Line-Haul Railroads,0.0,15320.0
+487,483111.0,1,1,20833.0,0.0,20832.0,Deep Sea Freight Transportation,0.0,20832.0
+488,483114.0,3,90,86800.0,25981.64,71521.0,Coastal and Great Lakes Passenger Transportation,30.0,795.0
+489,484110.0,189,2407,29214014.72,8967397.49,28247066.97,"General Freight Trucking, Local",31.0,11735.0
+490,484121.0,113,471,4915287.129999999,992485.1899999998,4846124.129999999,"General Freight Trucking, Long-Distance, Truckload",20.0,10289.0
+491,484122.0,15,183,1976681.36,913784.5999999997,1952998.36,"General Freight Trucking, Long-Distance, Less Than Truckload",46.0,10672.0
+492,484210.0,20,201,1534697.9,1169404.24,1489149.9,Used Household and Office Goods Moving,76.0,7409.0
+493,484220.0,28,350,3911208.37,1184608.2499999998,3760215.37,"Specialized Freight (except Used Goods) Trucking, Local",30.0,10743.0
+494,484230.0,27,122,1585713.0,1205881.39,1565035.0,"Specialized Freight (except Used Goods) Trucking, Long-Distance",76.0,12828.0
+495,485111.0,1,26,122367.0,123309.06,122367.0,Mixed Mode Transit Systems,101.0,4706.0
+496,485112.0,1,4,67632.5,0.0,67630.5,Commuter Rail Systems,0.0,16908.0
+497,485113.0,1,1,13525.0,0.0,13525.0,Bus and Other Motor Vehicle Transit Systems,0.0,13525.0
+498,485119.0,1,5,30000.0,0.0,30000.0,Other Urban Transit Systems,0.0,6000.0
+499,485310.0,609,700,7295809.869999998,388605.34,7260488.059999998,Taxi Service,5.0,10372.0
+500,485320.0,31,275,1134471.97,196126.59000000003,1104077.97,Limousine Service,17.0,4015.0
+501,485410.0,10,1273,8124862.8,3076824.3400000003,8124847.8,School and Employee Bus Transportation,38.0,6382.0
+502,485510.0,7,323,2500607.0,1013202.84,2274592.0,Charter Bus Industry,41.0,7042.0
+503,485991.0,21,1345,8854156.569999998,1922583.12,8773663.569999998,Special Needs Transportation,22.0,6523.0
+504,485999.0,82,446,3124554.2,939520.0900000001,3020568.2,All Other Transit and Ground Passenger Transportation,30.0,6773.0
+505,487210.0,5,76,184982.75,892.15,179295.75,"Scenic and Sightseeing Transportation, Water",0.0,2359.0
+506,488119.0,2,182,1255405.0,1245035.5,1255404.0,Other Airport Operations,99.0,6898.0
+507,488190.0,4,9,84627.0,67141.46,84627.0,Other Support Activities for Air Transportation,79.0,9403.0
+508,488210.0,1,2,10000.0,10079.73,10000.0,Support Activities for Rail Transportation,101.0,5000.0
+509,488410.0,16,85,932471.0,603925.03,919000.0,Motor Vehicle Towing,65.0,10812.0
+510,488490.0,23,165,1715413.15,626721.01,1711058.15,Other Support Activities for Road Transportation,37.0,10370.0
+511,488510.0,58,833,8136114.0,3875292.7000000007,7408122.26,Freight Transportation Arrangement,48.0,8893.0
+512,488991.0,1,3,52394.0,52771.52,52394.0,Packing and Crating,101.0,17465.0
+513,488999.0,29,124,1117261.65,333775.4999999999,1091127.65,All Other Support Activities for Transportation,30.0,8799.0
+514,491110.0,2,4,39733.0,0.0,35006.0,Postal Service,0.0,8752.0
+515,492110.0,138,300,2637559.36,275294.52,2596968.36,Couriers and Express Delivery Services,10.0,8657.0
+516,492210.0,130,163,1365369.46,86584.94,1365192.46,Local Messengers and Local Delivery,6.0,8375.0
+517,493110.0,16,769,7827786.95,960898.64,6527952.95,General Warehousing and Storage,12.0,8489.0
+518,493130.0,1,68,552300.0,545717.23,552300.0,Farm Product Warehousing and Storage,99.0,8122.0
+519,493190.0,2,4,11195.0,7660.38,9723.0,Other Warehousing and Storage,68.0,2431.0
+520,511110.0,18,217,1503921.37,602622.0899999999,1476294.37,Newspaper Publishers,40.0,6803.0
+521,511120.0,10,63,541342.5,117802.66999999998,533904.5,Periodical Publishers,22.0,8475.0
+522,511130.0,8,20,134220.78,90016.97,125968.78,Book Publishers,67.0,6298.0
+523,511140.0,1,1,3855.0,0.0,2925.0,Directory and Mailing List Publishers,0.0,2925.0
+524,511191.0,2,12,114355.0,98886.22,93279.0,Greeting Card Publishers,86.0,7773.0
+525,511199.0,6,31,175989.0,153814.47999999998,173904.0,All Other Publishers,87.0,5610.0
+526,511210.0,32,331,4676324.5,3584966.339999999,4242050.5,Software Publishers,77.0,12816.0
+527,512110.0,45,122,1104588.02,485371.6100000001,1025014.02,Motion Picture and Video Production,44.0,8402.0
+528,512131.0,5,85,598295.0,306080.67,585806.0,Motion Picture Theaters (except Drive-Ins),51.0,6892.0
+529,512191.0,5,14,219184.35,13936.61,219180.35,Teleproduction and Other Postproduction Services,6.0,15656.0
+530,512199.0,4,4,33549.0,4819.66,33549.0,Other Motion Picture and Video Industries,14.0,8387.0
+531,512230.0,9,12,77147.0,0.0,75127.0,Music Publishers,0.0,6261.0
+532,512240.0,9,51,170575.0,45490.42,168888.0,Sound Recording Studios,27.0,3312.0
+533,512290.0,6,20,61941.0,27383.62,61365.0,Other Sound Recording Industries,44.0,3068.0
+534,515112.0,10,189,1557825.5,321969.02,1521261.5,Radio Stations,21.0,8049.0
+535,515120.0,6,110,1298138.59,134701.54,1272117.59,Television Broadcasting,10.0,11565.0
+536,515210.0,3,3,44529.0,0.0,44518.0,Cable and Other Subscription Programming,0.0,14839.0
+537,517311.0,1,18,212500.0,214368.84,159375.0,Wired Telecommunications Carriers,101.0,8854.0
+538,517312.0,11,184,1079929.0,140499.99999999997,1007911.0,Wireless Telecommunications Carriers (except Satellite),13.0,5478.0
+539,517410.0,3,5,42137.0,0.0,42131.0,Satellite Telecommunications,0.0,8426.0
+540,517911.0,16,543,4757985.5,1154524.24,4665513.5,Telecommunications Resellers,24.0,8592.0
+541,517919.0,28,165,2123458.67,1286559.13,2055429.53,All Other Telecommunications,61.0,12457.0
+542,518210.0,22,206,2879996.17,1881266.6900000002,2802227.17,"Data Processing, Hosting, and Related Services",65.0,13603.0
+543,519110.0,1,1,4823.0,0.0,4822.0,News Syndicates,0.0,4822.0
+544,519120.0,2,6,41427.0,11509.02,41427.0,Libraries and Archives,28.0,6904.0
+545,519130.0,11,46,551899.5,86850.56,544266.5,Internet Publishing and Broadcasting and Web Search Portals,16.0,11832.0
+546,519190.0,14,77,862687.0,379939.3,776842.0,All Other Information Services,44.0,10089.0
+547,522130.0,1,3,30000.0,0.0,30000.0,Credit Unions,0.0,10000.0
+548,522190.0,1,3,31932.0,0.0,31932.0,Other Depository Credit Intermediation,0.0,10644.0
+549,522210.0,1,1,12500.0,12600.0,9375.0,Credit Card Issuing,101.0,9375.0
+550,522220.0,26,54,778060.79,55391.78,766100.79,Sales Financing,7.0,14187.0
+551,522291.0,5,412,1966792.0,174896.77,1945296.0,Consumer Lending,9.0,4722.0
+552,522292.0,8,114,1632208.0,113057.51,1462153.0,Real Estate Credit,7.0,12826.0
+553,522293.0,3,3,62499.0,0.0,62499.0,International Trade Financing,0.0,20833.0
+554,522298.0,10,419,5133441.9,82132.72,5092193.9,All Other Nondepository Credit Intermediation,2.0,12153.0
+555,522310.0,12,65,835566.5,466816.37,787970.5,Mortgage and Nonmortgage Loan Brokers,56.0,12123.0
+556,522320.0,25,70,1036386.25,191601.97,964286.25,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",18.0,13776.0
+557,522390.0,6,125,883436.0,608265.23,850485.0,Other Activities Related to Credit Intermediation,69.0,6804.0
+558,523110.0,10,23,458182.5,387398.27999999997,366829.5,Investment Banking and Securities Dealing,85.0,15949.0
+559,523120.0,15,25,357047.0,260718.88,334576.0,Securities Brokerage,73.0,13383.0
+560,523130.0,2,4,59500.0,38984.15,59500.0,Commodity Contracts Dealing,66.0,14875.0
+561,523140.0,5,333,2370245.97,865892.25,2300229.97,Commodity Contracts Brokerage,37.0,6908.0
+562,523210.0,2,2,11628.369999999999,5867.36,10169.869999999999,Securities and Commodity Exchanges,50.0,5085.0
+563,523910.0,8,39,445483.27,9580.11,445479.27,Miscellaneous Intermediation,2.0,11423.0
+564,523920.0,21,134,1706775.57,1080762.89,1576171.57,Portfolio Management,63.0,11762.0
+565,523930.0,190,530,7247391.18,5275549.600000001,6856815.709999999,Investment Advice,73.0,12937.0
+566,523991.0,3,15,177423.0,160780.43,177422.0,"Trust, Fiduciary, and Custody Activities",91.0,11828.0
+567,523999.0,70,163,2671380.3200000003,1559545.9000000001,2586037.5700000003,Miscellaneous Financial Investment Activities,58.0,15865.0
+568,524113.0,13,47,643744.0,512666.9,628661.0,Direct Life Insurance Carriers,80.0,13376.0
+569,524114.0,19,64,732559.7799999999,544326.06,697022.04,Direct Health and Medical Insurance Carriers,74.0,10891.0
+570,524126.0,9,48,816379.0,245965.81,789854.0,Direct Property and Casualty Insurance Carriers,30.0,16455.0
+571,524128.0,6,91,1507121.0,846682.59,1301717.0,"Other Direct Insurance (except Life, Health, and Medical) Carriers",56.0,14305.0
+572,524210.0,369,1722,18535340.150000002,12655593.669999994,17599228.15,Insurance Agencies and Brokerages,68.0,10220.0
+573,524291.0,9,147,2042032.0,1675579.95,2038005.0,Claims Adjusting,82.0,13864.0
+574,524292.0,8,331,3281913.0,3300589.4000000004,2931720.0,Third Party Administration of Insurance and Pension Funds,101.0,8857.0
+575,524298.0,51,105,1268263.72,533999.1299999999,1205787.97,All Other Insurance Related Activities,42.0,11484.0
+576,525110.0,3,24,261900.0,263454.48,253400.0,Pension Funds,101.0,10558.0
+577,525120.0,5,17,270258.0,0.0,270255.0,Health and Welfare Funds,0.0,15897.0
+578,525190.0,2,2,28800.0,0.0,28798.0,Other Insurance Funds,0.0,14399.0
+579,525910.0,2,7,57881.0,58243.86,57881.0,Open-End Investment Funds,101.0,8269.0
+580,525920.0,2,37,188439.6,86296.16,188435.6,"Trusts, Estates, and Agency Accounts",46.0,5093.0
+581,525990.0,9,43,665477.5,483233.5299999999,665474.5,Other Financial Vehicles,73.0,15476.0
+582,531110.0,152,1117,8197717.88,4475979.819999998,7090948.88,Lessors of Residential Buildings and Dwellings,55.0,6348.0
+583,531120.0,62,1573,14340802.490000002,5560709.090000002,13805717.490000002,Lessors of Nonresidential Buildings (except Miniwarehouses),39.0,8777.0
+584,531130.0,13,53,223301.0,133058.12999999998,205094.0,Lessors of Miniwarehouses and Self-Storage Units,60.0,3870.0
+585,531190.0,41,343,2202143.87,1459854.4399999997,2096613.8699999999,Lessors of Other Real Estate Property,66.0,6113.0
+586,531210.0,420,1380,14909334.65,5473583.389999999,13717488.514999999,Offices of Real Estate Agents and Brokers,37.0,9940.0
+587,531311.0,132,1779,14628553.37,5629062.4700000025,14054266.37,Residential Property Managers,38.0,7900.0
+588,531312.0,24,567,1700071.3,851419.0600000002,1608926.05,Nonresidential Property Managers,50.0,2838.0
+589,531320.0,20,102,1225361.7,1058371.58,1068728.7000000002,Offices of Real Estate Appraisers,86.0,10478.0
+590,531390.0,158,924,10205387.010000002,5283474.62,9180925.76,Other Activities Related to Real Estate,52.0,9936.0
+591,532111.0,8,24,372421.5,2591.07,372421.5,Passenger Car Rental,1.0,15518.0
+592,532112.0,1,1,20833.0,0.0,20833.0,Passenger Car Leasing,0.0,20833.0
+593,532120.0,5,21,231255.0,0.0,185754.0,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",0.0,8845.0
+594,532210.0,7,28,277676.0,45966.36,243449.0,Consumer Electronics and Appliances Rental,17.0,8695.0
+595,532281.0,1,2,8810.0,0.0,8808.0,Formal Wear and Costume Rental,0.0,4404.0
+596,532283.0,2,193,2156700.0,2172737.67,2046786.0,Home Health Equipment Rental,101.0,10605.0
+597,532284.0,6,56,100309.9,24157.15,94302.9,Recreational Goods Rental,24.0,1684.0
+598,532289.0,21,113,679274.5,24931.44,648723.5,All Other Consumer Goods Rental,4.0,5741.0
+599,532310.0,5,98,1301724.0,812491.04,1139043.0,General Rental Centers,62.0,11623.0
+600,532411.0,5,5,96069.0,0.0,96067.0,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing",0.0,19213.0
+601,532412.0,16,388,5703653.0,116233.24,5703653.0,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",2.0,14700.0
+602,532420.0,11,110,1180341.0,405321.87,1106092.0,Office Machinery and Equipment Rental and Leasing,34.0,10055.0
+603,532490.0,9,51,367997.5,214344.73,317541.5,Other Commercial and Industrial Machinery and Equipment Rental and Leasing,58.0,6226.0
+604,541110.0,718,6122,85878160.60999995,36651432.89999996,81204084.11999995,Offices of Lawyers,43.0,13264.0
+605,541191.0,12,106,904087.0,387591.60000000003,894633.0,Title Abstract and Settlement Offices,43.0,8440.0
+606,541199.0,86,539,7588792.17,600425.0299999999,7479134.17,All Other Legal Services,8.0,13876.0
+607,541211.0,146,1423,18930634.3,10292445.92,18150595.05,Offices of Certified Public Accountants,54.0,12755.0
+608,541213.0,63,249,1541332.25,408536.45,1497736.5,Tax Preparation Services,27.0,6015.0
+609,541214.0,21,311,1174688.95,676258.39,1173733.95,Payroll Services,58.0,3774.0
+610,541219.0,128,840,5771192.05,3727410.4200000004,5484180.55,Other Accounting Services,65.0,6529.0
+611,541310.0,91,1030,11433873.98,4326345.66,10749265.98,Architectural Services,38.0,10436.0
+612,541320.0,33,164,1534212.59,976560.19,1513569.35,Landscape Architectural Services,64.0,9229.0
+613,541330.0,108,1948,27536306.68,8897535.930000002,26300121.68,Engineering Services,32.0,13501.0
+614,541340.0,8,31,376778.0,116469.94,336521.0,Drafting Services,31.0,10856.0
+615,541350.0,20,58,496953.69999999995,377204.41000000003,472172.69999999995,Building Inspection Services,76.0,8141.0
+616,541370.0,9,50,553193.25,227022.77,518291.25,Surveying and Mapping (except Geophysical) Services,41.0,10366.0
+617,541380.0,15,346,4151435.0,618051.23,2984663.0,Testing Laboratories,15.0,8626.0
+618,541410.0,56,76,883288.96,179607.21000000005,851728.72,Interior Design Services,20.0,11207.0
+619,541420.0,10,29,277031.5,109035.19,257336.5,Industrial Design Services,39.0,8874.0
+620,541430.0,108,198,1931462.1099999999,403047.03999999986,1886619.59,Graphic Design Services,21.0,9528.0
+621,541490.0,75,227,2437125.14,1165534.6199999999,2421794.43,Other Specialized Design Services,48.0,10669.0
+622,541511.0,106,876,11920827.83,5340025.480000002,11384359.83,Custom Computer Programming Services,45.0,12996.0
+623,541512.0,72,650,8851076.389999999,5066639.07,8457660.219999999,Computer Systems Design Services,57.0,13012.0
+624,541513.0,12,381,3140982.42,268699.39,3116419.42,Computer Facilities Management Services,9.0,8180.0
+625,541519.0,57,530,7219037.760000001,5025537.53,6775110.61,Other Computer Related Services,70.0,12783.0
+626,541611.0,188,1011,10984449.56,4218605.420000001,10562724.58,Administrative Management and General Management Consulting Services,38.0,10448.0
+627,541612.0,29,250,2458076.5,1138537.5300000003,2205633.5,Human Resources Consulting Services,46.0,8823.0
+628,541613.0,178,797,8886336.72,6553664.4,8425749.23,Marketing Consulting Services,74.0,10572.0
+629,541614.0,28,139,1907151.0,1526709.73,1846770.5,"Process, Physical Distribution, and Logistics Consulting Services",80.0,13286.0
+630,541618.0,148,463,5146933.5600000005,2591978.649999999,4998951.8100000005,Other Management Consulting Services,50.0,10797.0
+631,541620.0,44,616,5197566.19,1792040.17,5074640.69,Environmental Consulting Services,34.0,8238.0
+632,541690.0,57,418,6956943.14,3437787.7999999993,6408938.140000001,Other Scientific and Technical Consulting Services,49.0,15332.0
+633,541713.0,5,18,181192.91999999998,103931.68000000001,155863.91999999998,Research and Development in Nanotechnology,57.0,8659.0
+634,541713.0,5,18,181192.91999999998,103931.68000000001,155863.91999999998,Research and Development in Nanotechnology,57.0,8659.0
+635,541714.0,19,75,954369.0,455730.5299999999,906455.0,Research and Development in Biotechnology (except Nanobiotechnology),48.0,12086.0
+636,541715.0,15,291,5031677.62,769694.5900000001,4361326.62,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",15.0,14987.0
+637,541720.0,9,141,1235480.0,1024924.2200000001,1129356.0,Research and Development in the Social Sciences and Humanities,83.0,8010.0
+638,541810.0,77,813,10000352.53,4469020.060000001,9108009.53,Advertising Agencies,45.0,11203.0
+639,541820.0,14,28,387078.32,270479.91,355722.32,Public Relations Agencies,70.0,12704.0
+640,541840.0,4,11,58032.0,0.0,49731.0,Media Representatives,0.0,4521.0
+641,541850.0,2,38,253365.0,223771.65,253361.0,Outdoor Advertising,88.0,6667.0
+642,541860.0,6,333,2968534.0,2007467.43,2718466.0,Direct Mail Advertising,68.0,8164.0
+643,541870.0,6,12,57628.0,0.0,57623.0,Advertising Material Distribution Services,0.0,4802.0
+644,541890.0,60,163,1984554.82,969653.5300000001,1872591.32,Other Services Related to Advertising,49.0,11488.0
+645,541910.0,9,73,497541.0,461585.19999999995,497541.0,Marketing Research and Public Opinion Polling,93.0,6816.0
+646,541921.0,103,165,1186166.22,215457.21000000002,1168465.22,"Photography Studios, Portrait",18.0,7082.0
+647,541922.0,30,51,384308.45999999996,166814.25,361672.45999999996,Commercial Photography,43.0,7092.0
+648,541930.0,12,32,300274.75,8334.35,297815.75,Translation and Interpretation Services,3.0,9307.0
+649,541940.0,55,962,7244207.0,5833473.080000002,6703067.0,Veterinary Services,81.0,6968.0
+650,541990.0,234,2052,21894657.699999996,5833543.92,21161481.069999993,"All Other Professional, Scientific, and Technical Services",27.0,10313.0
+651,551112.0,18,155,2258391.25,1510153.4,2094163.25,Offices of Other Holding Companies,67.0,13511.0
+652,551114.0,4,117,1516041.0,0.0,1464729.0,"Corporate, Subsidiary, and Regional Managing Offices",0.0,12519.0
+653,561110.0,58,605,5314366.2,2261557.26,4963913.2,Office Administrative Services,43.0,8205.0
+654,561210.0,9,90,459143.5,223833.35,441042.5,Facilities Support Services,49.0,4900.0
+655,561311.0,43,1397,13482533.47,3913562.2899999996,13122583.47,Employment Placement Agencies,29.0,9393.0
+656,561312.0,16,56,945620.32,308927.68,910471.32,Executive Search Services,33.0,16258.0
+657,561320.0,33,2565,18783763.89,2327820.19,18610708.89,Temporary Help Services,12.0,7256.0
+658,561330.0,3,174,760906.0,73644.98,589131.0,Professional Employer Organizations,10.0,3386.0
+659,561410.0,3,12,139241.0,6847.88,139239.0,Document Preparation Services,5.0,11603.0
+660,561421.0,7,52,360533.0,236284.08000000002,356831.0,Telephone Answering Services,66.0,6862.0
+661,561422.0,7,79,458200.0,185598.78,429739.0,Telemarketing Bureaus and Other Contact Centers,41.0,5440.0
+662,561431.0,8,39,158262.0,110031.98999999999,137436.0,Private Mail Centers,70.0,3524.0
+663,561439.0,11,46,408367.0,247225.23,358506.0,Other Business Service Centers (including Copy Shops),61.0,7794.0
+664,561440.0,122,2366,20404252.650000002,7604254.43,19702217.43,Collection Agencies,37.0,8327.0
+665,561491.0,4,55,529690.0,94711.0,529688.0,Repossession Services,18.0,9631.0
+666,561492.0,12,110,1232374.07,593821.56,1211505.07,Court Reporting and Stenotype Services,48.0,11014.0
+667,561499.0,93,664,2851710.72,507542.43999999994,2832935.72,All Other Business Support Services,18.0,4266.0
+668,561510.0,34,103,1267741.1800000002,413022.56000000006,1246390.1800000002,Travel Agencies,33.0,12101.0
+669,561520.0,11,73,179505.82,63631.74,174709.82,Tour Operators,35.0,2393.0
+670,561591.0,2,39,445690.0,0.0,445684.0,Convention and Visitors Bureaus,0.0,11428.0
+671,561599.0,6,21,105345.0,0.0,105336.0,All Other Travel Arrangement and Reservation Services,0.0,5016.0
+672,561611.0,22,204,1544007.75,656274.5100000001,1514333.75,Investigation Services,43.0,7423.0
+673,561612.0,21,491,2313663.5,575520.13,2300592.0,Security Guards and Patrol Services,25.0,4686.0
+674,561613.0,1,3,45400.0,45696.03,45400.0,Armored Car Services,101.0,15133.0
+675,561621.0,38,389,4477726.890000001,2709884.7000000007,4155962.89,Security Systems Services (except Locksmiths),61.0,10684.0
+676,561622.0,12,83,894945.23,276877.63999999996,889277.98,Locksmiths,31.0,10714.0
+677,561710.0,12,57,412052.15,178331.13,393532.15,Exterminating and Pest Control Services,43.0,6904.0
+678,561720.0,221,2547,10794792.03,3829305.5,10234303.279999997,Janitorial Services,35.0,4018.0
+679,561730.0,357,2140,15790792.329999996,4923848.890000006,15249635.349999996,Landscaping Services,31.0,7126.0
+680,561740.0,44,181,1574487.93,526196.7899999999,1476020.43,Carpet and Upholstery Cleaning Services,33.0,8155.0
+681,561790.0,57,361,2654978.41,1869492.2,2605708.41,Other Services to Buildings and Dwellings,70.0,7218.0
+682,561910.0,12,67,572127.0,239217.91000000003,572118.0,Packaging and Labeling Services,42.0,8539.0
+683,561920.0,9,308,1276778.0,324627.53,1233568.0,Convention and Trade Show Organizers,25.0,4005.0
+684,561990.0,56,616,3645711.4899999998,1779011.2400000002,3407359.4899999998,All Other Support Services,49.0,5531.0
+685,562111.0,5,39,387964.5,131271.31,342130.5,Solid Waste Collection,34.0,8773.0
+686,562112.0,1,75,559877.0,0.0,559875.0,Hazardous Waste Collection,0.0,7465.0
+687,562119.0,8,55,964335.0,365120.0800000001,845276.0,Other Waste Collection,38.0,15369.0
+688,562219.0,2,2,6216.25,2658.82,5554.35,Other Nonhazardous Waste Treatment and Disposal,43.0,2777.0
+689,562910.0,10,239,3245697.0,2332802.34,2986279.0,Remediation Services,72.0,12495.0
+690,562920.0,3,86,1111747.9,0.0,1111742.9,Materials Recovery Facilities,0.0,12927.0
+691,562991.0,5,21,207238.12,120319.44999999998,200263.12,Septic Tank and Related Services,58.0,9536.0
+692,562998.0,8,31,333164.0,89764.48000000001,319937.0,All Other Miscellaneous Waste Management Services,27.0,10321.0
+693,611110.0,69,4039,34125374.15,18054710.130000003,30485046.069999997,Elementary and Secondary Schools,53.0,7548.0
+694,611210.0,4,192,1273953.0,1243771.77,1260753.0,Junior Colleges,98.0,6566.0
+695,611310.0,9,777,6190913.0,1945511.23,5714473.0,"Colleges, Universities, and Professional Schools",31.0,7355.0
+696,611410.0,1,1,15541.0,0.0,15539.0,Business and Secretarial Schools,0.0,15539.0
+697,611420.0,2,9,59221.27,56807.1,59221.27,Computer Training,96.0,6580.0
+698,611430.0,25,146,877353.05,395972.31,783940.31,Professional and Management Development Training,45.0,5369.0
+699,611511.0,25,63,548104.0,173718.23,515515.0,Cosmetology and Barber Schools,32.0,8183.0
+700,611512.0,1,7,92300.0,92981.99,92300.0,Flight Training,101.0,13186.0
+701,611513.0,7,61,266331.0,126548.05,248522.0,Apprenticeship Training,48.0,4074.0
+702,611519.0,8,55,286065.0,118215.37,278030.0,Other Technical and Trade Schools,41.0,5055.0
+703,611610.0,54,391,1021759.59,395429.47000000003,968318.09,Fine Arts Schools,39.0,2477.0
+704,611620.0,98,977,3317446.2400000007,1004297.3399999997,3198693.9400000004,Sports and Recreation Instruction,30.0,3274.0
+705,611630.0,1,1,3139.0,0.0,3139.0,Language Schools,0.0,3139.0
+706,611691.0,31,205,790743.0,392408.75000000006,781906.75,Exam Preparation and Tutoring,50.0,3814.0
+707,611692.0,8,104,463568.0,2014.96,463557.0,Automobile Driving Schools,0.0,4457.0
+708,611699.0,60,855,4023853.86,1691258.2799999998,3613824.36,All Other Miscellaneous Schools and Instruction,42.0,4227.0
+709,611710.0,94,946,6147623.9799999995,3388988.78,5711588.7299999995,Educational Support Services,55.0,6038.0
+710,621111.0,509,10818,128963793.25999999,48940768.73000006,117815714.83999999,Offices of Physicians (except Mental Health Specialists),38.0,10891.0
+711,621112.0,90,1137,14198532.82,5775648.77,12696400.25,"Offices of Physicians, Mental Health Specialists",41.0,11167.0
+712,621210.0,429,5180,43410059.31,16105634.160000008,40854795.440000005,Offices of Dentists,37.0,7887.0
+713,621310.0,200,689,5119123.21,2625939.520000001,4775710.850000001,Offices of Chiropractors,51.0,6931.0
+714,621320.0,82,678,5640174.03,2570789.350000001,5242864.03,Offices of Optometrists,46.0,7733.0
+715,621330.0,93,220,1573734.5099999998,547046.29,1491846.2899999998,Offices of Mental Health Practitioners (except Physicians),35.0,6781.0
+716,621340.0,128,1904,15298020.420000002,3940024.139999998,14738721.920000002,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",26.0,7741.0
+717,621391.0,26,106,709981.0,303563.61,674510.0,Offices of Podiatrists,43.0,6363.0
+718,621399.0,179,700,6771256.1499999985,3321860.819999999,6579518.969999999,Offices of All Other Miscellaneous Health Practitioners,49.0,9399.0
+719,621420.0,24,1111,12516600.0,1888522.9399999997,12305192.0,Outpatient Mental Health and Substance Abuse Centers,15.0,11076.0
+720,621491.0,3,106,828423.88,50835.22,823040.88,HMO Medical Centers,6.0,7765.0
+721,621493.0,9,802,6004185.5,2266072.04,5591340.5,Freestanding Ambulatory Surgical and Emergency Centers,38.0,6972.0
+722,621498.0,51,577,6597455.0,1523562.7200000002,6044359.0,All Other Outpatient Care Centers,23.0,10475.0
+723,621511.0,19,275,3095062.5,493716.30999999994,2997639.5,Medical Laboratories,16.0,10901.0
+724,621512.0,14,883,9086062.5,2483140.0000000005,8460987.5,Diagnostic Imaging Centers,27.0,9582.0
+725,621610.0,110,3549,21507529.24,10141614.839999998,19697355.24,Home Health Care Services,47.0,5550.0
+726,621910.0,11,687,4424205.0,3918210.06,4013320.0,Ambulance Services,89.0,5842.0
+727,621991.0,1,212,2102127.0,0.0,1891127.0,Blood and Organ Banks,0.0,8920.0
+728,621999.0,36,272,2712125.38,990644.29,2458977.38,All Other Miscellaneous Ambulatory Health Care Services,37.0,9040.0
+729,622110.0,23,1151,17561457.5,2097417.91,17151789.25,General Medical and Surgical Hospitals,12.0,14902.0
+730,622210.0,4,305,2998935.38,0.0,2251727.0300000003,Psychiatric and Substance Abuse Hospitals,0.0,7383.0
+731,622310.0,4,5,47997.0,12297.6,45497.0,Specialty (except Psychiatric and Substance Abuse) Hospitals,26.0,9099.0
+732,623110.0,46,5564,43519784.910000004,4192683.8699999996,38821398.14000001,Nursing Care Facilities (Skilled Nursing Facilities),10.0,6977.0
+733,623210.0,3,1500,13108243.0,0.0,13108230.0,Residential Intellectual and Developmental Disability Facilities,0.0,8739.0
+734,623220.0,6,879,7501780.0,0.0,7069162.0,Residential Mental Health and Substance Abuse Facilities,0.0,8042.0
+735,623312.0,21,1154,7623499.5,3325043.76,6792105.5,Assisted Living Facilities for the Elderly,44.0,5886.0
+736,623990.0,7,597,8562176.3,0.0,8539430.3,Other Residential Care Facilities,0.0,14304.0
+737,624110.0,49,901,4485858.5,1974852.0900000003,4339567.5,Child and Youth Services,44.0,4816.0
+738,624120.0,31,1719,17435980.11,1837323.06,17418800.53,Services for the Elderly and Persons with Disabilities,11.0,10133.0
+739,624190.0,51,1270,7232821.64,3533919.1399999997,6434402.159999999,Other Individual and Family Services,49.0,5066.0
+740,624210.0,16,384,1722360.92,1389086.7000000002,1527572.19,Community Food Services,81.0,3978.0
+741,624221.0,10,301,2100599.0,844565.98,2100594.0,Temporary Shelters,40.0,6979.0
+742,624229.0,9,282,2462884.0,1519246.98,2208907.0,Other Community Housing Services,62.0,7833.0
+743,624230.0,4,490,5010162.0,575746.6,4721566.0,Emergency and Other Relief Services,11.0,9636.0
+744,624310.0,4,10,132997.0,57182.7,119793.0,Vocational Rehabilitation Services,43.0,11979.0
+745,624410.0,270,3588,17149128.099999998,5040731.67,16499141.854999999,Child Day Care Services,29.0,4598.0
+746,711110.0,27,453,2154862.12,303984.63,2011969.87,Theater Companies and Dinner Theaters,14.0,4441.0
+747,711120.0,36,309,759461.21,205084.70000000004,723419.96,Dance Companies,27.0,2341.0
+748,711130.0,49,340,3814223.95,1713821.88,3633468.95,Musical Groups and Artists,45.0,10687.0
+749,711190.0,32,85,522472.02999999997,105649.61,493346.02999999997,Other Performing Arts Companies,20.0,5804.0
+750,711211.0,17,105,358019.35000000003,90869.81,330780.35000000003,Sports Teams and Clubs,25.0,3150.0
+751,711212.0,4,19,107251.0,0.0,85951.0,Racetracks,0.0,4524.0
+752,711219.0,10,83,262038.79,166523.15999999997,261722.54,Other Spectator Sports,64.0,3153.0
+753,711310.0,21,152,593030.5,42000.26,564290.5,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",7.0,3712.0
+754,711320.0,25,154,563393.08,111739.71999999999,542118.0800000001,"Promoters of Performing Arts, Sports, and Similar Events without Facilities",20.0,3520.0
+755,711410.0,20,57,527589.53,83560.91,519066.53,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",16.0,9106.0
+756,711510.0,145,190,1642774.43,183158.87000000005,1612036.94,"Independent Artists, Writers, and Performers",11.0,8484.0
+757,712110.0,28,614,6457572.0,2902599.2300000004,6003425.0,Museums,45.0,9778.0
+758,712120.0,8,101,1030609.5,263323.44,999056.5,Historical Sites,26.0,9892.0
+759,712130.0,3,218,2367647.0,1116174.94,2233647.0,Zoos and Botanical Gardens,47.0,10246.0
+760,712190.0,5,57,621849.12,507856.99000000005,585670.12,Nature Parks and Other Similar Institutions,82.0,10275.0
+761,713110.0,6,550,1088364.49,17384.94,1085352.49,Amusement and Theme Parks,2.0,1973.0
+762,713120.0,9,212,1458496.0,11160.68,1447123.0,Amusement Arcades,1.0,6826.0
+763,713290.0,1,37,184301.42,0.0,184301.42,Other Gambling Industries,0.0,4981.0
+764,713910.0,26,724,3333924.35,532027.8200000001,3305403.35,Golf Courses and Country Clubs,16.0,4565.0
+765,713920.0,4,292,334542.72,44531.8,323492.72,Skiing Facilities,13.0,1108.0
+766,713930.0,10,116,658981.65,298009.77,645349.65,Marinas,45.0,5563.0
+767,713940.0,263,3986,11114605.77,4350557.970000001,10437933.03,Fitness and Recreational Sports Centers,39.0,2619.0
+768,713950.0,38,598,1874951.72,511383.22,1792423.72,Bowling Centers,27.0,2997.0
+769,713990.0,60,988,2208442.34,440526.48,2077071.34,All Other Amusement and Recreation Industries,20.0,2102.0
+770,721110.0,192,5188,34807001.410000004,7390320.000000003,33235158.03,Hotels (except Casino Hotels) and Motels,21.0,6406.0
+771,721191.0,11,26,170554.43,50041.89,156738.43,Bed-and-Breakfast Inns,29.0,6028.0
+772,721199.0,44,179,1317803.5,186257.74,1239408.0,All Other Traveler Accommodation,14.0,6924.0
+773,721211.0,9,122,555730.0,295508.75,521572.0,RV (Recreational Vehicle) Parks and Campgrounds,53.0,4275.0
+774,721214.0,3,133,590053.5,227145.41,581201.5,Recreational and Vacation Camps (except Campgrounds),38.0,4370.0
+775,721310.0,1,1,29165.0,0.0,29165.0,"Rooming and Boarding Houses, Dormitories, and Workers' Camps",0.0,29165.0
+776,722310.0,146,1151,7505999.300000001,2139702.2299999995,6891356.3,Food Service Contractors,29.0,5987.0
+777,722320.0,146,2024,12847366.21,1659985.4900000002,12532101.21,Caterers,13.0,6192.0
+778,722330.0,61,394,3075970.35,134168.31,2913623.6899999995,Mobile Food Services,4.0,7395.0
+779,722410.0,153,1736,6119553.46,1179009.4800000002,5821600.53,Drinking Places (Alcoholic Beverages),19.0,3353.0
+780,722511.0,1212,28605,140338390.26,30082178.470000025,134379181.80999997,Full-Service Restaurants,21.0,4698.0
+781,722513.0,428,11395,50399876.86,16560256.100000005,44688841.98999999,Limited-Service Restaurants,33.0,3922.0
+782,722514.0,11,167,792179.17,112140.75,774775.17,"Cafeterias, Grill Buffets, and Buffets",14.0,4639.0
+783,722515.0,58,934,3555442.96,691531.2,3496631.45,Snack and Nonalcoholic Beverage Bars,19.0,3744.0
+784,811111.0,316,1515,13451424.069999998,4810434.380000001,12813673.819999998,General Automotive Repair,36.0,8458.0
+785,811112.0,1,1,4300.0,0.0,4300.0,Automotive Exhaust System Repair,0.0,4300.0
+786,811113.0,16,100,726194.0,363959.45,625940.0,Automotive Transmission Repair,50.0,6259.0
+787,811118.0,28,89,863153.1400000001,436593.51999999996,850254.1400000001,Other Automotive Mechanical and Electrical Repair and Maintenance,51.0,9553.0
+788,811121.0,88,764,6874529.56,2488918.8499999996,6260764.06,"Automotive Body, Paint, and Interior Repair and Maintenance",36.0,8195.0
+789,811122.0,13,61,410140.19000000006,201973.39,311840.75000000006,Automotive Glass Replacement Shops,49.0,5112.0
+790,811191.0,4,80,627255.0,567356.48,504171.0,Automotive Oil Change and Lubrication Shops,90.0,6302.0
+791,811192.0,24,208,1461495.0,505033.07,1340613.5,Car Washes,35.0,6445.0
+792,811198.0,45,303,2223013.3000000003,700822.5299999999,2010022.6349999998,All Other Automotive Repair and Maintenance,32.0,6634.0
+793,811211.0,13,265,2205342.5,336328.88,1962316.5,Consumer Electronics Repair and Maintenance,15.0,7405.0
+794,811212.0,22,107,880209.0,648333.34,809012.0,Computer and Office Machine Repair and Maintenance,74.0,7561.0
+795,811219.0,14,40,460162.36,244469.24000000002,406892.9,Other Electronic and Precision Equipment Repair and Maintenance,53.0,10172.0
+796,811310.0,58,479,5703958.15,3756966.409999999,5406612.9,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,66.0,11287.0
+797,811411.0,5,12,109436.0,28187.95,105429.0,Home and Garden Equipment Repair and Maintenance,26.0,8786.0
+798,811412.0,19,107,1018418.0,621438.99,996473.0,Appliance Repair and Maintenance,61.0,9313.0
+799,811420.0,12,19,162141.24,0.0,158707.74,Reupholstery and Furniture Repair,0.0,8353.0
+800,811430.0,6,8,65835.0,0.0,64525.0,Footwear and Leather Goods Repair,0.0,8066.0
+801,811490.0,38,115,913728.9199999999,253390.4,909614.7999999999,Other Personal and Household Goods Repair and Maintenance,28.0,7910.0
+802,812111.0,216,503,4164885.7100000004,860377.0799999996,4061977.2300000004,Barber Shops,21.0,8076.0
+803,812112.0,895,3002,19536646.680000003,3470791.63,18753035.049999993,Beauty Salons,18.0,6247.0
+804,812113.0,190,831,4090446.01,917076.5600000005,3917858.4699999997,Nail Salons,22.0,4715.0
+805,812191.0,9,89,310085.9,197385.59000000003,287056.44,Diet and Weight Reducing Centers,64.0,3225.0
+806,812199.0,161,790,4471951.31,1262171.46,4373779.0200000005,Other Personal Care Services,28.0,5536.0
+807,812210.0,41,253,1831468.0,1229953.69,1607493.25,Funeral Homes and Funeral Services,67.0,6354.0
+808,812220.0,8,209,2086473.0,145743.13999999998,2014930.0,Cemeteries and Crematories,7.0,9641.0
+809,812310.0,24,153,723331.03,195876.95,701388.03,Coin-Operated Laundries and Drycleaners,27.0,4584.0
+810,812320.0,51,653,3777859.48,1650127.4199999997,3552209.73,Drycleaning and Laundry Services (except Coin-Operated),44.0,5440.0
+811,812331.0,4,50,316622.0,238260.63,316618.0,Linen Supply,75.0,6332.0
+812,812910.0,100,710,3457200.0799999987,1062924.99,3295866.599999999,Pet Care (except Veterinary) Services,31.0,4642.0
+813,812921.0,3,21,133933.0,59794.69,124730.0,Photofinishing Laboratories (except One-Hour),45.0,5940.0
+814,812930.0,8,797,4396262.0,43527.81,3928245.0,Parking Lots and Garages,1.0,4929.0
+815,812990.0,278,1197,6976341.220000001,1483588.1299999994,6767762.24,All Other Personal Services,21.0,5654.0
+816,813110.0,392,4584,25532344.11,12736983.309999991,23956210.685,Religious Organizations,50.0,5226.0
+817,813211.0,14,179,769743.52,368682.3,733944.39,Grantmaking Foundations,48.0,4100.0
+818,813212.0,9,303,2799246.0,904843.31,2619880.0,Voluntary Health Organizations,32.0,8646.0
+819,813219.0,32,475,4872557.0,1077158.4900000002,4677043.0,Other Grantmaking and Giving Services,22.0,9846.0
+820,813311.0,5,29,179997.65,111712.98,165807.65,Human Rights Organizations,62.0,5718.0
+821,813312.0,12,291,2894386.0,967107.21,2729138.0,"Environment, Conservation and Wildlife Organizations",33.0,9378.0
+822,813319.0,24,795,6603338.0,1497811.2100000002,5767035.0,Other Social Advocacy Organizations,23.0,7254.0
+823,813410.0,60,1520,11001221.94,1716250.9999999995,10837553.94,Civic and Social Organizations,16.0,7130.0
+824,813910.0,27,126,1571734.0,150005.56,1571704.0,Business Associations,10.0,12474.0
+825,813920.0,15,42,394579.0,213687.63,362233.0,Professional Organizations,54.0,8625.0
+826,813930.0,7,34,915474.0,0.0,912337.0,Labor Unions and Similar Labor Organizations,0.0,26833.0
+827,813990.0,18,73,381077.65,280679.72,375550.65,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)",74.0,5145.0
+828,814110.0,7,65,301380.83999999997,133927.75999999998,293971.61,Private Households,44.0,4523.0
+829,921110.0,2,21,141532.0,121606.08,141532.0,Executive Offices,86.0,6740.0
+830,921120.0,1,1,10000.0,10102.19,10000.0,Legislative Bodies,101.0,10000.0
+831,921130.0,7,7,112594.0,33076.899999999994,109237.0,Public Finance Activities,29.0,15605.0
+832,921190.0,1,1,11250.0,0.0,11246.0,Other General Government Support,0.0,11246.0
+833,922110.0,3,7,47700.0,17419.78,47698.0,Courts,37.0,6814.0
+834,922130.0,79,372,5236180.69,1219526.92,5142114.69,Legal Counsel and Prosecution,23.0,13823.0
+835,922160.0,4,39,536467.0,500734.76999999996,469265.0,Fire Protection,93.0,12032.0
+836,923110.0,26,464,3078230.09,1858441.28,2662668.59,Administration of Education Programs,60.0,5739.0
+837,923120.0,2,12,64400.0,49868.65,51522.0,Administration of Public Health Programs,77.0,4294.0
+838,923130.0,1,13,199480.0,0.0,199476.0,"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",0.0,15344.0
+839,925110.0,7,37,205899.0,132676.96999999997,202220.0,Administration of Housing Programs,64.0,5465.0
+840,925120.0,2,2,28889.370000000003,14545.58,25287.370000000003,Administration of Urban Planning and Community and Rural Development,50.0,12644.0
+841,926110.0,3,20,301727.5,25511.72,301726.5,Administration of General Economic Programs,8.0,15086.0
+842,926120.0,1,1,14710.0,0.0,14706.0,Regulation and Administration of Transportation Programs,0.0,14706.0
+843,926130.0,1,10,93300.0,93808.68,93300.0,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities",101.0,9330.0
+844,926140.0,2,2,26500.0,18017.7,22597.0,Regulation of Agricultural Marketing and Commodities,68.0,11298.0
+845,926150.0,3,11,94452.0,0.0,94448.0,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",0.0,8586.0
+846,928120.0,1,1,28157.0,0.0,28156.0,International Affairs,0.0,28156.0

@@ -1,0 +1,848 @@
+,NAICSCode, ProjectCountyName , JobsReported , CurrentApprovalAmount , ForgivenessAmount ,business_type,% of loan forgiven
+780,722511," 1,212 "," 28,605 "," 140,338,390 "," 30,082,178 ",Full-Service Restaurants,21%
+781,722513, 428 ," 11,395 "," 50,399,877 "," 16,560,256 ",Limited-Service Restaurants,33%
+710,621111, 509 ," 10,818 "," 128,963,793 "," 48,940,769 ",Offices of Physicians (except Mental Health Specialists),38%
+604,541110, 718 ," 6,122 "," 85,878,161 "," 36,651,433 ",Offices of Lawyers,43%
+732,623110, 46 ," 5,564 "," 43,519,785 "," 4,192,684 ",Nursing Care Facilities (Skilled Nursing Facilities),10%
+414,441110, 78 ," 5,504 "," 60,685,107 "," 12,929,557 ",New Car Dealers,21%
+770,721110, 192 ," 5,188 "," 34,807,001 "," 7,390,320 ",Hotels (except Casino Hotels) and Motels,21%
+712,621210, 429 ," 5,180 "," 43,410,059 "," 16,105,634 ",Offices of Dentists,37%
+816,813110, 392 ," 4,584 "," 25,532,344 "," 12,736,983 ",Religious Organizations,50%
+693,611110, 69 ," 4,039 "," 34,125,374 "," 18,054,710 ",Elementary and Secondary Schools,53%
+767,713940, 263 ," 3,986 "," 11,114,606 "," 4,350,558 ",Fitness and Recreational Sports Centers,39%
+745,624410, 270 ," 3,588 "," 17,149,128 "," 5,040,732 ",Child Day Care Services,29%
+725,621610, 110 ," 3,549 "," 21,507,529 "," 10,141,615 ",Home Health Care Services,47%
+75,238220, 268 ," 3,210 "," 46,087,499 "," 19,559,346 ","Plumbing, Heating, and Air-Conditioning Contractors",42%
+803,812112, 895 ," 3,002 "," 19,536,647 "," 3,470,792 ",Beauty Salons,18%
+59,236220, 200 ," 2,968 "," 37,701,400 "," 10,960,459 ",Commercial and Institutional Building Construction,29%
+84,238990, 221 ," 2,861 "," 35,651,735 "," 10,551,538 ",All Other Specialty Trade Contractors,30%
+74,238210, 186 ," 2,739 "," 38,207,276 "," 8,849,175 ",Electrical Contractors and Other Wiring Installation Contractors,23%
+657,561320, 33 ," 2,565 "," 18,783,764 "," 2,327,820 ",Temporary Help Services,12%
+678,561720, 221 ," 2,547 "," 10,794,792 "," 3,829,306 ",Janitorial Services,35%
+489,484110, 189 ," 2,407 "," 29,214,015 "," 8,967,397 ","General Freight Trucking, Local",31%
+664,561440, 122 ," 2,366 "," 20,404,253 "," 7,604,254 ",Collection Agencies,37%
+475,453998, 348 ," 2,290 "," 16,032,000 "," 5,457,530 ",All Other Miscellaneous Store Retailers (except Tobacco Stores),34%
+679,561730, 357 ," 2,140 "," 15,790,792 "," 4,923,849 ",Landscaping Services,31%
+650,541990, 234 ," 2,052 "," 21,894,658 "," 5,833,544 ","All Other Professional, Scientific, and Technical Services",27%
+777,722320, 146 ," 2,024 "," 12,847,366 "," 1,659,985 ",Caterers,13%
+57,236118, 400 ," 1,983 "," 16,595,844 "," 4,990,535 ",Residential Remodelers,30%
+613,541330, 108 ," 1,948 "," 27,536,307 "," 8,897,536 ",Engineering Services,32%
+716,621340, 128 ," 1,904 "," 15,298,020 "," 3,940,024 ","Offices of Physical, Occupational and Speech Therapists, and Audiologists",26%
+587,531311, 132 ," 1,779 "," 14,628,553 "," 5,629,062 ",Residential Property Managers,38%
+779,722410, 153 ," 1,736 "," 6,119,553 "," 1,179,009 ",Drinking Places (Alcoholic Beverages),19%
+433,445110, 112 ," 1,732 "," 8,227,522 "," 4,183,733 ",Supermarkets and Other Grocery (except Convenience) Stores,51%
+572,524210, 369 ," 1,722 "," 18,535,340 "," 12,655,594 ",Insurance Agencies and Brokerages,68%
+738,624120, 31 ," 1,719 "," 17,435,980 "," 1,837,323 ",Services for the Elderly and Persons with Disabilities,11%
+583,531120, 62 ," 1,573 "," 14,340,802 "," 5,560,709 ",Lessors of Nonresidential Buildings (except Miniwarehouses),39%
+823,813410, 60 ," 1,520 "," 11,001,222 "," 1,716,251 ",Civic and Social Organizations,16%
+784,811111, 316 ," 1,515 "," 13,451,424 "," 4,810,434 ",General Automotive Repair,36%
+733,623210, 3 ," 1,500 "," 13,108,243 ", -   ,Residential Intellectual and Developmental Disability Facilities,0%
+607,541211, 146 ," 1,423 "," 18,930,634 "," 10,292,446 ",Offices of Certified Public Accountants,54%
+655,561311, 43 ," 1,397 "," 13,482,533 "," 3,913,562 ",Employment Placement Agencies,29%
+83,238910, 79 ," 1,395 "," 21,222,635 "," 4,287,801 ",Site Preparation Contractors,20%
+226,332710, 84 ," 1,383 "," 16,343,181 "," 5,853,237 ",Machine Shops,36%
+586,531210, 420 ," 1,380 "," 14,909,335 "," 5,473,583 ",Offices of Real Estate Agents and Brokers,37%
+503,485991, 21 ," 1,345 "," 8,854,157 "," 1,922,583 ",Special Needs Transportation,22%
+501,485410, 10 ," 1,273 "," 8,124,863 "," 3,076,824 ",School and Employee Bus Transportation,38%
+739,624190, 51 ," 1,270 "," 7,232,822 "," 3,533,919 ",Other Individual and Family Services,49%
+815,812990, 278 ," 1,197 "," 6,976,341 "," 1,483,588 ",All Other Personal Services,21%
+735,623312, 21 ," 1,154 "," 7,623,500 "," 3,325,044 ",Assisted Living Facilities for the Elderly,44%
+729,622110, 23 ," 1,151 "," 17,561,458 "," 2,097,418 ",General Medical and Surgical Hospitals,12%
+776,722310, 146 ," 1,151 "," 7,505,999 "," 2,139,702 ",Food Service Contractors,29%
+711,621112, 90 ," 1,137 "," 14,198,533 "," 5,775,649 ","Offices of Physicians, Mental Health Specialists",41%
+582,531110, 152 ," 1,117 "," 8,197,718 "," 4,475,980 ",Lessors of Residential Buildings and Dwellings,55%
+719,621420, 24 ," 1,111 "," 12,516,600 "," 1,888,523 ",Outpatient Mental Health and Substance Abuse Centers,15%
+54,236115, 196 ," 1,092 "," 12,324,593 "," 3,004,853 ",New Single-Family Housing Construction (except For-Sale Builders),24%
+71,238160, 65 ," 1,033 "," 11,413,907 "," 4,239,994 ",Roofing Contractors,37%
+611,541310, 91 ," 1,030 "," 11,433,874 "," 4,326,346 ",Architectural Services,38%
+626,541611, 188 ," 1,011 "," 10,984,450 "," 4,218,605 ",Administrative Management and General Management Consulting Services,38%
+769,713990, 60 , 988 ," 2,208,442 "," 440,526 ",All Other Amusement and Recreation Industries,20%
+345,339999, 32 , 985 ," 11,359,176 "," 2,501,887 ",All Other Miscellaneous Manufacturing,22%
+64,237310, 41 , 977 ," 14,962,959 "," 8,912,353 ","Highway, Street, and Bridge Construction",60%
+704,611620, 98 , 977 ," 3,317,446 "," 1,004,297 ",Sports and Recreation Instruction,30%
+649,541940, 55 , 962 ," 7,244,207 "," 5,833,473 ",Veterinary Services,81%
+151,323111, 97 , 957 ," 9,866,743 "," 5,233,932 ",Commercial Printing (except Screen and Books),53%
+709,611710, 94 , 946 ," 6,147,624 "," 3,388,989 ",Educational Support Services,55%
+783,722515, 58 , 934 ," 3,555,443 "," 691,531 ",Snack and Nonalcoholic Beverage Bars,19%
+590,531390, 158 , 924 ," 10,205,387 "," 5,283,475 ",Other Activities Related to Real Estate,52%
+737,624110, 49 , 901 ," 4,485,859 "," 1,974,852 ",Child and Youth Services,44%
+373,423830, 41 , 892 ," 11,203,573 "," 6,410,234 ",Industrial Machinery and Equipment Merchant Wholesalers,57%
+724,621512, 14 , 883 ," 9,086,063 "," 2,483,140 ",Diagnostic Imaging Centers,27%
+734,623220, 6 , 879 ," 7,501,780 ", -   ,Residential Mental Health and Substance Abuse Facilities,0%
+622,541511, 106 , 876 ," 11,920,828 "," 5,340,025 ",Custom Computer Programming Services,45%
+708,611699, 60 , 855 ," 4,023,854 "," 1,691,258 ",All Other Miscellaneous Schools and Instruction,42%
+610,541219, 128 , 840 ," 5,771,192 "," 3,727,410 ",Other Accounting Services,65%
+511,488510, 58 , 833 ," 8,136,114 "," 3,875,293 ",Freight Transportation Arrangement,48%
+804,812113, 190 , 831 ," 4,090,446 "," 917,077 ",Nail Salons,22%
+66,238110, 86 , 824 ," 7,936,558 "," 2,813,182 ",Poured Concrete Foundation and Structure Contractors,35%
+638,541810, 77 , 813 ," 10,000,353 "," 4,469,020 ",Advertising Agencies,45%
+721,621493, 9 , 802 ," 6,004,186 "," 2,266,072 ",Freestanding Ambulatory Surgical and Emergency Centers,38%
+374,423840, 35 , 801 ," 9,248,509 "," 3,641,453 ",Industrial Supplies Merchant Wholesalers,39%
+628,541613, 178 , 797 ," 8,886,337 "," 6,553,664 ",Marketing Consulting Services,74%
+814,812930, 8 , 797 ," 4,396,262 "," 43,528 ",Parking Lots and Garages,1%
+822,813319, 24 , 795 ," 6,603,338 "," 1,497,811 ",Other Social Advocacy Organizations,23%
+806,812199, 161 , 790 ," 4,471,951 "," 1,262,171 ",Other Personal Care Services,28%
+695,611310, 9 , 777 ," 6,190,913 "," 1,945,511 ","Colleges, Universities, and Professional Schools",31%
+517,493110, 16 , 769 ," 7,827,787 "," 960,899 ",General Warehousing and Storage,12%
+788,811121, 88 , 764 ," 6,874,530 "," 2,488,919 ","Automotive Body, Paint, and Interior Repair and Maintenance",36%
+77,238310, 58 , 726 ," 8,184,616 "," 4,069,979 ",Drywall and Insulation Contractors,50%
+764,713910, 26 , 724 ," 3,333,924 "," 532,028 ",Golf Courses and Country Clubs,16%
+812,812910, 100 , 710 ," 3,457,200 "," 1,062,925 ",Pet Care (except Veterinary) Services,31%
+499,485310, 609 , 700 ," 7,295,810 "," 388,605 ",Taxi Service,5%
+718,621399, 179 , 700 ," 6,771,256 "," 3,321,861 ",Offices of All Other Miscellaneous Health Practitioners,49%
+336,339116, 29 , 699 ," 6,310,563 "," 1,235,909 ",Dental Laboratories,20%
+434,445120, 111 , 694 ," 2,505,778 "," 1,106,645 ",Convenience Stores,44%
+713,621310, 200 , 689 ," 5,119,123 "," 2,625,940 ",Offices of Chiropractors,51%
+726,621910, 11 , 687 ," 4,424,205 "," 3,918,210 ",Ambulance Services,89%
+247,333249, 21 , 684 ," 10,384,673 "," 2,917,766 ",Other Industrial Machinery Manufacturing,28%
+78,238320, 128 , 679 ," 6,230,707 "," 1,837,432 ",Painting and Wall Covering Contractors,29%
+714,621320, 82 , 678 ," 5,640,174 "," 2,570,789 ",Offices of Optometrists,46%
+667,561499, 93 , 664 ," 2,851,711 "," 507,542 ",All Other Business Support Services,18%
+332,339112, 16 , 663 ," 6,823,043 "," 1,489,832 ",Surgical and Medical Instrument Manufacturing,22%
+810,812320, 51 , 653 ," 3,777,859 "," 1,650,127 ",Drycleaning and Laundry Services (except Coin-Operated),44%
+623,541512, 72 , 650 ," 8,851,076 "," 5,066,639 ",Computer Systems Design Services,57%
+285,334513, 12 , 646 ," 9,187,634 "," 1,657,653 ","Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables",18%
+442,446110, 32 , 642 ," 5,143,418 "," 2,127,571 ",Pharmacies and Drug Stores,41%
+81,238350, 98 , 617 ," 5,716,315 "," 4,031,546 ",Finish Carpentry Contractors,71%
+631,541620, 44 , 616 ," 5,197,566 "," 1,792,040 ",Environmental Consulting Services,34%
+684,561990, 56 , 616 ," 3,645,711 "," 1,779,011 ",All Other Support Services,49%
+757,712110, 28 , 614 ," 6,457,572 "," 2,902,599 ",Museums,45%
+653,561110, 58 , 605 ," 5,314,366 "," 2,261,557 ",Office Administrative Services,43%
+768,713950, 38 , 598 ," 1,874,952 "," 511,383 ",Bowling Centers,27%
+736,623990, 7 , 597 ," 8,562,176 ", -   ,Other Residential Care Facilities,0%
+387,424320, 11 , 589 ," 9,211,701 "," 557,274 ",Men's and Boys' Clothing and Furnishings Merchant Wholesalers,6%
+441,445310, 60 , 588 ," 2,996,897 "," 1,554,124 ","Beer, Wine, and Liquor Stores",52%
+360,423450, 79 , 587 ," 7,797,987 "," 3,128,244 ","Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",40%
+118,312120, 21 , 587 ," 3,211,697 "," 406,524 ",Breweries,13%
+722,621498, 51 , 577 ," 6,597,455 "," 1,523,563 ",All Other Outpatient Care Centers,23%
+217,332322, 18 , 576 ," 7,961,092 "," 3,090,901 ",Sheet Metal Work Manufacturing,39%
+588,531312, 24 , 567 ," 1,700,071 "," 851,419 ",Nonresidential Property Managers,50%
+79,238330, 107 , 566 ," 6,251,687 "," 2,154,029 ",Flooring Contractors,34%
+447,447110, 86 , 563 ," 2,629,612 "," 731,261 ",Gasoline Stations with Convenience Stores,28%
+238,332999, 33 , 562 ," 6,598,884 "," 3,060,440 ",All Other Miscellaneous Fabricated Metal Product Manufacturing,46%
+761,713110, 6 , 550 ," 1,088,364 "," 17,385 ",Amusement and Theme Parks,2%
+306,336212, 7 , 547 ," 7,740,742 "," 152,828 ",Truck Trailer Manufacturing,2%
+420,441320, 14 , 543 ," 5,012,901 "," 349,742 ",Tire Dealers,7%
+540,517911, 16 , 543 ," 4,757,986 "," 1,154,524 ",Telecommunications Resellers,24%
+397,424490, 18 , 541 ," 2,352,785 "," 1,994,413 ",Other Grocery and Related Products Merchant Wholesalers,85%
+606,541199, 86 , 539 ," 7,588,792 "," 600,425 ",All Other Legal Services,8%
+96,311511, 2 , 532 ," 8,707,400 ", -   ,Fluid Milk Manufacturing,0%
+565,523930, 190 , 530 ," 7,247,391 "," 5,275,550 ",Investment Advice,73%
+625,541519, 57 , 530 ," 7,219,038 "," 5,025,538 ",Other Computer Related Services,70%
+802,812111, 216 , 503 ," 4,164,886 "," 860,377 ",Barber Shops,21%
+411,424990, 25 , 501 ," 4,720,072 "," 1,565,079 ",Other Miscellaneous Nondurable Goods Merchant Wholesalers,33%
+673,561612, 21 , 491 ," 2,313,664 "," 575,520 ",Security Guards and Patrol Services,25%
+305,336211, 6 , 490 ," 5,963,228 "," 3,160,007 ",Motor Vehicle Body Manufacturing,53%
+743,624230, 4 , 490 ," 5,010,162 "," 575,747 ",Emergency and Other Relief Services,11%
+368,423720, 24 , 487 ," 5,620,039 "," 3,540,778 ",Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers,63%
+796,811310, 58 , 479 ," 5,703,958 "," 3,756,966 ",Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,66%
+819,813219, 32 , 475 ," 4,872,557 "," 1,077,158 ",Other Grantmaking and Giving Services,22%
+490,484121, 113 , 471 ," 4,915,287 "," 992,485 ","General Freight Trucking, Long-Distance, Truckload",20%
+58,236210, 36 , 470 ," 7,481,370 "," 4,003,002 ",Industrial Building Construction,54%
+446,446199, 45 , 466 ," 3,639,187 "," 2,275,006 ",All Other Health and Personal Care Stores,63%
+836,923110, 26 , 464 ," 3,078,230 "," 1,858,441 ",Administration of Education Programs,60%
+630,541618, 148 , 463 ," 5,146,934 "," 2,591,979 ",Other Management Consulting Services,50%
+316,336413, 4 , 459 ," 5,540,615 "," 906,257 ",Other Aircraft Parts and Auxiliary Equipment Manufacturing,16%
+99,311612, 3 , 453 ," 4,855,603 ", -   ,Meat Processed from Carcasses,0%
+746,711110, 27 , 453 ," 2,154,862 "," 303,985 ",Theater Companies and Dinner Theaters,14%
+504,485999, 82 , 446 ," 3,124,554 "," 939,520 ",All Other Transit and Ground Passenger Transportation,30%
+389,424410, 16 , 435 ," 3,582,552 "," 3,043,133 ",General Line Grocery Merchant Wholesalers,85%
+278,334416, 6 , 430 ," 3,540,609 "," 623,645 ","Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing",18%
+432,444220, 33 , 429 ," 2,729,180 "," 1,772,778 ","Nursery, Garden Center, and Farm Supply Stores",65%
+225,332618, 6 , 425 ," 4,634,742 "," 2,005,531 ",Other Fabricated Wire Product Manufacturing,43%
+97,311520, 2 , 422 ," 5,184,170 ", -   ,Ice Cream and Frozen Dessert Manufacturing,0%
+554,522298, 10 , 419 ," 5,133,442 "," 82,133 ",All Other Nondepository Credit Intermediation,2%
+632,541690, 57 , 418 ," 6,956,943 "," 3,437,788 ",Other Scientific and Technical Consulting Services,49%
+551,522291, 5 , 412 ," 1,966,792 "," 174,897 ",Consumer Lending,9%
+456,448310, 62 , 408 ," 3,924,645 "," 649,866 ",Jewelry Stores,17%
+86,311119, 3 , 402 ," 4,279,435 "," 97,747 ",Other Animal Food Manufacturing,2%
+458,451110, 52 , 402 ," 2,678,195 "," 1,452,571 ",Sporting Goods Stores,54%
+415,441120, 79 , 398 ," 4,124,015 "," 1,417,762 ",Used Car Dealers,34%
+214,332312, 18 , 396 ," 4,425,286 "," 2,732,811 ",Fabricated Structural Metal Manufacturing,62%
+778,722330, 61 , 394 ," 3,075,970 "," 134,168 ",Mobile Food Services,4%
+703,611610, 54 , 391 ," 1,021,760 "," 395,429 ",Fine Arts Schools,39%
+675,561621, 38 , 389 ," 4,477,727 "," 2,709,885 ",Security Systems Services (except Locksmiths),61%
+601,532412, 16 , 388 ," 5,703,653 "," 116,233 ","Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",2%
+92,311352, 4 , 387 ," 3,386,551 "," 1,964,788 ",Confectionery Manufacturing from Purchased Chocolate,58%
+148,322212, 3 , 385 ," 3,868,602 "," 478,855 ",Folding Paperboard Box Manufacturing,12%
+82,238390, 50 , 384 ," 4,558,188 "," 2,761,885 ",Other Building Finishing Contractors,61%
+740,624210, 16 , 384 ," 1,722,361 "," 1,389,087 ",Community Food Services,81%
+379,423930, 25 , 383 ," 3,859,952 "," 2,628,129 ",Recyclable Material Merchant Wholesalers,68%
+269,333999, 12 , 382 ," 5,240,644 "," 1,350,358 ",All Other Miscellaneous General Purpose Machinery Manufacturing,26%
+624,541513, 12 , 381 ," 3,140,982 "," 268,699 ",Computer Facilities Management Services,9%
+65,237990, 27 , 380 ," 7,027,941 "," 2,787,778 ",Other Heavy and Civil Engineering Construction,40%
+430,444190, 32 , 377 ," 3,856,594 "," 1,766,863 ",Other Building Material Dealers,46%
+834,922130, 79 , 372 ," 5,236,181 "," 1,219,527 ",Legal Counsel and Prosecution,23%
+470,453310, 26 , 370 ," 2,220,123 "," 481,762 ",Used Merchandise Stores,22%
+381,423990, 34 , 368 ," 4,589,498 "," 642,713 ",Other Miscellaneous Durable Goods Merchant Wholesalers,14%
+103,311811, 44 , 365 ," 1,743,338 "," 829,499 ",Retail Bakeries,48%
+418,441228, 13 , 361 ," 4,260,294 "," 409,581 ","Motorcycle, ATV, and All Other Motor Vehicle Dealers",10%
+681,561790, 57 , 361 ," 2,654,978 "," 1,869,492 ",Other Services to Buildings and Dwellings,70%
+342,339991, 4 , 358 ," 4,497,828 "," 2,185,767 ","Gasket, Packing, and Sealing Device Manufacturing",49%
+187,326299, 6 , 357 ," 3,363,119 "," 2,400,157 ",All Other Rubber Product Manufacturing,71%
+183,326199, 19 , 352 ," 3,525,783 "," 251,506 ",All Other Plastics Product Manufacturing,7%
+493,484220, 28 , 350 ," 3,911,208 "," 1,184,608 ","Specialized Freight (except Used Goods) Trucking, Local",30%
+413,425120, 65 , 350 ," 3,070,332 "," 1,588,708 ",Wholesale Trade Agents and Brokers,52%
+617,541380, 15 , 346 ," 4,151,435 "," 618,051 ",Testing Laboratories,15%
+90,311340, 4 , 346 ," 3,541,717 "," 1,987,919 ",Nonchocolate Confectionery Manufacturing,56%
+585,531190, 41 , 343 ," 2,202,144 "," 1,459,854 ",Lessors of Other Real Estate Property,66%
+264,333991, 6 , 340 ," 4,541,897 "," 1,173,783 ",Power-Driven Handtool Manufacturing,26%
+748,711130, 49 , 340 ," 3,814,224 "," 1,713,822 ",Musical Groups and Artists,45%
+76,238290, 19 , 336 ," 4,091,613 "," 1,207,772 ",Other Building Equipment Contractors,30%
+642,541860, 6 , 333 ," 2,968,534 "," 2,007,467 ",Direct Mail Advertising,68%
+561,523140, 5 , 333 ," 2,370,246 "," 865,892 ",Commodity Contracts Brokerage,37%
+440,445299, 28 , 332 ," 1,198,350 "," 821,335 ",All Other Specialty Food Stores,69%
+526,511210, 32 , 331 ," 4,676,325 "," 3,584,966 ",Software Publishers,77%
+574,524292, 8 , 331 ," 3,281,913 "," 3,300,589 ",Third Party Administration of Insurance and Pension Funds,101%
+421,442110, 37 , 330 ," 2,894,508 "," 1,749,759 ",Furniture Stores,60%
+351,423220, 15 , 323 ," 3,551,435 "," 381,413 ",Home Furnishing Merchant Wholesalers,11%
+502,485510, 7 , 323 ," 2,500,607 "," 1,013,203 ",Charter Bus Industry,41%
+69,238140, 47 , 319 ," 4,604,180 "," 1,260,810 ",Masonry Contractors,27%
+358,423430, 16 , 318 ," 4,150,153 "," 1,149,740 ",Computer and Computer Peripheral Equipment and Software Merchant Wholesalers,28%
+143,321920, 11 , 315 ," 2,494,982 "," 1,996,318 ",Wood Container and Pallet Manufacturing,80%
+167,325413, 4 , 312 ," 2,225,560 "," 1,123,546 ",In-Vitro Diagnostic Substance Manufacturing,50%
+609,541214, 21 , 311 ," 1,174,689 "," 676,258 ",Payroll Services,58%
+422,442210, 33 , 310 ," 2,741,040 "," 1,368,670 ",Floor Covering Stores,50%
+747,711120, 36 , 309 ," 759,461 "," 205,085 ",Dance Companies,27%
+683,561920, 9 , 308 ," 1,276,778 "," 324,628 ",Convention and Trade Show Organizers,25%
+113,311991, 17 , 307 ," 1,535,981 "," 216,720 ",Perishable Prepared Food Manufacturing,14%
+419,441310, 39 , 306 ," 1,600,169 "," 619,337 ",Automotive Parts and Accessories Stores,39%
+116,312112, 3 , 305 ," 3,500,994 "," 119,545 ",Bottled Water Manufacturing,3%
+730,622210, 4 , 305 ," 2,998,935 ", -   ,Psychiatric and Substance Abuse Hospitals,0%
+818,813212, 9 , 303 ," 2,799,246 "," 904,843 ",Voluntary Health Organizations,32%
+792,811198, 45 , 303 ," 2,223,013 "," 700,823 ",All Other Automotive Repair and Maintenance,32%
+741,624221, 10 , 301 ," 2,100,599 "," 844,566 ",Temporary Shelters,40%
+515,492110, 138 , 300 ," 2,637,559 "," 275,295 ",Couriers and Express Delivery Services,10%
+70,238150, 18 , 298 ," 3,653,434 "," 2,474,250 ",Glass and Glazing Contractors,68%
+429,444130, 24 , 293 ," 2,117,592 "," 1,312,643 ",Hardware Stores,62%
+765,713920, 4 , 292 ," 334,543 "," 44,532 ",Skiing Facilities,13%
+636,541715, 15 , 291 ," 5,031,678 "," 769,695 ","Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",15%
+821,813312, 12 , 291 ," 2,894,386 "," 967,107 ","Environment, Conservation and Wildlife Organizations",33%
+19,112310, 1 , 291 ," 2,742,260 ", -   ,Chicken Egg Production,0%
+480,454310, 5 , 290 ," 4,629,059 "," 331,522 ",Fuel Dealers,7%
+152,323113, 43 , 286 ," 1,931,665 "," 493,310 ",Commercial Screen Printing,26%
+346,423110, 35 , 285 ," 3,255,604 "," 1,305,110 ",Automobile and Other Motor Vehicle Merchant Wholesalers,40%
+330,337910, 2 , 285 ," 332,909 "," 67,785 ",Mattress Manufacturing,20%
+742,624229, 9 , 282 ," 2,462,884 "," 1,519,247 ",Other Community Housing Services,62%
+378,423920, 8 , 281 ," 1,249,460 "," 27,331 ",Toy and Hobby Goods and Supplies Merchant Wholesalers,2%
+313,336390, 4 , 280 ," 3,471,101 "," 342,175 ",Other Motor Vehicle Parts Manufacturing,10%
+723,621511, 19 , 275 ," 3,095,063 "," 493,716 ",Medical Laboratories,16%
+500,485320, 31 , 275 ," 1,134,472 "," 196,127 ",Limousine Service,17%
+728,621999, 36 , 272 ," 2,712,125 "," 990,644 ",All Other Miscellaneous Ambulatory Health Care Services,37%
+171,325612, 4 , 269 ," 2,163,007 "," 2,038,427 ",Polish and Other Sanitation Good Manufacturing,94%
+467,453110, 38 , 269 ," 1,214,701 "," 601,230 ",Florists,49%
+481,454390, 100 , 268 ," 2,352,789 "," 723,683 ",Other Direct Selling Establishments,31%
+363,423510, 17 , 267 ," 3,122,340 "," 349,669 ",Metal Service Centers and Other Metal Merchant Wholesalers,11%
+793,811211, 13 , 265 ," 2,205,343 "," 336,329 ",Consumer Electronics Repair and Maintenance,15%
+466,452319, 27 , 261 ," 2,090,955 "," 1,772,639 ",All Other General Merchandise Stores,85%
+469,453220, 37 , 254 ," 1,124,949 "," 189,679 ","Gift, Novelty, and Souvenir Stores",17%
+807,812210, 41 , 253 ," 1,831,468 "," 1,229,954 ",Funeral Homes and Funeral Services,67%
+627,541612, 29 , 250 ," 2,458,077 "," 1,138,538 ",Human Resources Consulting Services,46%
+219,332410, 5 , 249 ," 4,455,742 "," 1,608,154 ",Power Boiler and Heat Exchanger Manufacturing,36%
+608,541213, 63 , 249 ," 1,541,332 "," 408,536 ",Tax Preparation Services,27%
+444,446130, 27 , 247 ," 1,572,047 "," 422,773 ",Optical Goods Stores,27%
+689,562910, 10 , 239 ," 3,245,697 "," 2,332,802 ",Remediation Services,72%
+60,237110, 28 , 236 ," 3,878,509 "," 1,765,366 ",Water and Sewer Line and Related Structures Construction,46%
+425,443141, 6 , 234 ," 2,154,243 "," 1,939,906 ",Household Appliance Stores,90%
+377,423910, 12 , 229 ," 2,578,351 "," 1,453,020 ",Sporting and Recreational Goods and Supplies Merchant Wholesalers,56%
+174,325998, 6 , 229 ," 2,093,399 "," 1,473,600 ",All Other Miscellaneous Chemical Product and Preparation Manufacturing,70%
+621,541490, 75 , 227 ," 2,437,125 "," 1,165,535 ",Other Specialized Design Services,48%
+210,332119, 6 , 226 ," 2,904,413 "," 1,520,834 ","Metal Crown, Closure, and Other Metal Stamping (except Automotive)",52%
+68,238130, 22 , 225 ," 2,130,424 "," 812,160 ",Framing Contractors,38%
+438,445291, 17 , 223 ," 852,585 "," 76,734 ",Baked Goods Stores,9%
+55,236116, 24 , 222 ," 1,650,632 "," 1,092,838 ",New Multifamily Housing Construction (except For-Sale Builders),66%
+350,423210, 10 , 221 ," 3,020,842 "," 1,464,560 ",Furniture Merchant Wholesalers,48%
+292,335122, 3 , 221 ," 2,234,197 "," 1,139,536 ","Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing",51%
+715,621330, 93 , 220 ," 1,573,735 "," 547,046 ",Offices of Mental Health Practitioners (except Physicians),35%
+759,712130, 3 , 218 ," 2,367,647 "," 1,116,175 ",Zoos and Botanical Gardens,47%
+520,511110, 18 , 217 ," 1,503,921 "," 602,622 ",Newspaper Publishers,40%
+727,621991, 1 , 212 ," 2,102,127 ", -   ,Blood and Organ Banks,0%
+762,713120, 9 , 212 ," 1,458,496 "," 11,161 ",Amusement Arcades,1%
+808,812220, 8 , 209 ," 2,086,473 "," 145,743 ",Cemeteries and Crematories,7%
+791,811192, 24 , 208 ," 1,461,495 "," 505,033 ",Car Washes,35%
+542,518210, 22 , 206 ," 2,879,996 "," 1,881,267 ","Data Processing, Hosting, and Related Services",65%
+364,423610, 22 , 205 ," 2,389,157 "," 1,920,405 ","Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",80%
+706,611691, 31 , 205 ," 790,743 "," 392,409 ",Exam Preparation and Tutoring,50%
+672,561611, 22 , 204 ," 1,544,008 "," 656,275 ",Investigation Services,43%
+454,448190, 43 , 204 ," 1,323,296 "," 253,924 ",Other Clothing Stores,19%
+492,484210, 20 , 201 ," 1,534,698 "," 1,169,404 ",Used Household and Office Goods Moving,76%
+443,446120, 73 , 201 ," 1,249,371 "," 355,208 ","Cosmetics, Beauty Supplies, and Perfume Stores",28%
+620,541430, 108 , 198 ," 1,931,462 "," 403,047 ",Graphic Design Services,21%
+426,443142, 23 , 194 ," 1,349,542 "," 228,938 ",Electronics Stores,17%
+596,532283, 2 , 193 ," 2,156,700 "," 2,172,738 ",Home Health Equipment Rental,101%
+135,315990, 24 , 192 ," 2,312,874 "," 1,930,990 ",Apparel Accessories and Other Apparel Manufacturing,83%
+694,611210, 4 , 192 ," 1,273,953 "," 1,243,772 ",Junior Colleges,98%
+254,333515, 3 , 191 ," 2,115,600 "," 1,197,967 ",Cutting Tool and Machine Tool Accessory Manufacturing,57%
+756,711510, 145 , 190 ," 1,642,774 "," 183,159 ","Independent Artists, Writers, and Performers",11%
+18,112120, 41 , 190 ," 1,516,787 "," 880,641 ",Dairy Cattle and Milk Production,58%
+534,515112, 10 , 189 ," 1,557,826 "," 321,969 ",Radio Stations,21%
+538,517312, 11 , 184 ," 1,079,929 "," 140,500 ",Wireless Telecommunications Carriers (except Satellite),13%
+244,333241, 7 , 183 ," 2,141,569 "," 1,058,970 ",Food Product Machinery Manufacturing,49%
+491,484122, 15 , 183 ," 1,976,681 "," 913,785 ","General Freight Trucking, Long-Distance, Less Than Truckload",46%
+275,334310, 6 , 183 ," 1,665,647 "," 67,606 ",Audio and Video Equipment Manufacturing,4%
+474,453991, 25 , 183 ," 960,053 "," 89,232 ",Tobacco Stores,9%
+227,332721, 8 , 182 ," 2,365,109 "," 1,047,928 ",Precision Turned Product Manufacturing,44%
+506,488119, 2 , 182 ," 1,255,405 "," 1,245,036 ",Other Airport Operations,99%
+680,561740, 44 , 181 ," 1,574,488 "," 526,197 ",Carpet and Upholstery Cleaning Services,33%
+424,442299, 24 , 181 ," 1,561,377 "," 490,603 ",All Other Home Furnishings Stores,31%
+104,311812, 9 , 179 ," 1,764,032 "," 1,759,206 ",Commercial Bakeries,100%
+772,721199, 44 , 179 ," 1,317,804 "," 186,258 ",All Other Traveler Accommodation,14%
+817,813211, 14 , 179 ," 769,744 "," 368,682 ",Grantmaking Foundations,48%
+367,423710, 9 , 176 ," 2,015,524 "," 1,649,756 ",Hardware Merchant Wholesalers,82%
+199,331210, 8 , 176 ," 1,974,954 "," 377,158 ",Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,19%
+230,332812, 8 , 175 ," 1,401,225 "," 433,389 ","Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",31%
+658,561330, 3 , 174 ," 760,906 "," 73,645 ",Professional Employer Organizations,10%
+189,327120, 4 , 172 ," 1,971,964 "," 1,547,743 ",Clay Building Material and Refractories Manufacturing,78%
+390,424420, 5 , 172 ," 1,735,041 "," 1,604,536 ",Packaged Frozen Food Merchant Wholesalers,92%
+402,424690, 10 , 171 ," 2,116,689 "," 1,179,474 ",Other Chemical and Allied Products Merchant Wholesalers,56%
+376,423860, 27 , 168 ," 1,593,518 "," 230,304 ",Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers,14%
+341,339950, 24 , 167 ," 1,484,274 "," 862,391 ",Sign Manufacturing,58%
+435,445210, 14 , 167 ," 824,305 "," 311,751 ",Meat Markets,38%
+782,722514, 11 , 167 ," 792,179 "," 112,141 ","Cafeterias, Grill Buffets, and Buffets",14%
+212,332216, 5 , 166 ," 1,930,945 "," 454,083 ",Saw Blade and Handtool Manufacturing,24%
+541,517919, 28 , 165 ," 2,123,459 "," 1,286,559 ",All Other Telecommunications,61%
+510,488490, 23 , 165 ," 1,715,413 "," 626,721 ",Other Support Activities for Road Transportation,37%
+646,541921, 103 , 165 ," 1,186,166 "," 215,457 ","Photography Studios, Portrait",18%
+612,541320, 33 , 164 ," 1,534,213 "," 976,560 ",Landscape Architectural Services,64%
+459,451120, 22 , 164 ," 1,323,633 "," 915,960 ","Hobby, Toy, and Game Stores",69%
+567,523999, 70 , 163 ," 2,671,380 "," 1,559,546 ",Miscellaneous Financial Investment Activities,58%
+297,335313, 5 , 163 ," 1,996,980 "," 775,297 ",Switchgear and Switchboard Apparatus Manufacturing,39%
+644,541890, 60 , 163 ," 1,984,555 "," 969,654 ",Other Services Related to Advertising,49%
+516,492210, 130 , 163 ," 1,365,369 "," 86,585 ",Local Messengers and Local Delivery,6%
+383,424120, 13 , 162 ," 1,760,075 "," 830,225 ",Stationery and Office Supplies Merchant Wholesalers,47%
+357,423420, 12 , 161 ," 993,120 "," 649,175 ",Office Equipment Merchant Wholesalers,65%
+208,332111, 5 , 159 ," 1,860,567 ", -   ,Iron and Steel Forging,0%
+476,454110, 34 , 158 ," 1,782,406 "," 756,776 ",Electronic Shopping and Mail-Order Houses,42%
+477,454110, 34 , 158 ," 1,782,406 "," 756,776 ",Electronic Shopping and Mail-Order Houses,42%
+478,454110, 34 , 158 ," 1,782,406 "," 756,776 ",Electronic Shopping and Mail-Order Houses,42%
+288,334519, 5 , 156 ," 2,411,390 "," 729,589 ",Other Measuring and Controlling Device Manufacturing,30%
+255,333517, 7 , 155 ," 2,495,214 "," 23,837 ",Machine Tool Manufacturing,1%
+651,551112, 18 , 155 ," 2,258,391 "," 1,510,153 ",Offices of Other Holding Companies,67%
+56,236117, 20 , 155 ," 1,543,609 "," 1,378,241 ",New Housing For-Sale Builders,89%
+110,311920, 14 , 154 ," 1,174,229 "," 620,030 ",Coffee and Tea Manufacturing,53%
+754,711320, 25 , 154 ," 563,393 "," 111,740 ","Promoters of Performing Arts, Sports, and Similar Events without Facilities",20%
+404,424720, 8 , 153 ," 1,498,394 "," 415,528 ",Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals),28%
+809,812310, 24 , 153 ," 723,331 "," 195,877 ",Coin-Operated Laundries and Drycleaners,27%
+439,445292, 8 , 153 ," 558,896 "," 339,703 ",Confectionery and Nut Stores,61%
+452,448140, 30 , 152 ," 1,330,151 "," 108,054 ",Family Clothing Stores,8%
+753,711310, 21 , 152 ," 593,031 "," 42,000 ","Promoters of Performing Arts, Sports, and Similar Events with Facilities",7%
+91,311351, 5 , 150 ," 441,645 "," 88,891 ",Chocolate and Confectionery Manufacturing from Cacao Beans,20%
+12,111419, 5 , 149 ," 577,385 "," 81,483 ",Other Food Crops Grown Under Cover,14%
+166,325412, 4 , 148 ," 1,808,864 "," 1,676,515 ",Pharmaceutical Preparation Manufacturing,93%
+573,524291, 9 , 147 ," 2,042,032 "," 1,675,580 ",Claims Adjusting,82%
+380,423940, 25 , 147 ," 1,148,216 "," 472,364 ","Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",41%
+43,212321, 6 , 146 ," 2,704,139 "," 6,032 ",Construction Sand and Gravel Mining,0%
+698,611430, 25 , 146 ," 877,353 "," 395,972 ",Professional and Management Development Training,45%
+26,112990, 8 , 146 ," 577,826 "," 14,864 ",All Other Animal Production,3%
+637,541720, 9 , 141 ," 1,235,480 "," 1,024,924 ",Research and Development in the Social Sciences and Humanities,83%
+215,332313, 10 , 140 ," 1,702,502 "," 788,247 ",Plate Work Manufacturing,46%
+147,322211, 4 , 140 ," 1,503,563 "," 516,168 ",Corrugated and Solid Fiber Box Manufacturing,34%
+427,444110, 11 , 140 ," 1,143,424 "," 654,100 ",Home Centers,57%
+629,541614, 28 , 139 ," 1,907,151 "," 1,526,710 ","Process, Physical Distribution, and Logistics Consulting Services",80%
+220,332420, 5 , 137 ," 1,974,411 "," 449,293 ",Metal Tank (Heavy Gauge) Manufacturing,23%
+354,423330, 7 , 137 ," 1,696,726 "," 893,143 ","Roofing, Siding, and Insulation Material Merchant Wholesalers",53%
+349,423140, 8 , 137 ," 1,081,343 "," 152,314 ",Motor Vehicle Parts (Used) Merchant Wholesalers,14%
+194,327910, 3 , 135 ," 1,631,851 "," 1,073,724 ",Abrasive Product Manufacturing,66%
+67,238120, 8 , 134 ," 1,963,105 "," 335,182 ",Structural Steel and Precast Concrete Contractors,17%
+564,523920, 21 , 134 ," 1,706,776 "," 1,080,763 ",Portfolio Management,63%
+233,332912, 2 , 133 ," 1,885,732 ", -   ,Fluid Power Valve and Hose Fitting Manufacturing,0%
+327,337212, 11 , 133 ," 1,523,383 "," 614,545 ",Custom Architectural Woodwork and Millwork Manufacturing,40%
+774,721214, 3 , 133 ," 590,054 "," 227,145 ",Recreational and Vacation Camps (except Campgrounds),38%
+93,311412, 6 , 131 ," 1,384,241 "," 1,193,725 ",Frozen Specialty Food Manufacturing,86%
+445,446191, 13 , 130 ," 807,153 "," 693,640 ",Food (Health) Supplement Stores,86%
+223,332510, 3 , 128 ," 1,145,281 ", -   ,Hardware Manufacturing,0%
+334,339114, 7 , 127 ," 1,209,916 "," 127,914 ",Dental Equipment and Supplies Manufacturing,11%
+272,334118, 7 , 126 ," 1,937,969 "," 1,875,694 ",Computer Terminal and Other Computer Peripheral Equipment Manufacturing,97%
+824,813910, 27 , 126 ," 1,571,734 "," 150,006 ",Business Associations,10%
+251,333415, 3 , 125 ," 1,448,472 "," 1,458,565 ",Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing,101%
+557,522390, 6 , 125 ," 883,436 "," 608,265 ",Other Activities Related to Credit Intermediation,69%
+271,334112, 2 , 124 ," 1,832,637 ", -   ,Computer Storage Device Manufacturing,0%
+513,488999, 29 , 124 ," 1,117,262 "," 333,775 ",All Other Support Activities for Transportation,30%
+494,484230, 27 , 122 ," 1,585,713 "," 1,205,881 ","Specialized Freight (except Used Goods) Trucking, Long-Distance",76%
+253,333514, 7 , 122 ," 1,404,572 "," 1,093,453 ","Special Die and Tool, Die Set, Jig, and Fixture Manufacturing",78%
+527,512110, 45 , 122 ," 1,104,588 "," 485,372 ",Motion Picture and Video Production,44%
+773,721211, 9 , 122 ," 555,730 "," 295,509 ",RV (Recreational Vehicle) Parks and Campgrounds,53%
+241,333120, 9 , 119 ," 2,239,599 "," 200,872 ",Construction Machinery Manufacturing,9%
+652,551114, 4 , 117 ," 1,516,041 ", -   ,"Corporate, Subsidiary, and Regional Managing Offices",0%
+347,423120, 18 , 116 ," 1,048,770 "," 603,988 ",Motor Vehicle Supplies and New Parts Merchant Wholesalers,58%
+766,713930, 10 , 116 ," 658,982 "," 298,010 ",Marinas,45%
+398,424510, 4 , 115 ," 1,009,749 "," 678,160 ",Grain and Field Bean Merchant Wholesalers,67%
+801,811490, 38 , 115 ," 913,729 "," 253,390 ",Other Personal and Household Goods Repair and Maintenance,28%
+552,522292, 8 , 114 ," 1,632,208 "," 113,058 ",Real Estate Credit,7%
+450,448120, 47 , 114 ," 722,129 "," 135,098 ",Women's Clothing Stores,19%
+396,424480, 5 , 113 ," 1,057,362 "," 204,213 ",Fresh Fruit and Vegetable Merchant Wholesalers,19%
+598,532289, 21 , 113 ," 679,275 "," 24,931 ",All Other Consumer Goods Rental,4%
+73,238190, 16 , 112 ," 1,065,867 "," 805,347 ","Other Foundation, Structure, and Building Exterior Contractors",76%
+333,339113, 10 , 110 ," 1,316,375 "," 534,578 ",Surgical Appliance and Supplies Manufacturing,41%
+535,515120, 6 , 110 ," 1,298,139 "," 134,702 ",Television Broadcasting,10%
+666,561492, 12 , 110 ," 1,232,374 "," 593,822 ",Court Reporting and Stenotype Services,48%
+602,532420, 11 , 110 ," 1,180,341 "," 405,322 ",Office Machinery and Equipment Rental and Leasing,34%
+409,424930, 8 , 110 ," 844,496 "," 532,766 ","Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",63%
+417,441222, 15 , 109 ," 933,670 "," 653,273 ",Boat Dealers,70%
+161,325211, 2 , 108 ," 1,200,337 "," 701,637 ",Plastics Material and Resin Manufacturing,58%
+7,111219, 14 , 108 ," 736,558 "," 179,156 ",Other Vegetable (except Potato) and Melon Farming,24%
+180,326140, 6 , 107 ," 1,036,302 "," 229,211 ",Polystyrene Foam Product Manufacturing,22%
+393,424450, 7 , 107 ," 1,029,989 "," 348,361 ",Confectionery Merchant Wholesalers,34%
+798,811412, 19 , 107 ," 1,018,418 "," 621,439 ",Appliance Repair and Maintenance,61%
+794,811212, 22 , 107 ," 880,209 "," 648,333 ",Computer and Office Machine Repair and Maintenance,74%
+375,423850, 16 , 106 ," 1,205,430 "," 648,365 ",Service Establishment Equipment and Supplies Merchant Wholesalers,54%
+605,541191, 12 , 106 ," 904,087 "," 387,592 ",Title Abstract and Settlement Offices,43%
+720,621491, 3 , 106 ," 828,424 "," 50,835 ",HMO Medical Centers,6%
+717,621391, 26 , 106 ," 709,981 "," 303,564 ",Offices of Podiatrists,43%
+448,447190, 12 , 106 ," 529,072 "," 255,173 ",Other Gasoline Stations,48%
+169,325510, 4 , 105 ," 1,536,011 "," 201,521 ",Paint and Coating Manufacturing,13%
+575,524298, 51 , 105 ," 1,268,264 "," 533,999 ",All Other Insurance Related Activities,42%
+750,711211, 17 , 105 ," 358,019 "," 90,870 ",Sports Teams and Clubs,25%
+707,611692, 8 , 104 ," 463,568 "," 2,015 ",Automobile Driving Schools,0%
+273,334220, 9 , 103 ," 1,471,825 "," 940,630 ",Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,64%
+668,561510, 34 , 103 ," 1,267,741 "," 413,023 ",Travel Agencies,33%
+369,423730, 8 , 102 ," 1,391,423 "," 1,107,298 ",Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers,80%
+181,326150, 2 , 102 ," 1,350,321 "," 1,322,719 ",Urethane and Other Foam Product (except Polystyrene) Manufacturing,98%
+589,531320, 20 , 102 ," 1,225,362 "," 1,058,372 ",Offices of Real Estate Appraisers,86%
+248,333318, 12 , 102 ," 1,101,037 "," 819,787 ",Other Commercial and Service Industry Machinery Manufacturing,74%
+758,712120, 8 , 101 ," 1,030,610 "," 263,323 ",Historical Sites,26%
+295,335311, 2 , 100 ," 1,202,173 "," 1,106,013 ","Power, Distribution, and Specialty Transformer Manufacturing",92%
+786,811113, 16 , 100 ," 726,194 "," 363,959 ",Automotive Transmission Repair,50%
+599,532310, 5 , 98 ," 1,301,724 "," 812,491 ",General Rental Centers,62%
+449,448110, 27 , 98 ," 680,909 "," 216,110 ",Men's Clothing Stores,32%
+365,423620, 6 , 96 ," 1,109,420 "," 133,733 ","Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",12%
+317,336510, 1 , 96 ," 1,069,280 "," 1,076,252 ",Railroad Rolling Stock Manufacturing,101%
+131,315210, 10 , 96 ," 591,442 ", -   ,Cut and Sew Apparel Contractors,0%
+203,331410, 1 , 92 ," 1,313,317 "," 1,326,306 ",Nonferrous Metal (except Aluminum) Smelting and Refining,101%
+107,311830, 1 , 92 ," 835,165 "," 841,915 ",Tortilla Manufacturing,101%
+571,524128, 6 , 91 ," 1,507,121 "," 846,683 ","Other Direct Insurance (except Life, Health, and Medical) Carriers",56%
+114,311999, 15 , 91 ," 882,636 "," 418,083 ",All Other Miscellaneous Food Manufacturing,47%
+195,327991, 7 , 90 ," 919,785 "," 565,417 ",Cut Stone and Stone Product Manufacturing,61%
+654,561210, 9 , 90 ," 459,144 "," 223,833 ",Facilities Support Services,49%
+488,483114, 3 , 90 ," 86,800 "," 25,982 ",Coastal and Great Lakes Passenger Transportation,30%
+787,811118, 28 , 89 ," 863,153 "," 436,594 ",Other Automotive Mechanical and Electrical Repair and Maintenance,51%
+805,812191, 9 , 89 ," 310,086 "," 197,386 ",Diet and Weight Reducing Centers,64%
+101,311615, 4 , 88 ," 547,249 "," 366,856 ",Poultry Processing,67%
+690,562920, 3 , 86 ," 1,111,748 ", -   ,Materials Recovery Facilities,0%
+468,453210, 6 , 85 ," 1,027,983 "," 496,893 ",Office Supplies and Stationery Stores,48%
+386,424310, 6 , 85 ," 1,020,627 "," 360,891 ","Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",35%
+509,488410, 16 , 85 ," 932,471 "," 603,925 ",Motor Vehicle Towing,65%
+528,512131, 5 , 85 ," 598,295 "," 306,081 ",Motion Picture Theaters (except Drive-Ins),51%
+749,711190, 32 , 85 ," 522,472 "," 105,650 ",Other Performing Arts Companies,20%
+235,332919, 3 , 85 ," 237,854 "," 176,916 ",Other Metal Valve and Pipe Fitting Manufacturing,74%
+355,423390, 18 , 83 ," 1,103,518 "," 135,203 ",Other Construction Material Merchant Wholesalers,12%
+676,561622, 12 , 83 ," 894,945 "," 276,878 ",Locksmiths,31%
+453,448150, 35 , 83 ," 428,451 "," 86,107 ",Clothing Accessories Stores,20%
+752,711219, 10 , 83 ," 262,039 "," 166,523 ",Other Spectator Sports,64%
+98,311611, 1 , 82 ," 1,607,972 "," 1,621,585 ",Animal (except Poultry) Slaughtering,101%
+72,238170, 12 , 82 ," 492,531 "," 120,085 ",Siding Contractors,24%
+431,444210, 8 , 80 ," 779,267 "," 432,322 ",Outdoor Power Equipment Stores,55%
+790,811191, 4 , 80 ," 627,255 "," 567,356 ",Automotive Oil Change and Lubrication Shops,90%
+315,336412, 2 , 79 ," 1,442,769 "," 1,458,421 ",Aircraft Engine and Engine Parts Manufacturing,101%
+111,311930, 1 , 79 ," 883,150 ", -   ,Flavoring Syrup and Concentrate Manufacturing,0%
+661,561422, 7 , 79 ," 458,200 "," 185,599 ",Telemarketing Bureaus and Other Contact Centers,41%
+154,323120, 8 , 78 ," 683,881 "," 184,788 ",Support Activites for Printing,27%
+80,238340, 8 , 77 ," 928,146 "," 14,235 ",Tile and Terrazzo Contractors,2%
+546,519190, 14 , 77 ," 862,687 "," 379,939 ",All Other Information Services,44%
+618,541410, 56 , 76 ," 883,289 "," 179,607 ",Interior Design Services,20%
+471,453910, 21 , 76 ," 340,860 "," 92,728 ",Pet and Pet Supplies Stores,27%
+505,487210, 5 , 76 ," 184,983 ", 892 ,"Scenic and Sightseeing Transportation, Water",0%
+266,333994, 1 , 75 ," 1,614,162 ", -   ,Industrial Process Furnace and Oven Manufacturing,0%
+635,541714, 19 , 75 ," 954,369 "," 455,731 ",Research and Development in Biotechnology (except Nanobiotechnology),48%
+686,562112, 1 , 75 ," 559,877 ", -   ,Hazardous Waste Collection,0%
+395,424470, 3 , 75 ," 488,742 "," 390,131 ",Meat and Meat Product Merchant Wholesalers,80%
+145,321999, 9 , 74 ," 600,866 "," 183,073 ",All Other Miscellaneous Wood Product Manufacturing,30%
+362,423490, 9 , 73 ," 1,068,584 "," 700,450 ",Other Professional Equipment and Supplies Merchant Wholesalers,66%
+302,335999, 4 , 73 ," 1,013,524 "," 147,733 ",All Other Miscellaneous Electrical Equipment and Component Manufacturing,15%
+237,332996, 2 , 73 ," 913,100 "," 921,340 ",Fabricated Pipe and Pipe Fitting Manufacturing,101%
+645,541910, 9 , 73 ," 497,541 "," 461,585 ",Marketing Research and Public Opinion Polling,93%
+461,451140, 14 , 73 ," 445,284 "," 133,769 ",Musical Instrument and Supplies Stores,30%
+827,813990, 18 , 73 ," 381,078 "," 280,680 ","Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)",74%
+669,561520, 11 , 73 ," 179,506 "," 63,632 ",Tour Operators,35%
+249,333413, 6 , 72 ," 886,005 "," 385,081 ",Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing,43%
+276,334412, 1 , 71 ," 704,100 "," 709,381 ",Bare Printed Circuit Board Manufacturing,101%
+556,522320, 25 , 70 ," 1,036,386 "," 191,602 ","Financial Transactions Processing, Reserve, and Clearinghouse Activities",18%
+16,111998, 14 , 70 ," 391,613 "," 212,462 ",All Other Miscellaneous Crop Farming,54%
+407,424910, 5 , 69 ," 877,362 "," 837,644 ",Farm Supplies Merchant Wholesalers,95%
+455,448210, 18 , 69 ," 308,303 "," 133,261 ",Shoe Stores,43%
+518,493130, 1 , 68 ," 552,300 "," 545,717 ",Farm Product Warehousing and Storage,99%
+120,312140, 8 , 68 ," 411,327 "," 134,333 ",Distilleries,33%
+682,561910, 12 , 67 ," 572,127 "," 239,218 ",Packaging and Labeling Services,42%
+50,221118, 4 , 66 ," 817,810 ", -   ,Other Electric Power Generation,0%
+555,522310, 12 , 65 ," 835,567 "," 466,816 ",Mortgage and Nonmortgage Loan Brokers,56%
+268,333997, 2 , 65 ," 639,654 "," 69,724 ",Scale and Balance Manufacturing,11%
+828,814110, 7 , 65 ," 301,381 "," 133,928 ",Private Households,44%
+296,335312, 1 , 64 ," 752,145 ", -   ,Motor and Generator Manufacturing,0%
+569,524114, 19 , 64 ," 732,560 "," 544,326 ",Direct Health and Medical Insurance Carriers,74%
+193,327390, 5 , 64 ," 717,595 "," 307,549 ",Other Concrete Product Manufacturing,43%
+479,454210, 16 , 64 ," 472,752 "," 238,792 ",Vending Machine Operators,51%
+384,424130, 5 , 63 ," 853,222 "," 824,766 ",Industrial and Personal Service Paper Merchant Wholesalers,97%
+699,611511, 25 , 63 ," 548,104 "," 173,718 ",Cosmetology and Barber Schools,32%
+142,321918, 3 , 63 ," 542,322 "," 434,411 ",Other Millwork (including Flooring),80%
+521,511120, 10 , 63 ," 541,343 "," 117,803 ",Periodical Publishers,22%
+52,221210, 4 , 61 ," 1,173,298 "," 415,684 ",Natural Gas Distribution,35%
+198,331110, 5 , 61 ," 1,025,974 "," 962,622 ",Iron and Steel Mills and Ferroalloy Manufacturing,94%
+321,337110, 15 , 61 ," 519,638 "," 333,811 ",Wood Kitchen Cabinet and Countertop Manufacturing,64%
+789,811122, 13 , 61 ," 410,140 "," 201,973 ",Automotive Glass Replacement Shops,49%
+701,611513, 7 , 61 ," 266,331 "," 126,548 ",Apprenticeship Training,48%
+62,237130, 8 , 60 ," 716,244 "," 201,152 ",Power and Communication Line and Related Structures Construction,28%
+246,333244, 2 , 59 ," 906,237 ", -   ,Printing Machinery and Equipment Manufacturing,0%
+615,541350, 20 , 58 ," 496,954 "," 377,204 ",Building Inspection Services,76%
+462,451211, 12 , 58 ," 273,873 "," 47,737 ",Book Stores,17%
+760,712190, 5 , 57 ," 621,849 "," 507,857 ",Nature Parks and Other Similar Institutions,82%
+755,711410, 20 , 57 ," 527,590 "," 83,561 ","Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",16%
+155,324121, 10 , 57 ," 450,593 "," 172,135 ",Asphalt Paving Mixture and Block Manufacturing,38%
+677,561710, 12 , 57 ," 412,052 "," 178,331 ",Exterminating and Pest Control Services,43%
+656,561312, 16 , 56 ," 945,620 "," 308,928 ",Executive Search Services,33%
+597,532284, 6 , 56 ," 100,310 "," 24,157 ",Recreational Goods Rental,24%
+687,562119, 8 , 55 ," 964,335 "," 365,120 ",Other Waste Collection,38%
+394,424460, 6 , 55 ," 676,636 "," 361,700 ",Fish and Seafood Merchant Wholesalers,53%
+231,332813, 7 , 55 ," 623,450 "," 143,929 ","Electroplating, Plating, Polishing, Anodizing, and Coloring",23%
+665,561491, 4 , 55 ," 529,690 "," 94,711 ",Repossession Services,18%
+702,611519, 8 , 55 ," 286,065 "," 118,215 ",Other Technical and Trade Schools,41%
+550,522220, 26 , 54 ," 778,061 "," 55,392 ",Sales Financing,7%
+178,326122, 2 , 54 ," 412,080 "," 224,585 ",Plastics Pipe and Pipe Fitting Manufacturing,55%
+228,332722, 1 , 53 ," 726,602 ", -   ,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing",0%
+337,339910, 14 , 53 ," 582,094 ", -   ,Jewelry and Silverware Manufacturing,0%
+584,531130, 13 , 53 ," 223,301 "," 133,058 ",Lessors of Miniwarehouses and Self-Storage Units,60%
+660,561421, 7 , 52 ," 360,533 "," 236,284 ",Telephone Answering Services,66%
+239,333111, 2 , 52 ," 307,744 "," 302,395 ",Farm Machinery and Equipment Manufacturing,98%
+160,325199, 3 , 51 ," 707,429 "," 664,991 ",All Other Basic Organic Chemical Manufacturing,94%
+13,111421, 9 , 51 ," 389,794 "," 184,564 ",Nursery and Tree Production,47%
+647,541922, 30 , 51 ," 384,308 "," 166,814 ",Commercial Photography,43%
+603,532490, 9 , 51 ," 367,998 "," 214,345 ",Other Commercial and Industrial Machinery and Equipment Rental and Leasing,58%
+532,512240, 9 , 51 ," 170,575 "," 45,490 ",Sound Recording Studios,27%
+53,221310, 5 , 50 ," 677,278 ", -   ,Water Supply and Irrigation Systems,0%
+616,541370, 9 , 50 ," 553,193 "," 227,023 ",Surveying and Mapping (except Geophysical) Services,41%
+811,812331, 4 , 50 ," 316,622 "," 238,261 ",Linen Supply,75%
+325,337127, 2 , 49 ," 559,274 "," 294,314 ",Institutional Furniture Manufacturing,53%
+570,524126, 9 , 48 ," 816,379 "," 245,966 ",Direct Property and Casualty Insurance Carriers,30%
+222,332439, 2 , 48 ," 467,374 "," 145,272 ",Other Metal Container Manufacturing,31%
+568,524113, 13 , 47 ," 643,744 "," 512,667 ",Direct Life Insurance Carriers,80%
+37,115210, 12 , 47 ," 199,029 "," 54,723 ",Support Activities for Animal Production,27%
+366,423690, 11 , 46 ," 609,039 "," 138,913 ",Other Electronic Parts and Equipment Merchant Wholesalers,23%
+545,519130, 11 , 46 ," 551,900 "," 86,851 ",Internet Publishing and Broadcasting and Web Search Portals,16%
+48,221114, 5 , 46 ," 508,709 ", -   ,Solar Electric Power Generation,0%
+159,325180, 3 , 46 ," 426,129 "," 416,051 ",Other Basic Inorganic Chemical Manufacturing,98%
+663,561439, 11 , 46 ," 408,367 "," 247,225 ",Other Business Service Centers (including Copy Shops),61%
+291,335121, 1 , 45 ," 547,090 ", -   ,Residential Electric Lighting Fixture Manufacturing,0%
+260,333914, 2 , 44 ," 731,815 "," 728,104 ","Measuring, Dispensing, and Other Pumping Equipment Manufacturing",99%
+261,333914, 2 , 44 ," 731,815 "," 728,104 ","Measuring, Dispensing, and Other Pumping Equipment Manufacturing",99%
+144,321991, 1 , 44 ," 635,600 "," 641,521 ",Manufactured Home (Mobile Home) Manufacturing,101%
+581,525990, 9 , 43 ," 665,478 "," 483,234 ",Other Financial Vehicles,73%
+371,423810, 8 , 43 ," 651,968 "," 191,489 ",Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers,29%
+176,326112, 1 , 43 ," 401,192 "," 405,193 ",Plastics Packaging Film and Sheet (including Laminated) Manufacturing,101%
+416,441210, 4 , 43 ," 387,634 "," 271,423 ",Recreational Vehicle Dealers,70%
+353,423320, 12 , 43 ," 308,740 "," 135,170 ","Brick, Stone, and Related Construction Material Merchant Wholesalers",44%
+112,311941, 3 , 42 ," 501,272 "," 194,622 ","Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing",39%
+825,813920, 15 , 42 ," 394,579 "," 213,688 ",Professional Organizations,54%
+134,315280, 3 , 42 ," 258,582 "," 184,948 ",Other Cut and Sew Apparel Manufacturing,72%
+437,445230, 2 , 42 ," 170,149 ", -   ,Fruit and Vegetable Markets,0%
+23,112519, 2 , 42 ," 156,085 "," 157,277 ",Other Aquaculture,101%
+177,326121, 1 , 41 ," 510,107 "," 513,522 ",Unlaminated Plastics Profile Shape Manufacturing,101%
+259,333912, 4 , 41 ," 440,309 "," 351,122 ",Air and Gas Compressor Manufacturing,80%
+61,237120, 1 , 41 ," 419,592 "," 423,638 ",Oil and Gas Pipeline and Related Structures Construction,101%
+109,311919, 4 , 41 ," 372,131 "," 187,237 ",Other Snack Food Manufacturing,50%
+323,337122, 5 , 41 ," 363,337 "," 199,521 ",Nonupholstered Wood Household Furniture Manufacturing,55%
+795,811219, 14 , 40 ," 460,162 "," 244,469 ",Other Electronic and Precision Equipment Repair and Maintenance,53%
+835,922160, 4 , 39 ," 536,467 "," 500,735 ",Fire Protection,93%
+670,561591, 2 , 39 ," 445,690 ", -   ,Convention and Visitors Bureaus,0%
+563,523910, 8 , 39 ," 445,483 "," 9,580 ",Miscellaneous Intermediation,2%
+685,562111, 5 , 39 ," 387,965 "," 131,271 ",Solid Waste Collection,34%
+5,111199, 5 , 39 ," 227,613 "," 170,847 ",All Other Grain Farming,75%
+662,561431, 8 , 39 ," 158,262 "," 110,032 ",Private Mail Centers,70%
+229,332811, 6 , 38 ," 414,945 "," 129,032 ",Metal Heat Treating,31%
+641,541850, 2 , 38 ," 253,365 "," 223,772 ",Outdoor Advertising,88%
+252,333511, 4 , 37 ," 503,673 "," 192,917 ",Industrial Mold Manufacturing,38%
+39,211120, 1 , 37 ," 500,515 ", -   ,Crude Petroleum Extraction,0%
+405,424810, 3 , 37 ," 226,924 "," 221,140 ",Beer and Ale Merchant Wholesalers,97%
+839,925110, 7 , 37 ," 205,899 "," 132,677 ",Administration of Housing Programs,64%
+580,525920, 2 , 37 ," 188,440 "," 86,296 ","Trusts, Estates, and Agency Accounts",46%
+763,713290, 1 , 37 ," 184,301 ", -   ,Other Gambling Industries,0%
+158,325110, 4 , 35 ," 591,875 "," 572,847 ",Petrochemical Manufacturing,97%
+352,423310, 9 , 35 ," 500,610 "," 326,847 ","Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",65%
+826,813930, 7 , 34 ," 915,474 ", -   ,Labor Unions and Similar Labor Organizations,0%
+258,333612, 3 , 34 ," 482,880 ", -   ,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing",0%
+100,311613, 1 , 33 ," 390,441 ", -   ,Rendering and Meat Byproduct Processing,0%
+423,442291, 5 , 33 ," 350,913 "," 244,780 ",Window Treatment Stores,70%
+175,326111, 2 , 33 ," 251,667 "," 87,163 ",Plastics Bag and Pouch Manufacturing,35%
+63,237210, 7 , 32 ," 435,452 "," 308,683 ",Land Subdivision,71%
+172,325620, 2 , 32 ," 300,700 "," 141,061 ",Toilet Preparation Manufacturing,47%
+648,541930, 12 , 32 ," 300,275 "," 8,334 ",Translation and Interpretation Services,3%
+25,112920, 16 , 32 ," 272,314 "," 6,408 ",Horses and Other Equine Production,2%
+472,453920, 16 , 32 ," 242,170 "," 57,223 ",Art Dealers,24%
+299,335911, 2 , 31 ," 466,210 ", -   ,Storage Battery Manufacturing,0%
+614,541340, 8 , 31 ," 376,778 "," 116,470 ",Drafting Services,31%
+191,327215, 4 , 31 ," 357,283 "," 165,979 ",Glass Product Manufacturing Made of Purchased Glass,46%
+692,562998, 8 , 31 ," 333,164 "," 89,764 ",All Other Miscellaneous Waste Management Services,27%
+287,334516, 3 , 31 ," 251,967 "," 69,351 ",Analytical Laboratory Instrument Manufacturing,28%
+525,511199, 6 , 31 ," 175,989 "," 153,814 ",All Other Publishers,87%
+42,212312, 1 , 30 ," 500,000 ", -   ,Crushed and Broken Limestone Mining and Quarrying,0%
+304,336112, 2 , 30 ," 369,808 ", -   ,Light Truck and Utility Vehicle Manufacturing,0%
+240,333112, 15 , 30 ," 305,905 "," 112,576 ",Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing,37%
+370,423740, 3 , 29 ," 332,145 "," 192,681 ",Refrigeration Equipment and Supplies Merchant Wholesalers,58%
+338,339920, 6 , 29 ," 325,093 "," 164,159 ",Sporting and Athletic Goods Manufacturing,50%
+211,332215, 1 , 29 ," 317,902 "," 320,524 ","Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing",101%
+619,541420, 10 , 29 ," 277,032 "," 109,035 ",Industrial Design Services,39%
+281,334419, 5 , 29 ," 236,576 "," 129,724 ",Other Electronic Component Manufacturing,55%
+428,444120, 5 , 29 ," 232,323 "," 184,376 ",Paint and Wallpaper Stores,79%
+141,321911, 6 , 29 ," 191,956 "," 69,589 ",Wood Window and Door Manufacturing,36%
+820,813311, 5 , 29 ," 179,998 "," 111,713 ",Human Rights Organizations,62%
+639,541820, 14 , 28 ," 387,078 "," 270,480 ",Public Relations Agencies,70%
+594,532210, 7 , 28 ," 277,676 "," 45,966 ",Consumer Electronics and Appliances Rental,17%
+197,327999, 2 , 28 ," 231,430 ", -   ,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,0%
+331,337920, 2 , 28 ," 180,400 "," 90,902 ",Blind and Shade Manufacturing,50%
+186,326291, 2 , 28 ," 146,660 ", -   ,Rubber Product Manufacturing for Mechanical Use,0%
+206,331524, 3 , 27 ," 271,543 "," 179,735 ",Aluminum Foundries (except Die-Casting),66%
+38,115310, 5 , 27 ," 239,651 ", -   ,Support Activities for Forestry,0%
+460,451130, 9 , 27 ," 150,843 "," 77,327 ","Sewing, Needlework, and Piece Goods Stores",51%
+408,424920, 3 , 27 ," 125,548 "," 11,407 ","Book, Periodical, and Newspaper Merchant Wholesalers",9%
+218,332323, 7 , 26 ," 217,952 "," 110,614 ",Ornamental and Architectural Metal Work Manufacturing,51%
+771,721191, 11 , 26 ," 170,554 "," 50,042 ",Bed-and-Breakfast Inns,29%
+495,485111, 1 , 26 ," 122,367 "," 123,309 ",Mixed Mode Transit Systems,101%
+270,334111, 1 , 25 ," 457,523 "," 461,371 ",Electronic Computer Manufacturing,101%
+559,523120, 15 , 25 ," 357,047 "," 260,719 ",Securities Brokerage,73%
+3,111150, 7 , 25 ," 316,649 "," 187,664 ",Corn Farming,59%
+129,314999, 4 , 25 ," 42,901 "," 15,461 ",All Other Miscellaneous Textile Product Mills,36%
+591,532111, 8 , 24 ," 372,422 "," 2,591 ",Passenger Car Rental,1%
+146,322121, 2 , 24 ," 348,600 "," 330,389 ",Paper (except Newsprint) Mills,95%
+576,525110, 3 , 24 ," 261,900 "," 263,454 ",Pension Funds,101%
+388,424330, 23 , 24 ," 260,295 "," 4,535 ","Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers",2%
+482,481111, 1 , 23 ," 1,168,000 ", -   ,Scheduled Passenger Air Transportation,0%
+558,523110, 10 , 23 ," 458,183 "," 387,398 ",Investment Banking and Securities Dealing,85%
+14,111422, 4 , 23 ," 244,340 "," 173,805 ",Floriculture Production,71%
+451,448130, 4 , 23 ," 123,386 "," 90,607 ",Children's and Infants' Clothing Stores,73%
+44,213111, 3 , 22 ," 311,800 "," 188,530 ",Drilling Oil and Gas Wells,60%
+45,213112, 4 , 22 ," 280,773 "," 61,453 ",Support Activities for Oil and Gas Operations,22%
+412,425110, 2 , 22 ," 269,908 ", -   ,Business to Business Electronic Markets,0%
+224,332613, 3 , 22 ," 267,689 "," 194,303 ",Spring Manufacturing,73%
+326,337211, 3 , 22 ," 237,287 "," 218,404 ",Wood Office Furniture Manufacturing,92%
+192,327320, 4 , 22 ," 229,114 ", -   ,Ready-Mix Concrete Manufacturing,0%
+184,326212, 4 , 22 ," 213,346 "," 120,522 ",Tire Retreading,56%
+267,333995, 1 , 22 ," 200,580 ", -   ,Fluid Power Cylinder and Actuator Manufacturing,0%
+406,424820, 6 , 22 ," 108,171 "," 58,988 ",Wine and Distilled Alcoholic Beverage Merchant Wholesalers,55%
+401,424610, 3 , 21 ," 336,714 "," 316,537 ",Plastics Materials and Basic Forms and Shapes Merchant Wholesalers,94%
+593,532120, 5 , 21 ," 231,255 ", -   ,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",0%
+691,562991, 5 , 21 ," 207,238 "," 120,319 ",Septic Tank and Related Services,58%
+829,921110, 2 , 21 ," 141,532 "," 121,606 ",Executive Offices,86%
+813,812921, 3 , 21 ," 133,933 "," 59,795 ",Photofinishing Laboratories (except One-Hour),45%
+671,561599, 6 , 21 ," 105,345 ", -   ,All Other Travel Arrangement and Reservation Services,0%
+232,332911, 3 , 20 ," 521,905 "," 23,051 ",Industrial Valve Manufacturing,4%
+162,325220, 2 , 20 ," 312,424 "," 82,138 ",Artificial and Synthetic Fibers and Filaments Manufacturing,26%
+841,926110, 3 , 20 ," 301,728 "," 25,512 ",Administration of General Economic Programs,8%
+265,333992, 5 , 20 ," 200,387 "," 103,973 ",Welding and Soldering Equipment Manufacturing,52%
+307,336310, 4 , 20 ," 163,494 "," 28,288 ",Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,17%
+95,311423, 2 , 20 ," 145,797 ", -   ,Dried and Dehydrated Food Manufacturing,0%
+522,511130, 8 , 20 ," 134,221 "," 90,017 ",Book Publishers,67%
+533,512290, 6 , 20 ," 61,941 "," 27,384 ",Other Sound Recording Industries,44%
+209,332114, 1 , 19 ," 275,790 ", -   ,Custom Roll Forming,0%
+799,811420, 12 , 19 ," 162,141 ", -   ,Reupholstery and Furniture Repair,0%
+391,424430, 1 , 19 ," 116,315 ", -   ,Dairy Product (except Dried or Canned) Merchant Wholesalers,0%
+751,711212, 4 , 19 ," 107,251 ", -   ,Racetracks,0%
+282,334510, 3 , 18 ," 279,126 "," 236,191 ",Electromedical and Electrotherapeutic Apparatus Manufacturing,85%
+205,331511, 1 , 18 ," 244,300 "," 246,268 ",Iron Foundries,101%
+311,336350, 3 , 18 ," 213,737 "," 135,962 ",Motor Vehicle Transmission and Power Train Parts Manufacturing,64%
+537,517311, 1 , 18 ," 212,500 "," 214,369 ",Wired Telecommunications Carriers,101%
+359,423440, 5 , 18 ," 205,447 "," 37,192 ",Other Commercial Equipment Merchant Wholesalers,18%
+320,336999, 11 , 18 ," 201,985 ", -   ,All Other Transportation Equipment Manufacturing,0%
+236,332994, 2 , 18 ," 194,497 "," 195,963 ","Small Arms, Ordnance, and Ordnance Accessories Manufacturing",101%
+633,541713, 5 , 18 ," 181,193 "," 103,932 ",Research and Development in Nanotechnology,57%
+634,541713, 5 , 18 ," 181,193 "," 103,932 ",Research and Development in Nanotechnology,57%
+298,335314, 1 , 18 ," 149,900 ", -   ,Relay and Industrial Control Manufacturing,0%
+577,525120, 5 , 17 ," 270,258 ", -   ,Health and Welfare Funds,0%
+328,337214, 3 , 17 ," 251,939 ", -   ,Office Furniture (except Wood) Manufacturing,0%
+216,332321, 1 , 17 ," 192,600 "," 194,125 ",Metal Window and Door Manufacturing,101%
+149,322220, 2 , 17 ," 164,128 "," 129,853 ",Paper Bag and Coated and Treated Paper Manufacturing,79%
+49,221115, 2 , 17 ," 112,907 "," 81,860 ",Wind Electric Power Generation,73%
+106,311821, 3 , 17 ," 65,889 "," 29,901 ",Cookie and Cracker Manufacturing,45%
+283,334511, 4 , 16 ," 218,645 "," 101,195 ","Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing",46%
+207,331529, 1 , 16 ," 208,000 ", -   ,Other Nonferrous Metal Foundries (except Die-Casting),0%
+301,335929, 1 , 16 ," 163,730 "," 164,672 ",Other Communication and Energy Wire Manufacturing,101%
+124,313310, 4 , 16 ," 138,018 ", -   ,Textile and Fabric Finishing Mills,0%
+343,339992, 2 , 16 ," 80,900 "," 6,136 ",Musical Instrument Manufacturing,8%
+102,311710, 1 , 15 ," 207,900 "," 209,056 ",Seafood Product Preparation and Packaging,101%
+566,523991, 3 , 15 ," 177,423 "," 160,780 ","Trust, Fiduciary, and Custody Activities",91%
+243,333132, 2 , 15 ," 144,100 "," 124,199 ",Oil and Gas Field Machinery and Equipment Manufacturing,86%
+300,335912, 1 , 15 ," 74,500 ", -   ,Primary Battery Manufacturing,0%
+279,334417, 1 , 14 ," 221,402 "," 223,179 ",Electronic Connector Manufacturing,101%
+529,512191, 5 , 14 ," 219,184 "," 13,937 ",Teleproduction and Other Postproduction Services,6%
+262,333923, 1 , 14 ," 213,202 ", -   ,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing",0%
+485,481219, 5 , 14 ," 172,900 "," 15,158 ",Other Nonscheduled Air Transportation,9%
+136,316210, 4 , 14 ," 140,376 "," 99,531 ",Footwear Manufacturing,71%
+185,326220, 1 , 14 ," 106,480 ", -   ,Rubber and Plastics Hoses and Belting Manufacturing,0%
+122,313210, 2 , 14 ," 66,463 "," 50,890 ",Broadwoven Fabric Mills,77%
+838,923130, 1 , 13 ," 199,480 ", -   ,"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)",0%
+250,333414, 1 , 13 ," 150,000 "," 150,982 ",Heating Equipment (except Warm Air Furnaces) Manufacturing,101%
+310,336340, 1 , 12 ," 156,800 "," 158,286 ",Motor Vehicle Brake System Manufacturing,101%
+659,561410, 3 , 12 ," 139,241 "," 6,848 ",Document Preparation Services,5%
+524,511191, 2 , 12 ," 114,355 "," 98,886 ",Greeting Card Publishers,86%
+797,811411, 5 , 12 ," 109,436 "," 28,188 ",Home and Garden Equipment Repair and Maintenance,26%
+115,312111, 2 , 12 ," 83,825 "," 43,818 ",Soft Drink Manufacturing,52%
+531,512230, 9 , 12 ," 77,147 ", -   ,Music Publishers,0%
+837,923120, 2 , 12 ," 64,400 "," 49,869 ",Administration of Public Health Programs,77%
+643,541870, 6 , 12 ," 57,628 ", -   ,Advertising Material Distribution Services,0%
+8,111331, 1 , 12 ," 54,445 ", -   ,Apple Orchards,0%
+182,326160, 1 , 11 ," 156,300 "," 157,563 ",Plastics Bottle Manufacturing,101%
+382,424110, 5 , 11 ," 117,367 "," 48,134 ",Printing and Writing Paper Merchant Wholesalers,41%
+128,314910, 2 , 11 ," 111,033 "," 91,186 ",Textile Bag and Canvas Mills,82%
+845,926150, 3 , 11 ," 94,452 ", -   ,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",0%
+40,212210, 1 , 11 ," 83,732 ", -   ,Iron Ore Mining,0%
+132,315220, 3 , 11 ," 76,047 "," 73,688 ",Men's and Boys' Cut and Sew Apparel Manufacturing,97%
+319,336612, 3 , 11 ," 67,932 "," 9,047 ",Boat Building,13%
+640,541840, 4 , 11 ," 58,032 ", -   ,Media Representatives,0%
+6,111211, 2 , 11 ," 37,637 ", -   ,Potato Farming,0%
+234,332913, 4 , 10 ," 186,966 ", -   ,Plumbing Fixture Fitting and Trim Manufacturing,0%
+486,482111, 1 , 10 ," 153,200 ", -   ,Line-Haul Railroads,0%
+744,624310, 4 , 10 ," 132,997 "," 57,183 ",Vocational Rehabilitation Services,43%
+28,113310, 6 , 10 ," 130,029 "," 20,184 ",Logging,16%
+843,926130, 1 , 10 ," 93,300 "," 93,809 ","Regulation and Administration of Communications, Electric, Gas, and Other Utilities",101%
+385,424210, 4 , 10 ," 82,517 "," 3,456 ",Drugs and Druggists' Sundries Merchant Wholesalers,4%
+108,311911, 1 , 10 ," 72,250 ", -   ,Roasted Nuts and Peanut Butter Manufacturing,0%
+47,221111, 3 , 10 ," 69,658 "," 62,048 ",Hydroelectric Power Generation,89%
+361,423460, 4 , 10 ," 49,737 "," 39,056 ",Ophthalmic Goods Merchant Wholesalers,79%
+119,312130, 4 , 10 ," 42,432 "," 11,794 ",Wineries,28%
+399,424520, 1 , 9 ," 102,200 ", -   ,Livestock Merchant Wholesalers,0%
+507,488190, 4 , 9 ," 84,627 "," 67,141 ",Other Support Activities for Air Transportation,79%
+340,339940, 2 , 9 ," 65,000 "," 50,501 ",Office Supplies (except Paper) Manufacturing,78%
+697,611420, 2 , 9 ," 59,221 "," 56,807 ",Computer Training,96%
+163,325311, 2 , 8 ," 168,018 "," 96,306 ",Nitrogenous Fertilizer Manufacturing,57%
+200,331221, 1 , 8 ," 111,672 "," 104,266 ",Rolled Steel Shape Manufacturing,93%
+274,334290, 2 , 8 ," 104,215 "," 94,480 ",Other Communications Equipment Manufacturing,91%
+290,335110, 2 , 8 ," 97,717 ", -   ,Electric Lamp Bulb and Part Manufacturing,0%
+483,481112, 2 , 8 ," 85,699 ", -   ,Scheduled Freight Air Transportation,0%
+348,423130, 1 , 8 ," 85,000 "," 85,703 ",Tire and Tube Merchant Wholesalers,101%
+27,113210, 2 , 8 ," 72,565 "," 36,880 ",Forest Nurseries and Gathering of Forest Products,51%
+256,333519, 1 , 8 ," 71,700 "," 72,437 ",Rolling Mill and Other Metalworking Machinery Manufacturing,101%
+800,811430, 6 , 8 ," 65,835 ", -   ,Footwear and Leather Goods Repair,0%
+138,316998, 2 , 8 ," 41,342 "," 29,375 ",All Other Leather Good and Allied Product Manufacturing,71%
+34,115114, 1 , 7 ," 208,397 "," 194,109 ",Postharvest Crop Activities (except Cotton Ginning),93%
+831,921130, 7 , 7 ," 112,594 "," 33,077 ",Public Finance Activities,29%
+700,611512, 1 , 7 ," 92,300 "," 92,982 ",Flight Training,101%
+51,221122, 3 , 7 ," 88,335 "," 72,297 ",Electric Power Distribution,82%
+242,333131, 1 , 7 ," 73,300 "," 66,712 ",Mining Machinery and Equipment Manufacturing,91%
+125,313320, 1 , 7 ," 66,330 ", -   ,Fabric Coating Mills,0%
+190,327212, 2 , 7 ," 64,525 "," 57,567 ",Other Pressed and Blown Glass and Glassware Manufacturing,89%
+133,315240, 3 , 7 ," 63,400 "," 23,522 ","Women's, Girls', and Infants' Cut and Sew Apparel Manufacturing",37%
+579,525910, 2 , 7 ," 57,881 "," 58,244 ",Open-End Investment Funds,101%
+30,114210, 1 , 7 ," 52,457 ", -   ,Hunting and Trapping,0%
+833,922110, 3 , 7 ," 47,700 "," 17,420 ",Courts,37%
+324,337125, 3 , 7 ," 42,256 "," 11,661 ",Household Furniture (except Wood and Metal) Manufacturing,28%
+329,337215, 1 , 6 ," 69,800 ", -   ,"Showcase, Partition, Shelving, and Locker Manufacturing",0%
+544,519120, 2 , 6 ," 41,427 "," 11,509 ",Libraries and Archives,28%
+284,334512, 1 , 6 ," 38,625 ", -   ,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use",0%
+87,311211, 1 , 6 ," 33,098 "," 33,400 ",Flour Milling,101%
+94,311421, 2 , 6 ," 22,860 ", -   ,Fruit and Vegetable Canning,0%
+436,445220, 1 , 6 ," 15,900 "," 16,043 ",Fish and Seafood Markets,101%
+156,324191, 1 , 5 ," 145,717 ", -   ,Petroleum Lubricating Oil and Grease Manufacturing,0%
+600,532411, 5 , 5 ," 96,069 ", -   ,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing",0%
+188,327110, 3 , 5 ," 83,832 ", 504 ,"Pottery, Ceramics, and Plumbing Fixture Manufacturing",1%
+403,424710, 1 , 5 ," 68,250 "," 63,650 ",Petroleum Bulk Stations and Terminals,93%
+32,115112, 2 , 5 ," 67,109 ", -   ,"Soil Preparation, Planting, and Cultivating",0%
+257,333611, 2 , 5 ," 54,780 "," 50,506 ",Turbine and Turbine Generator Set Units Manufacturing,92%
+731,622310, 4 , 5 ," 47,997 "," 12,298 ",Specialty (except Psychiatric and Substance Abuse) Hospitals,26%
+173,325910, 1 , 5 ," 44,507 "," 39,748 ",Printing Ink Manufacturing,89%
+539,517410, 3 , 5 ," 42,137 ", -   ,Satellite Telecommunications,0%
+303,336111, 1 , 5 ," 39,795 "," 40,078 ",Automobile Manufacturing,101%
+85,311111, 3 , 5 ," 38,432 "," 15,917 ",Dog and Cat Food Manufacturing,41%
+294,335210, 1 , 5 ," 33,323 "," 33,574 ",Small Electrical Appliance Manufacturing,101%
+498,485119, 1 , 5 ," 30,000 ", -   ,Other Urban Transit Systems,0%
+127,314120, 1 , 5 ," 4,375 ", -   ,Curtain and Linen Mills,0%
+202,331315, 1 , 4 ," 94,424 "," 95,110 ","Aluminum Sheet, Plate, and Foil Manufacturing",101%
+496,485112, 1 , 4 ," 67,633 ", -   ,Commuter Rail Systems,0%
+560,523130, 2 , 4 ," 59,500 "," 38,984 ",Commodity Contracts Dealing,66%
+137,316992, 4 , 4 ," 55,808 ", -   ,Women's Handbag and Purse Manufacturing,0%
+318,336611, 2 , 4 ," 50,423 "," 29,768 ",Ship Building and Repairing,59%
+322,337121, 3 , 4 ," 50,134 "," 17,079 ",Upholstered Household Furniture Manufacturing,34%
+464,452210, 3 , 4 ," 46,226 ", -   ,Department Stores,0%
+465,452210, 3 , 4 ," 46,226 ", -   ,Department Stores,0%
+165,325411, 1 , 4 ," 41,370 ", -   ,Medicinal and Botanical Manufacturing,0%
+514,491110, 2 , 4 ," 39,733 ", -   ,Postal Service,0%
+15,111940, 4 , 4 ," 35,077 ", -   ,Hay Farming,0%
+293,335129, 2 , 4 ," 34,833 ", -   ,Other Lighting Equipment Manufacturing,0%
+309,336330, 2 , 4 ," 33,960 "," 6,950 ",Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,20%
+530,512199, 4 , 4 ," 33,549 "," 4,820 ",Other Motion Picture and Video Industries,14%
+196,327993, 1 , 4 ," 29,577 "," 29,751 ",Mineral Wool Manufacturing,101%
+88,311213, 2 , 4 ," 28,440 "," 7,678 ",Malt Manufacturing,27%
+123,313220, 2 , 4 ," 26,340 ", -   ,Narrow Fabric Mills and Schiffli Machine Embroidery,0%
+213,332311, 2 , 4 ," 25,877 "," 12,545 ",Prefabricated Metal Building and Component Manufacturing,48%
+339,339930, 2 , 4 ," 25,010 ", -   ,"Doll, Toy, and Game Manufacturing",0%
+126,314110, 1 , 4 ," 20,300 ", -   ,Carpet and Rug Mills,0%
+372,423820, 2 , 4 ," 19,265 "," 14,397 ",Farm and Garden Machinery and Equipment Merchant Wholesalers,75%
+519,493190, 2 , 4 ," 11,195 "," 7,660 ",Other Warehousing and Storage,68%
+140,321219, 1 , 4 ," 10,005 ", -   ,Reconstituted Wood Product Manufacturing,0%
+553,522293, 3 , 3 ," 62,499 ", -   ,International Trade Financing,0%
+512,488991, 1 , 3 ," 52,394 "," 52,772 ",Packing and Crating,101%
+400,424590, 3 , 3 ," 50,565 ", -   ,Other Farm Product Raw Material Merchant Wholesalers,0%
+674,561613, 1 , 3 ," 45,400 "," 45,696 ",Armored Car Services,101%
+536,515210, 3 , 3 ," 44,529 ", -   ,Cable and Other Subscription Programming,0%
+392,424440, 1 , 3 ," 41,072 ", -   ,Poultry and Poultry Product Merchant Wholesalers,0%
+17,112111, 3 , 3 ," 39,052 ", -   ,Beef Cattle Ranching and Farming,0%
+463,451212, 3 , 3 ," 35,529 ", -   ,News Dealers and Newsstands,0%
+548,522190, 1 , 3 ," 31,932 ", -   ,Other Depository Credit Intermediation,0%
+547,522130, 1 , 3 ," 30,000 ", -   ,Credit Unions,0%
+11,111411, 1 , 3 ," 28,085 ", -   ,Mushroom Production,0%
+168,325414, 1 , 3 ," 26,265 ", -   ,Biological Product (except Diagnostic) Manufacturing,0%
+121,312230, 2 , 3 ," 26,147 ", -   ,Tobacco Manufacturing,0%
+24,112910, 1 , 3 ," 25,302 "," 25,495 ",Apiculture,101%
+35,115115, 1 , 3 ," 25,043 ", -   ,Farm Labor Contractors and Crew Leaders,0%
+36,115116, 2 , 3 ," 23,607 "," 22,645 ",Farm Management Services,96%
+344,339994, 1 , 3 ," 23,506 "," 23,706 ","Broom, Brush, and Mop Manufacturing",101%
+356,423410, 1 , 3 ," 14,975 "," 15,094 ",Photographic Equipment and Supplies Merchant Wholesalers,101%
+9,111332, 1 , 3 ," 5,900 ", -   ,Grape Vineyards,0%
+170,325611, 2 , 2 ," 41,667 ", -   ,Soap and Other Detergent Manufacturing,0%
+46,213113, 2 , 2 ," 41,666 ", -   ,Support Activities for Coal Mining,0%
+164,325320, 2 , 2 ," 41,666 ", -   ,Pesticide and Other Agricultural Chemical Manufacturing,0%
+22,112420, 2 , 2 ," 32,492 "," 11,723 ",Goat Farming,36%
+4,111160, 2 , 2 ," 31,582 ", -   ,Rice Farming,0%
+840,925120, 2 , 2 ," 28,889 "," 14,546 ",Administration of Urban Planning and Community and Rural Development,50%
+578,525190, 2 , 2 ," 28,800 ", -   ,Other Insurance Funds,0%
+263,333924, 2 , 2 ," 28,522 ", -   ,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing",0%
+844,926140, 2 , 2 ," 26,500 "," 18,018 ",Regulation of Agricultural Marketing and Commodities,68%
+335,339115, 1 , 2 ," 22,425 "," 22,533 ",Ophthalmic Goods Manufacturing,100%
+105,311813, 2 , 2 ," 22,372 ", -   ,"Frozen Cakes, Pies, and Other Pastries Manufacturing",0%
+179,326130, 1 , 2 ," 19,800 "," 19,998 ","Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",101%
+157,324199, 2 , 2 ," 18,915 ", -   ,All Other Petroleum and Coal Products Manufacturing,0%
+117,312113, 1 , 2 ," 17,875 "," 18,022 ",Ice Manufacturing,101%
+20,112340, 1 , 2 ," 17,760 ", -   ,Poultry Hatcheries,0%
+221,332431, 2 , 2 ," 16,513 ", -   ,Metal Can Manufacturing,0%
+286,334515, 1 , 2 ," 16,125 ", -   ,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals,0%
+562,523210, 2 , 2 ," 11,628 "," 5,867 ",Securities and Commodity Exchanges,50%
+508,488210, 1 , 2 ," 10,000 "," 10,080 ",Support Activities for Rail Transportation,101%
+595,532281, 1 , 2 ," 8,810 ", -   ,Formal Wear and Costume Rental,0%
+31,115111, 1 , 2 ," 7,500 ", -   ,Cotton Ginning,0%
+688,562219, 2 , 2 ," 6,216 "," 2,659 ",Other Nonhazardous Waste Treatment and Disposal,43%
+2,111140, 2 , 2 ," 4,416 ", -   ,Wheat Farming,0%
+150,322230, 1 , 2 ," 3,800 ", -   ,Stationery Product Manufacturing,0%
+312,336360, 1 , 1 ," 33,956 ", -   ,Motor Vehicle Seating and Interior Trim Manufacturing,0%
+775,721310, 1 , 1 ," 29,165 ", -   ,"Rooming and Boarding Houses, Dormitories, and Workers' Camps",0%
+846,928120, 1 , 1 ," 28,157 ", -   ,International Affairs,0%
+89,311224, 1 , 1 ," 20,835 ", -   ,Soybean and Other Oilseed Processing,0%
+33,115113, 1 , 1 ," 20,833 ", -   ,"Crop Harvesting, Primarily by Machine",0%
+41,212222, 1 , 1 ," 20,833 ", -   ,Silver Ore Mining,0%
+314,336411, 1 , 1 ," 20,833 ", -   ,Aircraft Manufacturing,0%
+487,483111, 1 , 1 ," 20,833 ", -   ,Deep Sea Freight Transportation,0%
+592,532112, 1 , 1 ," 20,833 ", -   ,Passenger Car Leasing,0%
+1,111130, 1 , 1 ," 20,832 ", -   ,Dry Pea and Bean Farming,0%
+277,334413, 1 , 1 ," 20,832 ", -   ,Semiconductor and Related Device Manufacturing,0%
+473,453930, 1 , 1 ," 20,645 ", -   ,Manufactured (Mobile) Home Dealers,0%
+139,321213, 1 , 1 ," 20,138 ", -   ,Engineered Wood Member (except Truss) Manufacturing,0%
+289,334614, 1 , 1 ," 17,652 "," 17,829 ","Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing",101%
+696,611410, 1 , 1 ," 15,541 ", -   ,Business and Secretarial Schools,0%
+842,926120, 1 , 1 ," 14,710 ", -   ,Regulation and Administration of Transportation Programs,0%
+153,323117, 1 , 1 ," 14,250 ", -   ,Books Printing,0%
+497,485113, 1 , 1 ," 13,525 ", -   ,Bus and Other Motor Vehicle Transit Systems,0%
+457,448320, 1 , 1 ," 12,650 ", -   ,Luggage and Leather Goods Stores,0%
+549,522210, 1 , 1 ," 12,500 "," 12,600 ",Credit Card Issuing,101%
+308,336320, 1 , 1 ," 11,547 ", -   ,Motor Vehicle Electrical and Electronic Equipment Manufacturing,0%
+832,921190, 1 , 1 ," 11,250 ", -   ,Other General Government Support,0%
+830,921120, 1 , 1 ," 10,000 "," 10,102 ",Legislative Bodies,101%
+201,331222, 1 , 1 ," 9,500 "," 9,583 ",Steel Wire Drawing,101%
+410,424950, 1 , 1 ," 9,485 ", -   ,"Paint, Varnish, and Supplies Merchant Wholesalers",0%
+280,334418, 1 , 1 ," 9,229 ", -   ,Printed Circuit Assembly (Electronic Assembly) Manufacturing,0%
+10,111334, 1 , 1 ," 8,362 ", -   ,Berry (except Strawberry) Farming,0%
+130,315190, 1 , 1 ," 8,236 ", -   ,Other Apparel Knitting Mills,0%
+29,114111, 1 , 1 ," 6,255 "," 6,295 ",Finfish Fishing,101%
+543,519110, 1 , 1 ," 4,823 ", -   ,News Syndicates,0%
+245,333243, 1 , 1 ," 4,500 "," 4,539 ","Sawmill, Woodworking, and Paper Machinery Manufacturing",101%
+785,811112, 1 , 1 ," 4,300 ", -   ,Automotive Exhaust System Repair,0%
+523,511140, 1 , 1 ," 3,855 ", -   ,Directory and Mailing List Publishers,0%
+705,611630, 1 , 1 ," 3,139 ", -   ,Language Schools,0%
+21,112410, 1 , 1 ," 2,479 ", -   ,Sheep Farming,0%
+0,111120, 1 , 1 ," 1,600 ", -   ,Oilseed (except Soybean) Farming,0%
+484,481211, 1 , 1 ," 1,089 ", -   ,Nonscheduled Chartered Passenger Air Transportation,0%
+204,331492, 1 , 1 , 833 , -   ,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)",0%
